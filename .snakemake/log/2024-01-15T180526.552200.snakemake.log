@@ -1,0 +1,4 @@
+WorkflowError in file /mnt/d/Users/d2707/Documents/Bioinformatics Institute/Semester_project/Snakefile, line 38:
+Failed to open source file /mnt/d/Users/d2707/Documents/Bioinformatics Institute/Semester_project/raw_data/reads
+IsADirectoryError: [Errno 21] Is a directory: '/mnt/d/Users/d2707/Documents/Bioinformatics Institute/Semester_project/raw_data/reads'
+  File "/mnt/d/Users/d2707/Documents/Bioinformatics Institute/Semester_project/Snakefile", line 38, in <module>

@@ -1,0 +1,23 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 16
+Rules claiming more threads will be scaled down.
+Job stats:
+job            count
+-----------  -------
+reads_unzip        1
+total              1
+
+Select jobs to execute...
+
+[Mon Jan 15 17:03:19 2024]
+rule reads_unzip:
+    output: reads-3.fastq
+    jobid: 0
+    reason: Missing output files: reads-3.fastq
+    wildcards: sample=reads, n=3
+    resources: tmpdir=/tmp
+
+RuleException in rule reads_unzip in file /mnt/d/Users/d2707/Documents/Bioinformatics Institute/Semester_project/Snakefile, line 36:
+AttributeError: 'Params' object has no attribute 'NAME', when formatting the following:
+bzip2 -vcfdk {params.DIR}{params.NAME} > {params.DIR}{output}

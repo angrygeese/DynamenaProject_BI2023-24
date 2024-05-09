@@ -1,0 +1,464 @@
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	gene	1	4409	.	-	.	ID=GENE.NODE_8568_length_4409_cov_279.611544_g701_i2~~NODE_8568_length_4409_cov_279.611544_g701_i2.p1;Name="ORF type:complete (-)"
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	mRNA	1	4409	.	-	.	ID=NODE_8568_length_4409_cov_279.611544_g701_i2.p1;Parent=GENE.NODE_8568_length_4409_cov_279.611544_g701_i2~~NODE_8568_length_4409_cov_279.611544_g701_i2.p1;Name="ORF type:complete (-)"
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	five_prime_UTR	4359	4409	.	-	.	ID=NODE_8568_length_4409_cov_279.611544_g701_i2.p1.utr5p1;Parent=NODE_8568_length_4409_cov_279.611544_g701_i2.p1
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	exon	1	4409	.	-	.	ID=NODE_8568_length_4409_cov_279.611544_g701_i2.p1.exon1;Parent=NODE_8568_length_4409_cov_279.611544_g701_i2.p1
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	CDS	2787	4358	.	-	0	ID=cds.NODE_8568_length_4409_cov_279.611544_g701_i2.p1;Parent=NODE_8568_length_4409_cov_279.611544_g701_i2.p1
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	three_prime_UTR	1	2786	.	-	.	ID=NODE_8568_length_4409_cov_279.611544_g701_i2.p1.utr3p1;Parent=NODE_8568_length_4409_cov_279.611544_g701_i2.p1
+
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	gene	1	4409	.	-	.	ID=GENE.NODE_8568_length_4409_cov_279.611544_g701_i2~~NODE_8568_length_4409_cov_279.611544_g701_i2.p2;Name="ORF type:complete (-)"
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	mRNA	1	4409	.	-	.	ID=NODE_8568_length_4409_cov_279.611544_g701_i2.p2;Parent=GENE.NODE_8568_length_4409_cov_279.611544_g701_i2~~NODE_8568_length_4409_cov_279.611544_g701_i2.p2;Name="ORF type:complete (-)"
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	five_prime_UTR	1935	4409	.	-	.	ID=NODE_8568_length_4409_cov_279.611544_g701_i2.p2.utr5p1;Parent=NODE_8568_length_4409_cov_279.611544_g701_i2.p2
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	exon	1	4409	.	-	.	ID=NODE_8568_length_4409_cov_279.611544_g701_i2.p2.exon1;Parent=NODE_8568_length_4409_cov_279.611544_g701_i2.p2
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	CDS	1269	1934	.	-	0	ID=cds.NODE_8568_length_4409_cov_279.611544_g701_i2.p2;Parent=NODE_8568_length_4409_cov_279.611544_g701_i2.p2
+NODE_8568_length_4409_cov_279.611544_g701_i2	transdecoder	three_prime_UTR	1	1268	.	-	.	ID=NODE_8568_length_4409_cov_279.611544_g701_i2.p2.utr3p1;Parent=NODE_8568_length_4409_cov_279.611544_g701_i2.p2
+
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	gene	1	3435	.	-	.	ID=GENE.NODE_14878_length_3435_cov_248.244988_g1049_i7~~NODE_14878_length_3435_cov_248.244988_g1049_i7.p1;Name="ORF type:complete (-)"
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	mRNA	1	3435	.	-	.	ID=NODE_14878_length_3435_cov_248.244988_g1049_i7.p1;Parent=GENE.NODE_14878_length_3435_cov_248.244988_g1049_i7~~NODE_14878_length_3435_cov_248.244988_g1049_i7.p1;Name="ORF type:complete (-)"
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	five_prime_UTR	3108	3435	.	-	.	ID=NODE_14878_length_3435_cov_248.244988_g1049_i7.p1.utr5p1;Parent=NODE_14878_length_3435_cov_248.244988_g1049_i7.p1
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	exon	1	3435	.	-	.	ID=NODE_14878_length_3435_cov_248.244988_g1049_i7.p1.exon1;Parent=NODE_14878_length_3435_cov_248.244988_g1049_i7.p1
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	CDS	1140	3107	.	-	0	ID=cds.NODE_14878_length_3435_cov_248.244988_g1049_i7.p1;Parent=NODE_14878_length_3435_cov_248.244988_g1049_i7.p1
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	three_prime_UTR	1	1139	.	-	.	ID=NODE_14878_length_3435_cov_248.244988_g1049_i7.p1.utr3p1;Parent=NODE_14878_length_3435_cov_248.244988_g1049_i7.p1
+
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	gene	1	3435	.	-	.	ID=GENE.NODE_14878_length_3435_cov_248.244988_g1049_i7~~NODE_14878_length_3435_cov_248.244988_g1049_i7.p2;Name="ORF type:complete (-)"
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	mRNA	1	3435	.	-	.	ID=NODE_14878_length_3435_cov_248.244988_g1049_i7.p2;Parent=GENE.NODE_14878_length_3435_cov_248.244988_g1049_i7~~NODE_14878_length_3435_cov_248.244988_g1049_i7.p2;Name="ORF type:complete (-)"
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	five_prime_UTR	1024	3435	.	-	.	ID=NODE_14878_length_3435_cov_248.244988_g1049_i7.p2.utr5p1;Parent=NODE_14878_length_3435_cov_248.244988_g1049_i7.p2
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	exon	1	3435	.	-	.	ID=NODE_14878_length_3435_cov_248.244988_g1049_i7.p2.exon1;Parent=NODE_14878_length_3435_cov_248.244988_g1049_i7.p2
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	CDS	655	1023	.	-	0	ID=cds.NODE_14878_length_3435_cov_248.244988_g1049_i7.p2;Parent=NODE_14878_length_3435_cov_248.244988_g1049_i7.p2
+NODE_14878_length_3435_cov_248.244988_g1049_i7	transdecoder	three_prime_UTR	1	654	.	-	.	ID=NODE_14878_length_3435_cov_248.244988_g1049_i7.p2.utr3p1;Parent=NODE_14878_length_3435_cov_248.244988_g1049_i7.p2
+
+NODE_16640_length_3233_cov_492.706583_g1877_i2	transdecoder	gene	1	3233	.	+	.	ID=GENE.NODE_16640_length_3233_cov_492.706583_g1877_i2~~NODE_16640_length_3233_cov_492.706583_g1877_i2.p1;Name="ORF type:5prime_partial (+)"
+NODE_16640_length_3233_cov_492.706583_g1877_i2	transdecoder	mRNA	1	3233	.	+	.	ID=NODE_16640_length_3233_cov_492.706583_g1877_i2.p1;Parent=GENE.NODE_16640_length_3233_cov_492.706583_g1877_i2~~NODE_16640_length_3233_cov_492.706583_g1877_i2.p1;Name="ORF type:5prime_partial (+)"
+NODE_16640_length_3233_cov_492.706583_g1877_i2	transdecoder	exon	1	3233	.	+	.	ID=NODE_16640_length_3233_cov_492.706583_g1877_i2.p1.exon1;Parent=NODE_16640_length_3233_cov_492.706583_g1877_i2.p1
+NODE_16640_length_3233_cov_492.706583_g1877_i2	transdecoder	CDS	3	1607	.	+	0	ID=cds.NODE_16640_length_3233_cov_492.706583_g1877_i2.p1;Parent=NODE_16640_length_3233_cov_492.706583_g1877_i2.p1;5_prime_partial=true
+NODE_16640_length_3233_cov_492.706583_g1877_i2	transdecoder	three_prime_UTR	1608	3233	.	+	.	ID=NODE_16640_length_3233_cov_492.706583_g1877_i2.p1.utr3p1;Parent=NODE_16640_length_3233_cov_492.706583_g1877_i2.p1
+
+NODE_16640_length_3233_cov_492.706583_g1877_i2	transdecoder	gene	1	3233	.	-	.	ID=GENE.NODE_16640_length_3233_cov_492.706583_g1877_i2~~NODE_16640_length_3233_cov_492.706583_g1877_i2.p2;Name="ORF type:complete (-)"
+NODE_16640_length_3233_cov_492.706583_g1877_i2	transdecoder	mRNA	1	3233	.	-	.	ID=NODE_16640_length_3233_cov_492.706583_g1877_i2.p2;Parent=GENE.NODE_16640_length_3233_cov_492.706583_g1877_i2~~NODE_16640_length_3233_cov_492.706583_g1877_i2.p2;Name="ORF type:complete (-)"
+NODE_16640_length_3233_cov_492.706583_g1877_i2	transdecoder	five_prime_UTR	3145	3233	.	-	.	ID=NODE_16640_length_3233_cov_492.706583_g1877_i2.p2.utr5p1;Parent=NODE_16640_length_3233_cov_492.706583_g1877_i2.p2
+NODE_16640_length_3233_cov_492.706583_g1877_i2	transdecoder	exon	1	3233	.	-	.	ID=NODE_16640_length_3233_cov_492.706583_g1877_i2.p2.exon1;Parent=NODE_16640_length_3233_cov_492.706583_g1877_i2.p2
+NODE_16640_length_3233_cov_492.706583_g1877_i2	transdecoder	CDS	2422	3144	.	-	0	ID=cds.NODE_16640_length_3233_cov_492.706583_g1877_i2.p2;Parent=NODE_16640_length_3233_cov_492.706583_g1877_i2.p2
+NODE_16640_length_3233_cov_492.706583_g1877_i2	transdecoder	three_prime_UTR	1	2421	.	-	.	ID=NODE_16640_length_3233_cov_492.706583_g1877_i2.p2.utr3p1;Parent=NODE_16640_length_3233_cov_492.706583_g1877_i2.p2
+
+NODE_22344_length_2723_cov_310.521642_g5470_i0	transdecoder	gene	1	2723	.	+	.	ID=GENE.NODE_22344_length_2723_cov_310.521642_g5470_i0~~NODE_22344_length_2723_cov_310.521642_g5470_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_22344_length_2723_cov_310.521642_g5470_i0	transdecoder	mRNA	1	2723	.	+	.	ID=NODE_22344_length_2723_cov_310.521642_g5470_i0.p1;Parent=GENE.NODE_22344_length_2723_cov_310.521642_g5470_i0~~NODE_22344_length_2723_cov_310.521642_g5470_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_22344_length_2723_cov_310.521642_g5470_i0	transdecoder	exon	1	2723	.	+	.	ID=NODE_22344_length_2723_cov_310.521642_g5470_i0.p1.exon1;Parent=NODE_22344_length_2723_cov_310.521642_g5470_i0.p1
+NODE_22344_length_2723_cov_310.521642_g5470_i0	transdecoder	CDS	1	1248	.	+	0	ID=cds.NODE_22344_length_2723_cov_310.521642_g5470_i0.p1;Parent=NODE_22344_length_2723_cov_310.521642_g5470_i0.p1;5_prime_partial=true
+NODE_22344_length_2723_cov_310.521642_g5470_i0	transdecoder	three_prime_UTR	1249	2723	.	+	.	ID=NODE_22344_length_2723_cov_310.521642_g5470_i0.p1.utr3p1;Parent=NODE_22344_length_2723_cov_310.521642_g5470_i0.p1
+
+NODE_22344_length_2723_cov_310.521642_g5470_i0	transdecoder	gene	1	2723	.	+	.	ID=GENE.NODE_22344_length_2723_cov_310.521642_g5470_i0~~NODE_22344_length_2723_cov_310.521642_g5470_i0.p2;Name="ORF type:complete (+)"
+NODE_22344_length_2723_cov_310.521642_g5470_i0	transdecoder	mRNA	1	2723	.	+	.	ID=NODE_22344_length_2723_cov_310.521642_g5470_i0.p2;Parent=GENE.NODE_22344_length_2723_cov_310.521642_g5470_i0~~NODE_22344_length_2723_cov_310.521642_g5470_i0.p2;Name="ORF type:complete (+)"
+NODE_22344_length_2723_cov_310.521642_g5470_i0	transdecoder	five_prime_UTR	1	1237	.	+	.	ID=NODE_22344_length_2723_cov_310.521642_g5470_i0.p2.utr5p1;Parent=NODE_22344_length_2723_cov_310.521642_g5470_i0.p2
+NODE_22344_length_2723_cov_310.521642_g5470_i0	transdecoder	exon	1	2723	.	+	.	ID=NODE_22344_length_2723_cov_310.521642_g5470_i0.p2.exon1;Parent=NODE_22344_length_2723_cov_310.521642_g5470_i0.p2
+NODE_22344_length_2723_cov_310.521642_g5470_i0	transdecoder	CDS	1238	1951	.	+	0	ID=cds.NODE_22344_length_2723_cov_310.521642_g5470_i0.p2;Parent=NODE_22344_length_2723_cov_310.521642_g5470_i0.p2
+NODE_22344_length_2723_cov_310.521642_g5470_i0	transdecoder	three_prime_UTR	1952	2723	.	+	.	ID=NODE_22344_length_2723_cov_310.521642_g5470_i0.p2.utr3p1;Parent=NODE_22344_length_2723_cov_310.521642_g5470_i0.p2
+
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	gene	1	2270	.	-	.	ID=GENE.NODE_29029_length_2270_cov_556.319713_g6644_i2~~NODE_29029_length_2270_cov_556.319713_g6644_i2.p1;Name="ORF type:complete (-)"
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	mRNA	1	2270	.	-	.	ID=NODE_29029_length_2270_cov_556.319713_g6644_i2.p1;Parent=GENE.NODE_29029_length_2270_cov_556.319713_g6644_i2~~NODE_29029_length_2270_cov_556.319713_g6644_i2.p1;Name="ORF type:complete (-)"
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	five_prime_UTR	1220	2270	.	-	.	ID=NODE_29029_length_2270_cov_556.319713_g6644_i2.p1.utr5p1;Parent=NODE_29029_length_2270_cov_556.319713_g6644_i2.p1
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	exon	1	2270	.	-	.	ID=NODE_29029_length_2270_cov_556.319713_g6644_i2.p1.exon1;Parent=NODE_29029_length_2270_cov_556.319713_g6644_i2.p1
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	CDS	317	1219	.	-	0	ID=cds.NODE_29029_length_2270_cov_556.319713_g6644_i2.p1;Parent=NODE_29029_length_2270_cov_556.319713_g6644_i2.p1
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	three_prime_UTR	1	316	.	-	.	ID=NODE_29029_length_2270_cov_556.319713_g6644_i2.p1.utr3p1;Parent=NODE_29029_length_2270_cov_556.319713_g6644_i2.p1
+
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	gene	1	2270	.	+	.	ID=GENE.NODE_29029_length_2270_cov_556.319713_g6644_i2~~NODE_29029_length_2270_cov_556.319713_g6644_i2.p2;Name="ORF type:complete (+)"
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	mRNA	1	2270	.	+	.	ID=NODE_29029_length_2270_cov_556.319713_g6644_i2.p2;Parent=GENE.NODE_29029_length_2270_cov_556.319713_g6644_i2~~NODE_29029_length_2270_cov_556.319713_g6644_i2.p2;Name="ORF type:complete (+)"
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	five_prime_UTR	1	595	.	+	.	ID=NODE_29029_length_2270_cov_556.319713_g6644_i2.p2.utr5p1;Parent=NODE_29029_length_2270_cov_556.319713_g6644_i2.p2
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	exon	1	2270	.	+	.	ID=NODE_29029_length_2270_cov_556.319713_g6644_i2.p2.exon1;Parent=NODE_29029_length_2270_cov_556.319713_g6644_i2.p2
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	CDS	596	1051	.	+	0	ID=cds.NODE_29029_length_2270_cov_556.319713_g6644_i2.p2;Parent=NODE_29029_length_2270_cov_556.319713_g6644_i2.p2
+NODE_29029_length_2270_cov_556.319713_g6644_i2	transdecoder	three_prime_UTR	1052	2270	.	+	.	ID=NODE_29029_length_2270_cov_556.319713_g6644_i2.p2.utr3p1;Parent=NODE_29029_length_2270_cov_556.319713_g6644_i2.p2
+
+NODE_30565_length_2177_cov_924.315370_g3250_i3	transdecoder	gene	1	2177	.	+	.	ID=GENE.NODE_30565_length_2177_cov_924.315370_g3250_i3~~NODE_30565_length_2177_cov_924.315370_g3250_i3.p1;Name="ORF type:complete (+)"
+NODE_30565_length_2177_cov_924.315370_g3250_i3	transdecoder	mRNA	1	2177	.	+	.	ID=NODE_30565_length_2177_cov_924.315370_g3250_i3.p1;Parent=GENE.NODE_30565_length_2177_cov_924.315370_g3250_i3~~NODE_30565_length_2177_cov_924.315370_g3250_i3.p1;Name="ORF type:complete (+)"
+NODE_30565_length_2177_cov_924.315370_g3250_i3	transdecoder	exon	1	2177	.	+	.	ID=NODE_30565_length_2177_cov_924.315370_g3250_i3.p1.exon1;Parent=NODE_30565_length_2177_cov_924.315370_g3250_i3.p1
+NODE_30565_length_2177_cov_924.315370_g3250_i3	transdecoder	CDS	1	1425	.	+	0	ID=cds.NODE_30565_length_2177_cov_924.315370_g3250_i3.p1;Parent=NODE_30565_length_2177_cov_924.315370_g3250_i3.p1
+NODE_30565_length_2177_cov_924.315370_g3250_i3	transdecoder	three_prime_UTR	1426	2177	.	+	.	ID=NODE_30565_length_2177_cov_924.315370_g3250_i3.p1.utr3p1;Parent=NODE_30565_length_2177_cov_924.315370_g3250_i3.p1
+
+NODE_30565_length_2177_cov_924.315370_g3250_i3	transdecoder	gene	1	2177	.	-	.	ID=GENE.NODE_30565_length_2177_cov_924.315370_g3250_i3~~NODE_30565_length_2177_cov_924.315370_g3250_i3.p2;Name="ORF type:complete (-)"
+NODE_30565_length_2177_cov_924.315370_g3250_i3	transdecoder	mRNA	1	2177	.	-	.	ID=NODE_30565_length_2177_cov_924.315370_g3250_i3.p2;Parent=GENE.NODE_30565_length_2177_cov_924.315370_g3250_i3~~NODE_30565_length_2177_cov_924.315370_g3250_i3.p2;Name="ORF type:complete (-)"
+NODE_30565_length_2177_cov_924.315370_g3250_i3	transdecoder	five_prime_UTR	868	2177	.	-	.	ID=NODE_30565_length_2177_cov_924.315370_g3250_i3.p2.utr5p1;Parent=NODE_30565_length_2177_cov_924.315370_g3250_i3.p2
+NODE_30565_length_2177_cov_924.315370_g3250_i3	transdecoder	exon	1	2177	.	-	.	ID=NODE_30565_length_2177_cov_924.315370_g3250_i3.p2.exon1;Parent=NODE_30565_length_2177_cov_924.315370_g3250_i3.p2
+NODE_30565_length_2177_cov_924.315370_g3250_i3	transdecoder	CDS	565	867	.	-	0	ID=cds.NODE_30565_length_2177_cov_924.315370_g3250_i3.p2;Parent=NODE_30565_length_2177_cov_924.315370_g3250_i3.p2
+NODE_30565_length_2177_cov_924.315370_g3250_i3	transdecoder	three_prime_UTR	1	564	.	-	.	ID=NODE_30565_length_2177_cov_924.315370_g3250_i3.p2.utr3p1;Parent=NODE_30565_length_2177_cov_924.315370_g3250_i3.p2
+
+NODE_31084_length_2146_cov_926.253447_g3250_i4	transdecoder	gene	1	2146	.	+	.	ID=GENE.NODE_31084_length_2146_cov_926.253447_g3250_i4~~NODE_31084_length_2146_cov_926.253447_g3250_i4.p1;Name="ORF type:complete (+)"
+NODE_31084_length_2146_cov_926.253447_g3250_i4	transdecoder	mRNA	1	2146	.	+	.	ID=NODE_31084_length_2146_cov_926.253447_g3250_i4.p1;Parent=GENE.NODE_31084_length_2146_cov_926.253447_g3250_i4~~NODE_31084_length_2146_cov_926.253447_g3250_i4.p1;Name="ORF type:complete (+)"
+NODE_31084_length_2146_cov_926.253447_g3250_i4	transdecoder	exon	1	2146	.	+	.	ID=NODE_31084_length_2146_cov_926.253447_g3250_i4.p1.exon1;Parent=NODE_31084_length_2146_cov_926.253447_g3250_i4.p1
+NODE_31084_length_2146_cov_926.253447_g3250_i4	transdecoder	CDS	1	1425	.	+	0	ID=cds.NODE_31084_length_2146_cov_926.253447_g3250_i4.p1;Parent=NODE_31084_length_2146_cov_926.253447_g3250_i4.p1
+NODE_31084_length_2146_cov_926.253447_g3250_i4	transdecoder	three_prime_UTR	1426	2146	.	+	.	ID=NODE_31084_length_2146_cov_926.253447_g3250_i4.p1.utr3p1;Parent=NODE_31084_length_2146_cov_926.253447_g3250_i4.p1
+
+NODE_31084_length_2146_cov_926.253447_g3250_i4	transdecoder	gene	1	2146	.	-	.	ID=GENE.NODE_31084_length_2146_cov_926.253447_g3250_i4~~NODE_31084_length_2146_cov_926.253447_g3250_i4.p2;Name="ORF type:complete (-)"
+NODE_31084_length_2146_cov_926.253447_g3250_i4	transdecoder	mRNA	1	2146	.	-	.	ID=NODE_31084_length_2146_cov_926.253447_g3250_i4.p2;Parent=GENE.NODE_31084_length_2146_cov_926.253447_g3250_i4~~NODE_31084_length_2146_cov_926.253447_g3250_i4.p2;Name="ORF type:complete (-)"
+NODE_31084_length_2146_cov_926.253447_g3250_i4	transdecoder	five_prime_UTR	868	2146	.	-	.	ID=NODE_31084_length_2146_cov_926.253447_g3250_i4.p2.utr5p1;Parent=NODE_31084_length_2146_cov_926.253447_g3250_i4.p2
+NODE_31084_length_2146_cov_926.253447_g3250_i4	transdecoder	exon	1	2146	.	-	.	ID=NODE_31084_length_2146_cov_926.253447_g3250_i4.p2.exon1;Parent=NODE_31084_length_2146_cov_926.253447_g3250_i4.p2
+NODE_31084_length_2146_cov_926.253447_g3250_i4	transdecoder	CDS	565	867	.	-	0	ID=cds.NODE_31084_length_2146_cov_926.253447_g3250_i4.p2;Parent=NODE_31084_length_2146_cov_926.253447_g3250_i4.p2
+NODE_31084_length_2146_cov_926.253447_g3250_i4	transdecoder	three_prime_UTR	1	564	.	-	.	ID=NODE_31084_length_2146_cov_926.253447_g3250_i4.p2.utr3p1;Parent=NODE_31084_length_2146_cov_926.253447_g3250_i4.p2
+
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	gene	1	2105	.	-	.	ID=GENE.NODE_31789_length_2105_cov_515.615907_g6029_i3~~NODE_31789_length_2105_cov_515.615907_g6029_i3.p1;Name="ORF type:complete (-)"
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	mRNA	1	2105	.	-	.	ID=NODE_31789_length_2105_cov_515.615907_g6029_i3.p1;Parent=GENE.NODE_31789_length_2105_cov_515.615907_g6029_i3~~NODE_31789_length_2105_cov_515.615907_g6029_i3.p1;Name="ORF type:complete (-)"
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	five_prime_UTR	1866	2105	.	-	.	ID=NODE_31789_length_2105_cov_515.615907_g6029_i3.p1.utr5p1;Parent=NODE_31789_length_2105_cov_515.615907_g6029_i3.p1
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	exon	1	2105	.	-	.	ID=NODE_31789_length_2105_cov_515.615907_g6029_i3.p1.exon1;Parent=NODE_31789_length_2105_cov_515.615907_g6029_i3.p1
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	CDS	699	1865	.	-	0	ID=cds.NODE_31789_length_2105_cov_515.615907_g6029_i3.p1;Parent=NODE_31789_length_2105_cov_515.615907_g6029_i3.p1
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	three_prime_UTR	1	698	.	-	.	ID=NODE_31789_length_2105_cov_515.615907_g6029_i3.p1.utr3p1;Parent=NODE_31789_length_2105_cov_515.615907_g6029_i3.p1
+
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	gene	1	2105	.	+	.	ID=GENE.NODE_31789_length_2105_cov_515.615907_g6029_i3~~NODE_31789_length_2105_cov_515.615907_g6029_i3.p2;Name="ORF type:complete (+)"
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	mRNA	1	2105	.	+	.	ID=NODE_31789_length_2105_cov_515.615907_g6029_i3.p2;Parent=GENE.NODE_31789_length_2105_cov_515.615907_g6029_i3~~NODE_31789_length_2105_cov_515.615907_g6029_i3.p2;Name="ORF type:complete (+)"
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	five_prime_UTR	1	1520	.	+	.	ID=NODE_31789_length_2105_cov_515.615907_g6029_i3.p2.utr5p1;Parent=NODE_31789_length_2105_cov_515.615907_g6029_i3.p2
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	exon	1	2105	.	+	.	ID=NODE_31789_length_2105_cov_515.615907_g6029_i3.p2.exon1;Parent=NODE_31789_length_2105_cov_515.615907_g6029_i3.p2
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	CDS	1521	1823	.	+	0	ID=cds.NODE_31789_length_2105_cov_515.615907_g6029_i3.p2;Parent=NODE_31789_length_2105_cov_515.615907_g6029_i3.p2
+NODE_31789_length_2105_cov_515.615907_g6029_i3	transdecoder	three_prime_UTR	1824	2105	.	+	.	ID=NODE_31789_length_2105_cov_515.615907_g6029_i3.p2.utr3p1;Parent=NODE_31789_length_2105_cov_515.615907_g6029_i3.p2
+
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	gene	1	2038	.	+	.	ID=GENE.NODE_32974_length_2038_cov_334.794987_g7101_i3~~NODE_32974_length_2038_cov_334.794987_g7101_i3.p1;Name="ORF type:complete (+)"
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	mRNA	1	2038	.	+	.	ID=NODE_32974_length_2038_cov_334.794987_g7101_i3.p1;Parent=GENE.NODE_32974_length_2038_cov_334.794987_g7101_i3~~NODE_32974_length_2038_cov_334.794987_g7101_i3.p1;Name="ORF type:complete (+)"
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	five_prime_UTR	1	100	.	+	.	ID=NODE_32974_length_2038_cov_334.794987_g7101_i3.p1.utr5p1;Parent=NODE_32974_length_2038_cov_334.794987_g7101_i3.p1
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	exon	1	2038	.	+	.	ID=NODE_32974_length_2038_cov_334.794987_g7101_i3.p1.exon1;Parent=NODE_32974_length_2038_cov_334.794987_g7101_i3.p1
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	CDS	101	895	.	+	0	ID=cds.NODE_32974_length_2038_cov_334.794987_g7101_i3.p1;Parent=NODE_32974_length_2038_cov_334.794987_g7101_i3.p1
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	three_prime_UTR	896	2038	.	+	.	ID=NODE_32974_length_2038_cov_334.794987_g7101_i3.p1.utr3p1;Parent=NODE_32974_length_2038_cov_334.794987_g7101_i3.p1
+
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	gene	1	2038	.	-	.	ID=GENE.NODE_32974_length_2038_cov_334.794987_g7101_i3~~NODE_32974_length_2038_cov_334.794987_g7101_i3.p2;Name="ORF type:complete (-)"
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	mRNA	1	2038	.	-	.	ID=NODE_32974_length_2038_cov_334.794987_g7101_i3.p2;Parent=GENE.NODE_32974_length_2038_cov_334.794987_g7101_i3~~NODE_32974_length_2038_cov_334.794987_g7101_i3.p2;Name="ORF type:complete (-)"
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	five_prime_UTR	902	2038	.	-	.	ID=NODE_32974_length_2038_cov_334.794987_g7101_i3.p2.utr5p1;Parent=NODE_32974_length_2038_cov_334.794987_g7101_i3.p2
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	exon	1	2038	.	-	.	ID=NODE_32974_length_2038_cov_334.794987_g7101_i3.p2.exon1;Parent=NODE_32974_length_2038_cov_334.794987_g7101_i3.p2
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	CDS	563	901	.	-	0	ID=cds.NODE_32974_length_2038_cov_334.794987_g7101_i3.p2;Parent=NODE_32974_length_2038_cov_334.794987_g7101_i3.p2
+NODE_32974_length_2038_cov_334.794987_g7101_i3	transdecoder	three_prime_UTR	1	562	.	-	.	ID=NODE_32974_length_2038_cov_334.794987_g7101_i3.p2.utr3p1;Parent=NODE_32974_length_2038_cov_334.794987_g7101_i3.p2
+
+NODE_36064_length_1873_cov_392.544262_g4514_i8	transdecoder	gene	1	1873	.	-	.	ID=GENE.NODE_36064_length_1873_cov_392.544262_g4514_i8~~NODE_36064_length_1873_cov_392.544262_g4514_i8.p1;Name="ORF type:complete (-)"
+NODE_36064_length_1873_cov_392.544262_g4514_i8	transdecoder	mRNA	1	1873	.	-	.	ID=NODE_36064_length_1873_cov_392.544262_g4514_i8.p1;Parent=GENE.NODE_36064_length_1873_cov_392.544262_g4514_i8~~NODE_36064_length_1873_cov_392.544262_g4514_i8.p1;Name="ORF type:complete (-)"
+NODE_36064_length_1873_cov_392.544262_g4514_i8	transdecoder	five_prime_UTR	1641	1873	.	-	.	ID=NODE_36064_length_1873_cov_392.544262_g4514_i8.p1.utr5p1;Parent=NODE_36064_length_1873_cov_392.544262_g4514_i8.p1
+NODE_36064_length_1873_cov_392.544262_g4514_i8	transdecoder	exon	1	1873	.	-	.	ID=NODE_36064_length_1873_cov_392.544262_g4514_i8.p1.exon1;Parent=NODE_36064_length_1873_cov_392.544262_g4514_i8.p1
+NODE_36064_length_1873_cov_392.544262_g4514_i8	transdecoder	CDS	600	1640	.	-	0	ID=cds.NODE_36064_length_1873_cov_392.544262_g4514_i8.p1;Parent=NODE_36064_length_1873_cov_392.544262_g4514_i8.p1
+NODE_36064_length_1873_cov_392.544262_g4514_i8	transdecoder	three_prime_UTR	1	599	.	-	.	ID=NODE_36064_length_1873_cov_392.544262_g4514_i8.p1.utr3p1;Parent=NODE_36064_length_1873_cov_392.544262_g4514_i8.p1
+
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	gene	1	1848	.	-	.	ID=GENE.NODE_36548_length_1848_cov_308.627701_g9116_i1~~NODE_36548_length_1848_cov_308.627701_g9116_i1.p1;Name="ORF type:complete (-)"
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	mRNA	1	1848	.	-	.	ID=NODE_36548_length_1848_cov_308.627701_g9116_i1.p1;Parent=GENE.NODE_36548_length_1848_cov_308.627701_g9116_i1~~NODE_36548_length_1848_cov_308.627701_g9116_i1.p1;Name="ORF type:complete (-)"
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	five_prime_UTR	1388	1848	.	-	.	ID=NODE_36548_length_1848_cov_308.627701_g9116_i1.p1.utr5p1;Parent=NODE_36548_length_1848_cov_308.627701_g9116_i1.p1
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	exon	1	1848	.	-	.	ID=NODE_36548_length_1848_cov_308.627701_g9116_i1.p1.exon1;Parent=NODE_36548_length_1848_cov_308.627701_g9116_i1.p1
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	CDS	914	1387	.	-	0	ID=cds.NODE_36548_length_1848_cov_308.627701_g9116_i1.p1;Parent=NODE_36548_length_1848_cov_308.627701_g9116_i1.p1
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	three_prime_UTR	1	913	.	-	.	ID=NODE_36548_length_1848_cov_308.627701_g9116_i1.p1.utr3p1;Parent=NODE_36548_length_1848_cov_308.627701_g9116_i1.p1
+
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	gene	1	1848	.	+	.	ID=GENE.NODE_36548_length_1848_cov_308.627701_g9116_i1~~NODE_36548_length_1848_cov_308.627701_g9116_i1.p2;Name="ORF type:complete (+)"
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	mRNA	1	1848	.	+	.	ID=NODE_36548_length_1848_cov_308.627701_g9116_i1.p2;Parent=GENE.NODE_36548_length_1848_cov_308.627701_g9116_i1~~NODE_36548_length_1848_cov_308.627701_g9116_i1.p2;Name="ORF type:complete (+)"
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	five_prime_UTR	1	1264	.	+	.	ID=NODE_36548_length_1848_cov_308.627701_g9116_i1.p2.utr5p1;Parent=NODE_36548_length_1848_cov_308.627701_g9116_i1.p2
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	exon	1	1848	.	+	.	ID=NODE_36548_length_1848_cov_308.627701_g9116_i1.p2.exon1;Parent=NODE_36548_length_1848_cov_308.627701_g9116_i1.p2
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	CDS	1265	1612	.	+	0	ID=cds.NODE_36548_length_1848_cov_308.627701_g9116_i1.p2;Parent=NODE_36548_length_1848_cov_308.627701_g9116_i1.p2
+NODE_36548_length_1848_cov_308.627701_g9116_i1	transdecoder	three_prime_UTR	1613	1848	.	+	.	ID=NODE_36548_length_1848_cov_308.627701_g9116_i1.p2.utr3p1;Parent=NODE_36548_length_1848_cov_308.627701_g9116_i1.p2
+
+NODE_37988_length_1780_cov_72.071387_g9134_i1	transdecoder	gene	1	1780	.	-	.	ID=GENE.NODE_37988_length_1780_cov_72.071387_g9134_i1~~NODE_37988_length_1780_cov_72.071387_g9134_i1.p1;Name="ORF type:5prime_partial (-)"
+NODE_37988_length_1780_cov_72.071387_g9134_i1	transdecoder	mRNA	1	1780	.	-	.	ID=NODE_37988_length_1780_cov_72.071387_g9134_i1.p1;Parent=GENE.NODE_37988_length_1780_cov_72.071387_g9134_i1~~NODE_37988_length_1780_cov_72.071387_g9134_i1.p1;Name="ORF type:5prime_partial (-)"
+NODE_37988_length_1780_cov_72.071387_g9134_i1	transdecoder	exon	1	1780	.	-	.	ID=NODE_37988_length_1780_cov_72.071387_g9134_i1.p1.exon1;Parent=NODE_37988_length_1780_cov_72.071387_g9134_i1.p1
+NODE_37988_length_1780_cov_72.071387_g9134_i1	transdecoder	CDS	383	1780	.	-	0	ID=cds.NODE_37988_length_1780_cov_72.071387_g9134_i1.p1;Parent=NODE_37988_length_1780_cov_72.071387_g9134_i1.p1;5_prime_partial=true
+NODE_37988_length_1780_cov_72.071387_g9134_i1	transdecoder	three_prime_UTR	1	382	.	-	.	ID=NODE_37988_length_1780_cov_72.071387_g9134_i1.p1.utr3p1;Parent=NODE_37988_length_1780_cov_72.071387_g9134_i1.p1
+
+NODE_37988_length_1780_cov_72.071387_g9134_i1	transdecoder	gene	1	1780	.	+	.	ID=GENE.NODE_37988_length_1780_cov_72.071387_g9134_i1~~NODE_37988_length_1780_cov_72.071387_g9134_i1.p2;Name="ORF type:complete (+)"
+NODE_37988_length_1780_cov_72.071387_g9134_i1	transdecoder	mRNA	1	1780	.	+	.	ID=NODE_37988_length_1780_cov_72.071387_g9134_i1.p2;Parent=GENE.NODE_37988_length_1780_cov_72.071387_g9134_i1~~NODE_37988_length_1780_cov_72.071387_g9134_i1.p2;Name="ORF type:complete (+)"
+NODE_37988_length_1780_cov_72.071387_g9134_i1	transdecoder	five_prime_UTR	1	1298	.	+	.	ID=NODE_37988_length_1780_cov_72.071387_g9134_i1.p2.utr5p1;Parent=NODE_37988_length_1780_cov_72.071387_g9134_i1.p2
+NODE_37988_length_1780_cov_72.071387_g9134_i1	transdecoder	exon	1	1780	.	+	.	ID=NODE_37988_length_1780_cov_72.071387_g9134_i1.p2.exon1;Parent=NODE_37988_length_1780_cov_72.071387_g9134_i1.p2
+NODE_37988_length_1780_cov_72.071387_g9134_i1	transdecoder	CDS	1299	1772	.	+	0	ID=cds.NODE_37988_length_1780_cov_72.071387_g9134_i1.p2;Parent=NODE_37988_length_1780_cov_72.071387_g9134_i1.p2
+NODE_37988_length_1780_cov_72.071387_g9134_i1	transdecoder	three_prime_UTR	1773	1780	.	+	.	ID=NODE_37988_length_1780_cov_72.071387_g9134_i1.p2.utr3p1;Parent=NODE_37988_length_1780_cov_72.071387_g9134_i1.p2
+
+NODE_38409_length_1759_cov_338.359557_g9116_i3	transdecoder	gene	1	1759	.	-	.	ID=GENE.NODE_38409_length_1759_cov_338.359557_g9116_i3~~NODE_38409_length_1759_cov_338.359557_g9116_i3.p1;Name="ORF type:complete (-)"
+NODE_38409_length_1759_cov_338.359557_g9116_i3	transdecoder	mRNA	1	1759	.	-	.	ID=NODE_38409_length_1759_cov_338.359557_g9116_i3.p1;Parent=GENE.NODE_38409_length_1759_cov_338.359557_g9116_i3~~NODE_38409_length_1759_cov_338.359557_g9116_i3.p1;Name="ORF type:complete (-)"
+NODE_38409_length_1759_cov_338.359557_g9116_i3	transdecoder	five_prime_UTR	1367	1759	.	-	.	ID=NODE_38409_length_1759_cov_338.359557_g9116_i3.p1.utr5p1;Parent=NODE_38409_length_1759_cov_338.359557_g9116_i3.p1
+NODE_38409_length_1759_cov_338.359557_g9116_i3	transdecoder	exon	1	1759	.	-	.	ID=NODE_38409_length_1759_cov_338.359557_g9116_i3.p1.exon1;Parent=NODE_38409_length_1759_cov_338.359557_g9116_i3.p1
+NODE_38409_length_1759_cov_338.359557_g9116_i3	transdecoder	CDS	914	1366	.	-	0	ID=cds.NODE_38409_length_1759_cov_338.359557_g9116_i3.p1;Parent=NODE_38409_length_1759_cov_338.359557_g9116_i3.p1
+NODE_38409_length_1759_cov_338.359557_g9116_i3	transdecoder	three_prime_UTR	1	913	.	-	.	ID=NODE_38409_length_1759_cov_338.359557_g9116_i3.p1.utr3p1;Parent=NODE_38409_length_1759_cov_338.359557_g9116_i3.p1
+
+NODE_39449_length_1708_cov_264.313514_g9116_i4	transdecoder	gene	1	1708	.	+	.	ID=GENE.NODE_39449_length_1708_cov_264.313514_g9116_i4~~NODE_39449_length_1708_cov_264.313514_g9116_i4.p1;Name="ORF type:complete (+)"
+NODE_39449_length_1708_cov_264.313514_g9116_i4	transdecoder	mRNA	1	1708	.	+	.	ID=NODE_39449_length_1708_cov_264.313514_g9116_i4.p1;Parent=GENE.NODE_39449_length_1708_cov_264.313514_g9116_i4~~NODE_39449_length_1708_cov_264.313514_g9116_i4.p1;Name="ORF type:complete (+)"
+NODE_39449_length_1708_cov_264.313514_g9116_i4	transdecoder	five_prime_UTR	1	393	.	+	.	ID=NODE_39449_length_1708_cov_264.313514_g9116_i4.p1.utr5p1;Parent=NODE_39449_length_1708_cov_264.313514_g9116_i4.p1
+NODE_39449_length_1708_cov_264.313514_g9116_i4	transdecoder	exon	1	1708	.	+	.	ID=NODE_39449_length_1708_cov_264.313514_g9116_i4.p1.exon1;Parent=NODE_39449_length_1708_cov_264.313514_g9116_i4.p1
+NODE_39449_length_1708_cov_264.313514_g9116_i4	transdecoder	CDS	394	846	.	+	0	ID=cds.NODE_39449_length_1708_cov_264.313514_g9116_i4.p1;Parent=NODE_39449_length_1708_cov_264.313514_g9116_i4.p1
+NODE_39449_length_1708_cov_264.313514_g9116_i4	transdecoder	three_prime_UTR	847	1708	.	+	.	ID=NODE_39449_length_1708_cov_264.313514_g9116_i4.p1.utr3p1;Parent=NODE_39449_length_1708_cov_264.313514_g9116_i4.p1
+
+NODE_39538_length_1704_cov_115.721854_g10431_i0	transdecoder	gene	1	1704	.	+	.	ID=GENE.NODE_39538_length_1704_cov_115.721854_g10431_i0~~NODE_39538_length_1704_cov_115.721854_g10431_i0.p1;Name="ORF type:complete (+)"
+NODE_39538_length_1704_cov_115.721854_g10431_i0	transdecoder	mRNA	1	1704	.	+	.	ID=NODE_39538_length_1704_cov_115.721854_g10431_i0.p1;Parent=GENE.NODE_39538_length_1704_cov_115.721854_g10431_i0~~NODE_39538_length_1704_cov_115.721854_g10431_i0.p1;Name="ORF type:complete (+)"
+NODE_39538_length_1704_cov_115.721854_g10431_i0	transdecoder	five_prime_UTR	1	557	.	+	.	ID=NODE_39538_length_1704_cov_115.721854_g10431_i0.p1.utr5p1;Parent=NODE_39538_length_1704_cov_115.721854_g10431_i0.p1
+NODE_39538_length_1704_cov_115.721854_g10431_i0	transdecoder	exon	1	1704	.	+	.	ID=NODE_39538_length_1704_cov_115.721854_g10431_i0.p1.exon1;Parent=NODE_39538_length_1704_cov_115.721854_g10431_i0.p1
+NODE_39538_length_1704_cov_115.721854_g10431_i0	transdecoder	CDS	558	1262	.	+	0	ID=cds.NODE_39538_length_1704_cov_115.721854_g10431_i0.p1;Parent=NODE_39538_length_1704_cov_115.721854_g10431_i0.p1
+NODE_39538_length_1704_cov_115.721854_g10431_i0	transdecoder	three_prime_UTR	1263	1704	.	+	.	ID=NODE_39538_length_1704_cov_115.721854_g10431_i0.p1.utr3p1;Parent=NODE_39538_length_1704_cov_115.721854_g10431_i0.p1
+
+NODE_40316_length_1668_cov_43.980308_g10680_i0	transdecoder	gene	1	1668	.	+	.	ID=GENE.NODE_40316_length_1668_cov_43.980308_g10680_i0~~NODE_40316_length_1668_cov_43.980308_g10680_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_40316_length_1668_cov_43.980308_g10680_i0	transdecoder	mRNA	1	1668	.	+	.	ID=NODE_40316_length_1668_cov_43.980308_g10680_i0.p1;Parent=GENE.NODE_40316_length_1668_cov_43.980308_g10680_i0~~NODE_40316_length_1668_cov_43.980308_g10680_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_40316_length_1668_cov_43.980308_g10680_i0	transdecoder	exon	1	1668	.	+	.	ID=NODE_40316_length_1668_cov_43.980308_g10680_i0.p1.exon1;Parent=NODE_40316_length_1668_cov_43.980308_g10680_i0.p1
+NODE_40316_length_1668_cov_43.980308_g10680_i0	transdecoder	CDS	1	1521	.	+	0	ID=cds.NODE_40316_length_1668_cov_43.980308_g10680_i0.p1;Parent=NODE_40316_length_1668_cov_43.980308_g10680_i0.p1;5_prime_partial=true
+NODE_40316_length_1668_cov_43.980308_g10680_i0	transdecoder	three_prime_UTR	1522	1668	.	+	.	ID=NODE_40316_length_1668_cov_43.980308_g10680_i0.p1.utr3p1;Parent=NODE_40316_length_1668_cov_43.980308_g10680_i0.p1
+
+NODE_40316_length_1668_cov_43.980308_g10680_i0	transdecoder	gene	1	1668	.	+	.	ID=GENE.NODE_40316_length_1668_cov_43.980308_g10680_i0~~NODE_40316_length_1668_cov_43.980308_g10680_i0.p2;Name="ORF type:complete (+)"
+NODE_40316_length_1668_cov_43.980308_g10680_i0	transdecoder	mRNA	1	1668	.	+	.	ID=NODE_40316_length_1668_cov_43.980308_g10680_i0.p2;Parent=GENE.NODE_40316_length_1668_cov_43.980308_g10680_i0~~NODE_40316_length_1668_cov_43.980308_g10680_i0.p2;Name="ORF type:complete (+)"
+NODE_40316_length_1668_cov_43.980308_g10680_i0	transdecoder	five_prime_UTR	1	1178	.	+	.	ID=NODE_40316_length_1668_cov_43.980308_g10680_i0.p2.utr5p1;Parent=NODE_40316_length_1668_cov_43.980308_g10680_i0.p2
+NODE_40316_length_1668_cov_43.980308_g10680_i0	transdecoder	exon	1	1668	.	+	.	ID=NODE_40316_length_1668_cov_43.980308_g10680_i0.p2.exon1;Parent=NODE_40316_length_1668_cov_43.980308_g10680_i0.p2
+NODE_40316_length_1668_cov_43.980308_g10680_i0	transdecoder	CDS	1179	1502	.	+	0	ID=cds.NODE_40316_length_1668_cov_43.980308_g10680_i0.p2;Parent=NODE_40316_length_1668_cov_43.980308_g10680_i0.p2
+NODE_40316_length_1668_cov_43.980308_g10680_i0	transdecoder	three_prime_UTR	1503	1668	.	+	.	ID=NODE_40316_length_1668_cov_43.980308_g10680_i0.p2.utr3p1;Parent=NODE_40316_length_1668_cov_43.980308_g10680_i0.p2
+
+NODE_41200_length_1625_cov_455.115044_g10_i9542	transdecoder	gene	1	1625	.	-	.	ID=GENE.NODE_41200_length_1625_cov_455.115044_g10_i9542~~NODE_41200_length_1625_cov_455.115044_g10_i9542.p1;Name="ORF type:complete (-)"
+NODE_41200_length_1625_cov_455.115044_g10_i9542	transdecoder	mRNA	1	1625	.	-	.	ID=NODE_41200_length_1625_cov_455.115044_g10_i9542.p1;Parent=GENE.NODE_41200_length_1625_cov_455.115044_g10_i9542~~NODE_41200_length_1625_cov_455.115044_g10_i9542.p1;Name="ORF type:complete (-)"
+NODE_41200_length_1625_cov_455.115044_g10_i9542	transdecoder	five_prime_UTR	1549	1625	.	-	.	ID=NODE_41200_length_1625_cov_455.115044_g10_i9542.p1.utr5p1;Parent=NODE_41200_length_1625_cov_455.115044_g10_i9542.p1
+NODE_41200_length_1625_cov_455.115044_g10_i9542	transdecoder	exon	1	1625	.	-	.	ID=NODE_41200_length_1625_cov_455.115044_g10_i9542.p1.exon1;Parent=NODE_41200_length_1625_cov_455.115044_g10_i9542.p1
+NODE_41200_length_1625_cov_455.115044_g10_i9542	transdecoder	CDS	1000	1548	.	-	0	ID=cds.NODE_41200_length_1625_cov_455.115044_g10_i9542.p1;Parent=NODE_41200_length_1625_cov_455.115044_g10_i9542.p1
+NODE_41200_length_1625_cov_455.115044_g10_i9542	transdecoder	three_prime_UTR	1	999	.	-	.	ID=NODE_41200_length_1625_cov_455.115044_g10_i9542.p1.utr3p1;Parent=NODE_41200_length_1625_cov_455.115044_g10_i9542.p1
+
+NODE_46191_length_1408_cov_448.231502_g55_i7	transdecoder	gene	1	1408	.	-	.	ID=GENE.NODE_46191_length_1408_cov_448.231502_g55_i7~~NODE_46191_length_1408_cov_448.231502_g55_i7.p1;Name="ORF type:5prime_partial (-)"
+NODE_46191_length_1408_cov_448.231502_g55_i7	transdecoder	mRNA	1	1408	.	-	.	ID=NODE_46191_length_1408_cov_448.231502_g55_i7.p1;Parent=GENE.NODE_46191_length_1408_cov_448.231502_g55_i7~~NODE_46191_length_1408_cov_448.231502_g55_i7.p1;Name="ORF type:5prime_partial (-)"
+NODE_46191_length_1408_cov_448.231502_g55_i7	transdecoder	exon	1	1408	.	-	.	ID=NODE_46191_length_1408_cov_448.231502_g55_i7.p1.exon1;Parent=NODE_46191_length_1408_cov_448.231502_g55_i7.p1
+NODE_46191_length_1408_cov_448.231502_g55_i7	transdecoder	CDS	497	1408	.	-	0	ID=cds.NODE_46191_length_1408_cov_448.231502_g55_i7.p1;Parent=NODE_46191_length_1408_cov_448.231502_g55_i7.p1;5_prime_partial=true
+NODE_46191_length_1408_cov_448.231502_g55_i7	transdecoder	three_prime_UTR	1	496	.	-	.	ID=NODE_46191_length_1408_cov_448.231502_g55_i7.p1.utr3p1;Parent=NODE_46191_length_1408_cov_448.231502_g55_i7.p1
+
+NODE_46713_length_1386_cov_551.653016_g12864_i0	transdecoder	gene	1	1386	.	-	.	ID=GENE.NODE_46713_length_1386_cov_551.653016_g12864_i0~~NODE_46713_length_1386_cov_551.653016_g12864_i0.p1;Name="ORF type:5prime_partial (-)"
+NODE_46713_length_1386_cov_551.653016_g12864_i0	transdecoder	mRNA	1	1386	.	-	.	ID=NODE_46713_length_1386_cov_551.653016_g12864_i0.p1;Parent=GENE.NODE_46713_length_1386_cov_551.653016_g12864_i0~~NODE_46713_length_1386_cov_551.653016_g12864_i0.p1;Name="ORF type:5prime_partial (-)"
+NODE_46713_length_1386_cov_551.653016_g12864_i0	transdecoder	exon	1	1386	.	-	.	ID=NODE_46713_length_1386_cov_551.653016_g12864_i0.p1.exon1;Parent=NODE_46713_length_1386_cov_551.653016_g12864_i0.p1
+NODE_46713_length_1386_cov_551.653016_g12864_i0	transdecoder	CDS	846	1385	.	-	0	ID=cds.NODE_46713_length_1386_cov_551.653016_g12864_i0.p1;Parent=NODE_46713_length_1386_cov_551.653016_g12864_i0.p1;5_prime_partial=true
+NODE_46713_length_1386_cov_551.653016_g12864_i0	transdecoder	three_prime_UTR	1	845	.	-	.	ID=NODE_46713_length_1386_cov_551.653016_g12864_i0.p1.utr3p1;Parent=NODE_46713_length_1386_cov_551.653016_g12864_i0.p1
+
+NODE_46713_length_1386_cov_551.653016_g12864_i0	transdecoder	gene	1	1386	.	-	.	ID=GENE.NODE_46713_length_1386_cov_551.653016_g12864_i0~~NODE_46713_length_1386_cov_551.653016_g12864_i0.p2;Name="ORF type:5prime_partial (-)"
+NODE_46713_length_1386_cov_551.653016_g12864_i0	transdecoder	mRNA	1	1386	.	-	.	ID=NODE_46713_length_1386_cov_551.653016_g12864_i0.p2;Parent=GENE.NODE_46713_length_1386_cov_551.653016_g12864_i0~~NODE_46713_length_1386_cov_551.653016_g12864_i0.p2;Name="ORF type:5prime_partial (-)"
+NODE_46713_length_1386_cov_551.653016_g12864_i0	transdecoder	exon	1	1386	.	-	.	ID=NODE_46713_length_1386_cov_551.653016_g12864_i0.p2.exon1;Parent=NODE_46713_length_1386_cov_551.653016_g12864_i0.p2
+NODE_46713_length_1386_cov_551.653016_g12864_i0	transdecoder	CDS	937	1386	.	-	0	ID=cds.NODE_46713_length_1386_cov_551.653016_g12864_i0.p2;Parent=NODE_46713_length_1386_cov_551.653016_g12864_i0.p2;5_prime_partial=true
+NODE_46713_length_1386_cov_551.653016_g12864_i0	transdecoder	three_prime_UTR	1	936	.	-	.	ID=NODE_46713_length_1386_cov_551.653016_g12864_i0.p2.utr3p1;Parent=NODE_46713_length_1386_cov_551.653016_g12864_i0.p2
+
+NODE_48795_length_1296_cov_75.446927_g13678_i0	transdecoder	gene	1	1296	.	-	.	ID=GENE.NODE_48795_length_1296_cov_75.446927_g13678_i0~~NODE_48795_length_1296_cov_75.446927_g13678_i0.p1;Name="ORF type:3prime_partial (-)"
+NODE_48795_length_1296_cov_75.446927_g13678_i0	transdecoder	mRNA	1	1296	.	-	.	ID=NODE_48795_length_1296_cov_75.446927_g13678_i0.p1;Parent=GENE.NODE_48795_length_1296_cov_75.446927_g13678_i0~~NODE_48795_length_1296_cov_75.446927_g13678_i0.p1;Name="ORF type:3prime_partial (-)"
+NODE_48795_length_1296_cov_75.446927_g13678_i0	transdecoder	five_prime_UTR	1275	1296	.	-	.	ID=NODE_48795_length_1296_cov_75.446927_g13678_i0.p1.utr5p1;Parent=NODE_48795_length_1296_cov_75.446927_g13678_i0.p1
+NODE_48795_length_1296_cov_75.446927_g13678_i0	transdecoder	exon	1	1296	.	-	.	ID=NODE_48795_length_1296_cov_75.446927_g13678_i0.p1.exon1;Parent=NODE_48795_length_1296_cov_75.446927_g13678_i0.p1
+NODE_48795_length_1296_cov_75.446927_g13678_i0	transdecoder	CDS	3	1274	.	-	0	ID=cds.NODE_48795_length_1296_cov_75.446927_g13678_i0.p1;Parent=NODE_48795_length_1296_cov_75.446927_g13678_i0.p1;3_prime_partial=true
+
+NODE_48795_length_1296_cov_75.446927_g13678_i0	transdecoder	gene	1	1296	.	+	.	ID=GENE.NODE_48795_length_1296_cov_75.446927_g13678_i0~~NODE_48795_length_1296_cov_75.446927_g13678_i0.p2;Name="ORF type:5prime_partial (+)"
+NODE_48795_length_1296_cov_75.446927_g13678_i0	transdecoder	mRNA	1	1296	.	+	.	ID=NODE_48795_length_1296_cov_75.446927_g13678_i0.p2;Parent=GENE.NODE_48795_length_1296_cov_75.446927_g13678_i0~~NODE_48795_length_1296_cov_75.446927_g13678_i0.p2;Name="ORF type:5prime_partial (+)"
+NODE_48795_length_1296_cov_75.446927_g13678_i0	transdecoder	exon	1	1296	.	+	.	ID=NODE_48795_length_1296_cov_75.446927_g13678_i0.p2.exon1;Parent=NODE_48795_length_1296_cov_75.446927_g13678_i0.p2
+NODE_48795_length_1296_cov_75.446927_g13678_i0	transdecoder	CDS	2	646	.	+	0	ID=cds.NODE_48795_length_1296_cov_75.446927_g13678_i0.p2;Parent=NODE_48795_length_1296_cov_75.446927_g13678_i0.p2;5_prime_partial=true
+NODE_48795_length_1296_cov_75.446927_g13678_i0	transdecoder	three_prime_UTR	647	1296	.	+	.	ID=NODE_48795_length_1296_cov_75.446927_g13678_i0.p2.utr3p1;Parent=NODE_48795_length_1296_cov_75.446927_g13678_i0.p2
+
+NODE_48887_length_1293_cov_37.583200_g13722_i0	transdecoder	gene	1	1293	.	-	.	ID=GENE.NODE_48887_length_1293_cov_37.583200_g13722_i0~~NODE_48887_length_1293_cov_37.583200_g13722_i0.p1;Name="ORF type:5prime_partial (-)"
+NODE_48887_length_1293_cov_37.583200_g13722_i0	transdecoder	mRNA	1	1293	.	-	.	ID=NODE_48887_length_1293_cov_37.583200_g13722_i0.p1;Parent=GENE.NODE_48887_length_1293_cov_37.583200_g13722_i0~~NODE_48887_length_1293_cov_37.583200_g13722_i0.p1;Name="ORF type:5prime_partial (-)"
+NODE_48887_length_1293_cov_37.583200_g13722_i0	transdecoder	exon	1	1293	.	-	.	ID=NODE_48887_length_1293_cov_37.583200_g13722_i0.p1.exon1;Parent=NODE_48887_length_1293_cov_37.583200_g13722_i0.p1
+NODE_48887_length_1293_cov_37.583200_g13722_i0	transdecoder	CDS	260	1291	.	-	0	ID=cds.NODE_48887_length_1293_cov_37.583200_g13722_i0.p1;Parent=NODE_48887_length_1293_cov_37.583200_g13722_i0.p1;5_prime_partial=true
+NODE_48887_length_1293_cov_37.583200_g13722_i0	transdecoder	three_prime_UTR	1	259	.	-	.	ID=NODE_48887_length_1293_cov_37.583200_g13722_i0.p1.utr3p1;Parent=NODE_48887_length_1293_cov_37.583200_g13722_i0.p1
+
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	gene	1	1245	.	+	.	ID=GENE.NODE_50117_length_1245_cov_482.574043_g2153_i27~~NODE_50117_length_1245_cov_482.574043_g2153_i27.p1;Name="ORF type:complete (+)"
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	mRNA	1	1245	.	+	.	ID=NODE_50117_length_1245_cov_482.574043_g2153_i27.p1;Parent=GENE.NODE_50117_length_1245_cov_482.574043_g2153_i27~~NODE_50117_length_1245_cov_482.574043_g2153_i27.p1;Name="ORF type:complete (+)"
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	five_prime_UTR	1	282	.	+	.	ID=NODE_50117_length_1245_cov_482.574043_g2153_i27.p1.utr5p1;Parent=NODE_50117_length_1245_cov_482.574043_g2153_i27.p1
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	exon	1	1245	.	+	.	ID=NODE_50117_length_1245_cov_482.574043_g2153_i27.p1.exon1;Parent=NODE_50117_length_1245_cov_482.574043_g2153_i27.p1
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	CDS	283	786	.	+	0	ID=cds.NODE_50117_length_1245_cov_482.574043_g2153_i27.p1;Parent=NODE_50117_length_1245_cov_482.574043_g2153_i27.p1
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	three_prime_UTR	787	1245	.	+	.	ID=NODE_50117_length_1245_cov_482.574043_g2153_i27.p1.utr3p1;Parent=NODE_50117_length_1245_cov_482.574043_g2153_i27.p1
+
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	gene	1	1245	.	+	.	ID=GENE.NODE_50117_length_1245_cov_482.574043_g2153_i27~~NODE_50117_length_1245_cov_482.574043_g2153_i27.p2;Name="ORF type:complete (+)"
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	mRNA	1	1245	.	+	.	ID=NODE_50117_length_1245_cov_482.574043_g2153_i27.p2;Parent=GENE.NODE_50117_length_1245_cov_482.574043_g2153_i27~~NODE_50117_length_1245_cov_482.574043_g2153_i27.p2;Name="ORF type:complete (+)"
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	five_prime_UTR	1	460	.	+	.	ID=NODE_50117_length_1245_cov_482.574043_g2153_i27.p2.utr5p1;Parent=NODE_50117_length_1245_cov_482.574043_g2153_i27.p2
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	exon	1	1245	.	+	.	ID=NODE_50117_length_1245_cov_482.574043_g2153_i27.p2.exon1;Parent=NODE_50117_length_1245_cov_482.574043_g2153_i27.p2
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	CDS	461	850	.	+	0	ID=cds.NODE_50117_length_1245_cov_482.574043_g2153_i27.p2;Parent=NODE_50117_length_1245_cov_482.574043_g2153_i27.p2
+NODE_50117_length_1245_cov_482.574043_g2153_i27	transdecoder	three_prime_UTR	851	1245	.	+	.	ID=NODE_50117_length_1245_cov_482.574043_g2153_i27.p2.utr3p1;Parent=NODE_50117_length_1245_cov_482.574043_g2153_i27.p2
+
+NODE_51610_length_1185_cov_1041.008757_g14806_i0	transdecoder	gene	1	1185	.	+	.	ID=GENE.NODE_51610_length_1185_cov_1041.008757_g14806_i0~~NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1;Name="ORF type:3prime_partial (+)"
+NODE_51610_length_1185_cov_1041.008757_g14806_i0	transdecoder	mRNA	1	1185	.	+	.	ID=NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1;Parent=GENE.NODE_51610_length_1185_cov_1041.008757_g14806_i0~~NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1;Name="ORF type:3prime_partial (+)"
+NODE_51610_length_1185_cov_1041.008757_g14806_i0	transdecoder	five_prime_UTR	1	205	.	+	.	ID=NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1.utr5p1;Parent=NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1
+NODE_51610_length_1185_cov_1041.008757_g14806_i0	transdecoder	exon	1	1185	.	+	.	ID=NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1.exon1;Parent=NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1
+NODE_51610_length_1185_cov_1041.008757_g14806_i0	transdecoder	CDS	206	1183	.	+	0	ID=cds.NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1;Parent=NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1;3_prime_partial=true
+
+NODE_52322_length_1156_cov_254.329739_g10503_i1	transdecoder	gene	1	1156	.	+	.	ID=GENE.NODE_52322_length_1156_cov_254.329739_g10503_i1~~NODE_52322_length_1156_cov_254.329739_g10503_i1.p1;Name="ORF type:complete (+)"
+NODE_52322_length_1156_cov_254.329739_g10503_i1	transdecoder	mRNA	1	1156	.	+	.	ID=NODE_52322_length_1156_cov_254.329739_g10503_i1.p1;Parent=GENE.NODE_52322_length_1156_cov_254.329739_g10503_i1~~NODE_52322_length_1156_cov_254.329739_g10503_i1.p1;Name="ORF type:complete (+)"
+NODE_52322_length_1156_cov_254.329739_g10503_i1	transdecoder	five_prime_UTR	1	66	.	+	.	ID=NODE_52322_length_1156_cov_254.329739_g10503_i1.p1.utr5p1;Parent=NODE_52322_length_1156_cov_254.329739_g10503_i1.p1
+NODE_52322_length_1156_cov_254.329739_g10503_i1	transdecoder	exon	1	1156	.	+	.	ID=NODE_52322_length_1156_cov_254.329739_g10503_i1.p1.exon1;Parent=NODE_52322_length_1156_cov_254.329739_g10503_i1.p1
+NODE_52322_length_1156_cov_254.329739_g10503_i1	transdecoder	CDS	67	573	.	+	0	ID=cds.NODE_52322_length_1156_cov_254.329739_g10503_i1.p1;Parent=NODE_52322_length_1156_cov_254.329739_g10503_i1.p1
+NODE_52322_length_1156_cov_254.329739_g10503_i1	transdecoder	three_prime_UTR	574	1156	.	+	.	ID=NODE_52322_length_1156_cov_254.329739_g10503_i1.p1.utr3p1;Parent=NODE_52322_length_1156_cov_254.329739_g10503_i1.p1
+
+NODE_53043_length_1126_cov_1266.348107_g15154_i1	transdecoder	gene	1	1126	.	-	.	ID=GENE.NODE_53043_length_1126_cov_1266.348107_g15154_i1~~NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1;Name="ORF type:complete (-)"
+NODE_53043_length_1126_cov_1266.348107_g15154_i1	transdecoder	mRNA	1	1126	.	-	.	ID=NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1;Parent=GENE.NODE_53043_length_1126_cov_1266.348107_g15154_i1~~NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1;Name="ORF type:complete (-)"
+NODE_53043_length_1126_cov_1266.348107_g15154_i1	transdecoder	five_prime_UTR	950	1126	.	-	.	ID=NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1.utr5p1;Parent=NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1
+NODE_53043_length_1126_cov_1266.348107_g15154_i1	transdecoder	exon	1	1126	.	-	.	ID=NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1.exon1;Parent=NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1
+NODE_53043_length_1126_cov_1266.348107_g15154_i1	transdecoder	CDS	341	949	.	-	0	ID=cds.NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1;Parent=NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1
+NODE_53043_length_1126_cov_1266.348107_g15154_i1	transdecoder	three_prime_UTR	1	340	.	-	.	ID=NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1.utr3p1;Parent=NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1
+
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	gene	1	1092	.	+	.	ID=GENE.NODE_53944_length_1092_cov_244.231649_g15849_i0~~NODE_53944_length_1092_cov_244.231649_g15849_i0.p1;Name="ORF type:complete (+)"
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	mRNA	1	1092	.	+	.	ID=NODE_53944_length_1092_cov_244.231649_g15849_i0.p1;Parent=GENE.NODE_53944_length_1092_cov_244.231649_g15849_i0~~NODE_53944_length_1092_cov_244.231649_g15849_i0.p1;Name="ORF type:complete (+)"
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	five_prime_UTR	1	61	.	+	.	ID=NODE_53944_length_1092_cov_244.231649_g15849_i0.p1.utr5p1;Parent=NODE_53944_length_1092_cov_244.231649_g15849_i0.p1
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	exon	1	1092	.	+	.	ID=NODE_53944_length_1092_cov_244.231649_g15849_i0.p1.exon1;Parent=NODE_53944_length_1092_cov_244.231649_g15849_i0.p1
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	CDS	62	769	.	+	0	ID=cds.NODE_53944_length_1092_cov_244.231649_g15849_i0.p1;Parent=NODE_53944_length_1092_cov_244.231649_g15849_i0.p1
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	three_prime_UTR	770	1092	.	+	.	ID=NODE_53944_length_1092_cov_244.231649_g15849_i0.p1.utr3p1;Parent=NODE_53944_length_1092_cov_244.231649_g15849_i0.p1
+
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	gene	1	1092	.	-	.	ID=GENE.NODE_53944_length_1092_cov_244.231649_g15849_i0~~NODE_53944_length_1092_cov_244.231649_g15849_i0.p2;Name="ORF type:complete (-)"
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	mRNA	1	1092	.	-	.	ID=NODE_53944_length_1092_cov_244.231649_g15849_i0.p2;Parent=GENE.NODE_53944_length_1092_cov_244.231649_g15849_i0~~NODE_53944_length_1092_cov_244.231649_g15849_i0.p2;Name="ORF type:complete (-)"
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	five_prime_UTR	839	1092	.	-	.	ID=NODE_53944_length_1092_cov_244.231649_g15849_i0.p2.utr5p1;Parent=NODE_53944_length_1092_cov_244.231649_g15849_i0.p2
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	exon	1	1092	.	-	.	ID=NODE_53944_length_1092_cov_244.231649_g15849_i0.p2.exon1;Parent=NODE_53944_length_1092_cov_244.231649_g15849_i0.p2
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	CDS	260	838	.	-	0	ID=cds.NODE_53944_length_1092_cov_244.231649_g15849_i0.p2;Parent=NODE_53944_length_1092_cov_244.231649_g15849_i0.p2
+NODE_53944_length_1092_cov_244.231649_g15849_i0	transdecoder	three_prime_UTR	1	259	.	-	.	ID=NODE_53944_length_1092_cov_244.231649_g15849_i0.p2.utr3p1;Parent=NODE_53944_length_1092_cov_244.231649_g15849_i0.p2
+
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	gene	1	1089	.	+	.	ID=GENE.NODE_54024_length_1089_cov_591.498088_g10_i11390~~NODE_54024_length_1089_cov_591.498088_g10_i11390.p1;Name="ORF type:complete (+)"
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	mRNA	1	1089	.	+	.	ID=NODE_54024_length_1089_cov_591.498088_g10_i11390.p1;Parent=GENE.NODE_54024_length_1089_cov_591.498088_g10_i11390~~NODE_54024_length_1089_cov_591.498088_g10_i11390.p1;Name="ORF type:complete (+)"
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	five_prime_UTR	1	358	.	+	.	ID=NODE_54024_length_1089_cov_591.498088_g10_i11390.p1.utr5p1;Parent=NODE_54024_length_1089_cov_591.498088_g10_i11390.p1
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	exon	1	1089	.	+	.	ID=NODE_54024_length_1089_cov_591.498088_g10_i11390.p1.exon1;Parent=NODE_54024_length_1089_cov_591.498088_g10_i11390.p1
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	CDS	359	1000	.	+	0	ID=cds.NODE_54024_length_1089_cov_591.498088_g10_i11390.p1;Parent=NODE_54024_length_1089_cov_591.498088_g10_i11390.p1
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	three_prime_UTR	1001	1089	.	+	.	ID=NODE_54024_length_1089_cov_591.498088_g10_i11390.p1.utr3p1;Parent=NODE_54024_length_1089_cov_591.498088_g10_i11390.p1
+
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	gene	1	1089	.	+	.	ID=GENE.NODE_54024_length_1089_cov_591.498088_g10_i11390~~NODE_54024_length_1089_cov_591.498088_g10_i11390.p2;Name="ORF type:complete (+)"
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	mRNA	1	1089	.	+	.	ID=NODE_54024_length_1089_cov_591.498088_g10_i11390.p2;Parent=GENE.NODE_54024_length_1089_cov_591.498088_g10_i11390~~NODE_54024_length_1089_cov_591.498088_g10_i11390.p2;Name="ORF type:complete (+)"
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	five_prime_UTR	1	668	.	+	.	ID=NODE_54024_length_1089_cov_591.498088_g10_i11390.p2.utr5p1;Parent=NODE_54024_length_1089_cov_591.498088_g10_i11390.p2
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	exon	1	1089	.	+	.	ID=NODE_54024_length_1089_cov_591.498088_g10_i11390.p2.exon1;Parent=NODE_54024_length_1089_cov_591.498088_g10_i11390.p2
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	CDS	669	989	.	+	0	ID=cds.NODE_54024_length_1089_cov_591.498088_g10_i11390.p2;Parent=NODE_54024_length_1089_cov_591.498088_g10_i11390.p2
+NODE_54024_length_1089_cov_591.498088_g10_i11390	transdecoder	three_prime_UTR	990	1089	.	+	.	ID=NODE_54024_length_1089_cov_591.498088_g10_i11390.p2.utr3p1;Parent=NODE_54024_length_1089_cov_591.498088_g10_i11390.p2
+
+NODE_55973_length_1019_cov_295.808402_g16863_i0	transdecoder	gene	1	1019	.	-	.	ID=GENE.NODE_55973_length_1019_cov_295.808402_g16863_i0~~NODE_55973_length_1019_cov_295.808402_g16863_i0.p1;Name="ORF type:complete (-)"
+NODE_55973_length_1019_cov_295.808402_g16863_i0	transdecoder	mRNA	1	1019	.	-	.	ID=NODE_55973_length_1019_cov_295.808402_g16863_i0.p1;Parent=GENE.NODE_55973_length_1019_cov_295.808402_g16863_i0~~NODE_55973_length_1019_cov_295.808402_g16863_i0.p1;Name="ORF type:complete (-)"
+NODE_55973_length_1019_cov_295.808402_g16863_i0	transdecoder	five_prime_UTR	974	1019	.	-	.	ID=NODE_55973_length_1019_cov_295.808402_g16863_i0.p1.utr5p1;Parent=NODE_55973_length_1019_cov_295.808402_g16863_i0.p1
+NODE_55973_length_1019_cov_295.808402_g16863_i0	transdecoder	exon	1	1019	.	-	.	ID=NODE_55973_length_1019_cov_295.808402_g16863_i0.p1.exon1;Parent=NODE_55973_length_1019_cov_295.808402_g16863_i0.p1
+NODE_55973_length_1019_cov_295.808402_g16863_i0	transdecoder	CDS	74	973	.	-	0	ID=cds.NODE_55973_length_1019_cov_295.808402_g16863_i0.p1;Parent=NODE_55973_length_1019_cov_295.808402_g16863_i0.p1
+NODE_55973_length_1019_cov_295.808402_g16863_i0	transdecoder	three_prime_UTR	1	73	.	-	.	ID=NODE_55973_length_1019_cov_295.808402_g16863_i0.p1.utr3p1;Parent=NODE_55973_length_1019_cov_295.808402_g16863_i0.p1
+
+NODE_56798_length_990_cov_189.288279_g17292_i0	transdecoder	gene	1	990	.	-	.	ID=GENE.NODE_56798_length_990_cov_189.288279_g17292_i0~~NODE_56798_length_990_cov_189.288279_g17292_i0.p1;Name="ORF type:complete (-)"
+NODE_56798_length_990_cov_189.288279_g17292_i0	transdecoder	mRNA	1	990	.	-	.	ID=NODE_56798_length_990_cov_189.288279_g17292_i0.p1;Parent=GENE.NODE_56798_length_990_cov_189.288279_g17292_i0~~NODE_56798_length_990_cov_189.288279_g17292_i0.p1;Name="ORF type:complete (-)"
+NODE_56798_length_990_cov_189.288279_g17292_i0	transdecoder	five_prime_UTR	770	990	.	-	.	ID=NODE_56798_length_990_cov_189.288279_g17292_i0.p1.utr5p1;Parent=NODE_56798_length_990_cov_189.288279_g17292_i0.p1
+NODE_56798_length_990_cov_189.288279_g17292_i0	transdecoder	exon	1	990	.	-	.	ID=NODE_56798_length_990_cov_189.288279_g17292_i0.p1.exon1;Parent=NODE_56798_length_990_cov_189.288279_g17292_i0.p1
+NODE_56798_length_990_cov_189.288279_g17292_i0	transdecoder	CDS	215	769	.	-	0	ID=cds.NODE_56798_length_990_cov_189.288279_g17292_i0.p1;Parent=NODE_56798_length_990_cov_189.288279_g17292_i0.p1
+NODE_56798_length_990_cov_189.288279_g17292_i0	transdecoder	three_prime_UTR	1	214	.	-	.	ID=NODE_56798_length_990_cov_189.288279_g17292_i0.p1.utr3p1;Parent=NODE_56798_length_990_cov_189.288279_g17292_i0.p1
+
+NODE_58353_length_939_cov_28.969866_g18158_i0	transdecoder	gene	1	939	.	+	.	ID=GENE.NODE_58353_length_939_cov_28.969866_g18158_i0~~NODE_58353_length_939_cov_28.969866_g18158_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_58353_length_939_cov_28.969866_g18158_i0	transdecoder	mRNA	1	939	.	+	.	ID=NODE_58353_length_939_cov_28.969866_g18158_i0.p1;Parent=GENE.NODE_58353_length_939_cov_28.969866_g18158_i0~~NODE_58353_length_939_cov_28.969866_g18158_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_58353_length_939_cov_28.969866_g18158_i0	transdecoder	exon	1	939	.	+	.	ID=NODE_58353_length_939_cov_28.969866_g18158_i0.p1.exon1;Parent=NODE_58353_length_939_cov_28.969866_g18158_i0.p1
+NODE_58353_length_939_cov_28.969866_g18158_i0	transdecoder	CDS	3	776	.	+	0	ID=cds.NODE_58353_length_939_cov_28.969866_g18158_i0.p1;Parent=NODE_58353_length_939_cov_28.969866_g18158_i0.p1;5_prime_partial=true
+NODE_58353_length_939_cov_28.969866_g18158_i0	transdecoder	three_prime_UTR	777	939	.	+	.	ID=NODE_58353_length_939_cov_28.969866_g18158_i0.p1.utr3p1;Parent=NODE_58353_length_939_cov_28.969866_g18158_i0.p1
+
+NODE_58353_length_939_cov_28.969866_g18158_i0	transdecoder	gene	1	939	.	-	.	ID=GENE.NODE_58353_length_939_cov_28.969866_g18158_i0~~NODE_58353_length_939_cov_28.969866_g18158_i0.p2;Name="ORF type:complete (-)"
+NODE_58353_length_939_cov_28.969866_g18158_i0	transdecoder	mRNA	1	939	.	-	.	ID=NODE_58353_length_939_cov_28.969866_g18158_i0.p2;Parent=GENE.NODE_58353_length_939_cov_28.969866_g18158_i0~~NODE_58353_length_939_cov_28.969866_g18158_i0.p2;Name="ORF type:complete (-)"
+NODE_58353_length_939_cov_28.969866_g18158_i0	transdecoder	five_prime_UTR	738	939	.	-	.	ID=NODE_58353_length_939_cov_28.969866_g18158_i0.p2.utr5p1;Parent=NODE_58353_length_939_cov_28.969866_g18158_i0.p2
+NODE_58353_length_939_cov_28.969866_g18158_i0	transdecoder	exon	1	939	.	-	.	ID=NODE_58353_length_939_cov_28.969866_g18158_i0.p2.exon1;Parent=NODE_58353_length_939_cov_28.969866_g18158_i0.p2
+NODE_58353_length_939_cov_28.969866_g18158_i0	transdecoder	CDS	117	737	.	-	0	ID=cds.NODE_58353_length_939_cov_28.969866_g18158_i0.p2;Parent=NODE_58353_length_939_cov_28.969866_g18158_i0.p2
+NODE_58353_length_939_cov_28.969866_g18158_i0	transdecoder	three_prime_UTR	1	116	.	-	.	ID=NODE_58353_length_939_cov_28.969866_g18158_i0.p2.utr3p1;Parent=NODE_58353_length_939_cov_28.969866_g18158_i0.p2
+
+NODE_61572_length_832_cov_375.176172_g13484_i2	transdecoder	gene	1	832	.	+	.	ID=GENE.NODE_61572_length_832_cov_375.176172_g13484_i2~~NODE_61572_length_832_cov_375.176172_g13484_i2.p1;Name="ORF type:5prime_partial (+)"
+NODE_61572_length_832_cov_375.176172_g13484_i2	transdecoder	mRNA	1	832	.	+	.	ID=NODE_61572_length_832_cov_375.176172_g13484_i2.p1;Parent=GENE.NODE_61572_length_832_cov_375.176172_g13484_i2~~NODE_61572_length_832_cov_375.176172_g13484_i2.p1;Name="ORF type:5prime_partial (+)"
+NODE_61572_length_832_cov_375.176172_g13484_i2	transdecoder	exon	1	832	.	+	.	ID=NODE_61572_length_832_cov_375.176172_g13484_i2.p1.exon1;Parent=NODE_61572_length_832_cov_375.176172_g13484_i2.p1
+NODE_61572_length_832_cov_375.176172_g13484_i2	transdecoder	CDS	3	566	.	+	0	ID=cds.NODE_61572_length_832_cov_375.176172_g13484_i2.p1;Parent=NODE_61572_length_832_cov_375.176172_g13484_i2.p1;5_prime_partial=true
+NODE_61572_length_832_cov_375.176172_g13484_i2	transdecoder	three_prime_UTR	567	832	.	+	.	ID=NODE_61572_length_832_cov_375.176172_g13484_i2.p1.utr3p1;Parent=NODE_61572_length_832_cov_375.176172_g13484_i2.p1
+
+NODE_62097_length_816_cov_16.260026_g20427_i0	transdecoder	gene	1	816	.	+	.	ID=GENE.NODE_62097_length_816_cov_16.260026_g20427_i0~~NODE_62097_length_816_cov_16.260026_g20427_i0.p1;Name="ORF type:internal (+)"
+NODE_62097_length_816_cov_16.260026_g20427_i0	transdecoder	mRNA	1	816	.	+	.	ID=NODE_62097_length_816_cov_16.260026_g20427_i0.p1;Parent=GENE.NODE_62097_length_816_cov_16.260026_g20427_i0~~NODE_62097_length_816_cov_16.260026_g20427_i0.p1;Name="ORF type:internal (+)"
+NODE_62097_length_816_cov_16.260026_g20427_i0	transdecoder	exon	1	816	.	+	.	ID=NODE_62097_length_816_cov_16.260026_g20427_i0.p1.exon1;Parent=NODE_62097_length_816_cov_16.260026_g20427_i0.p1
+NODE_62097_length_816_cov_16.260026_g20427_i0	transdecoder	CDS	1	816	.	+	0	ID=cds.NODE_62097_length_816_cov_16.260026_g20427_i0.p1;Parent=NODE_62097_length_816_cov_16.260026_g20427_i0.p1;5_prime_partial=true;3_prime_partial=true
+
+NODE_63341_length_778_cov_88.424490_g16070_i2	transdecoder	gene	1	778	.	+	.	ID=GENE.NODE_63341_length_778_cov_88.424490_g16070_i2~~NODE_63341_length_778_cov_88.424490_g16070_i2.p1;Name="ORF type:5prime_partial (+)"
+NODE_63341_length_778_cov_88.424490_g16070_i2	transdecoder	mRNA	1	778	.	+	.	ID=NODE_63341_length_778_cov_88.424490_g16070_i2.p1;Parent=GENE.NODE_63341_length_778_cov_88.424490_g16070_i2~~NODE_63341_length_778_cov_88.424490_g16070_i2.p1;Name="ORF type:5prime_partial (+)"
+NODE_63341_length_778_cov_88.424490_g16070_i2	transdecoder	exon	1	778	.	+	.	ID=NODE_63341_length_778_cov_88.424490_g16070_i2.p1.exon1;Parent=NODE_63341_length_778_cov_88.424490_g16070_i2.p1
+NODE_63341_length_778_cov_88.424490_g16070_i2	transdecoder	CDS	1	729	.	+	0	ID=cds.NODE_63341_length_778_cov_88.424490_g16070_i2.p1;Parent=NODE_63341_length_778_cov_88.424490_g16070_i2.p1;5_prime_partial=true
+NODE_63341_length_778_cov_88.424490_g16070_i2	transdecoder	three_prime_UTR	730	778	.	+	.	ID=NODE_63341_length_778_cov_88.424490_g16070_i2.p1.utr3p1;Parent=NODE_63341_length_778_cov_88.424490_g16070_i2.p1
+
+NODE_63341_length_778_cov_88.424490_g16070_i2	transdecoder	gene	1	778	.	+	.	ID=GENE.NODE_63341_length_778_cov_88.424490_g16070_i2~~NODE_63341_length_778_cov_88.424490_g16070_i2.p2;Name="ORF type:complete (+)"
+NODE_63341_length_778_cov_88.424490_g16070_i2	transdecoder	mRNA	1	778	.	+	.	ID=NODE_63341_length_778_cov_88.424490_g16070_i2.p2;Parent=GENE.NODE_63341_length_778_cov_88.424490_g16070_i2~~NODE_63341_length_778_cov_88.424490_g16070_i2.p2;Name="ORF type:complete (+)"
+NODE_63341_length_778_cov_88.424490_g16070_i2	transdecoder	five_prime_UTR	1	328	.	+	.	ID=NODE_63341_length_778_cov_88.424490_g16070_i2.p2.utr5p1;Parent=NODE_63341_length_778_cov_88.424490_g16070_i2.p2
+NODE_63341_length_778_cov_88.424490_g16070_i2	transdecoder	exon	1	778	.	+	.	ID=NODE_63341_length_778_cov_88.424490_g16070_i2.p2.exon1;Parent=NODE_63341_length_778_cov_88.424490_g16070_i2.p2
+NODE_63341_length_778_cov_88.424490_g16070_i2	transdecoder	CDS	329	655	.	+	0	ID=cds.NODE_63341_length_778_cov_88.424490_g16070_i2.p2;Parent=NODE_63341_length_778_cov_88.424490_g16070_i2.p2
+NODE_63341_length_778_cov_88.424490_g16070_i2	transdecoder	three_prime_UTR	656	778	.	+	.	ID=NODE_63341_length_778_cov_88.424490_g16070_i2.p2.utr3p1;Parent=NODE_63341_length_778_cov_88.424490_g16070_i2.p2
+
+NODE_65404_length_717_cov_420.952522_g22751_i0	transdecoder	gene	1	717	.	+	.	ID=GENE.NODE_65404_length_717_cov_420.952522_g22751_i0~~NODE_65404_length_717_cov_420.952522_g22751_i0.p1;Name="ORF type:internal (+)"
+NODE_65404_length_717_cov_420.952522_g22751_i0	transdecoder	mRNA	1	717	.	+	.	ID=NODE_65404_length_717_cov_420.952522_g22751_i0.p1;Parent=GENE.NODE_65404_length_717_cov_420.952522_g22751_i0~~NODE_65404_length_717_cov_420.952522_g22751_i0.p1;Name="ORF type:internal (+)"
+NODE_65404_length_717_cov_420.952522_g22751_i0	transdecoder	exon	1	717	.	+	.	ID=NODE_65404_length_717_cov_420.952522_g22751_i0.p1.exon1;Parent=NODE_65404_length_717_cov_420.952522_g22751_i0.p1
+NODE_65404_length_717_cov_420.952522_g22751_i0	transdecoder	CDS	3	716	.	+	0	ID=cds.NODE_65404_length_717_cov_420.952522_g22751_i0.p1;Parent=NODE_65404_length_717_cov_420.952522_g22751_i0.p1;5_prime_partial=true;3_prime_partial=true
+
+NODE_67460_length_664_cov_75.223833_g24350_i0	transdecoder	gene	1	664	.	-	.	ID=GENE.NODE_67460_length_664_cov_75.223833_g24350_i0~~NODE_67460_length_664_cov_75.223833_g24350_i0.p1;Name="ORF type:5prime_partial (-)"
+NODE_67460_length_664_cov_75.223833_g24350_i0	transdecoder	mRNA	1	664	.	-	.	ID=NODE_67460_length_664_cov_75.223833_g24350_i0.p1;Parent=GENE.NODE_67460_length_664_cov_75.223833_g24350_i0~~NODE_67460_length_664_cov_75.223833_g24350_i0.p1;Name="ORF type:5prime_partial (-)"
+NODE_67460_length_664_cov_75.223833_g24350_i0	transdecoder	exon	1	664	.	-	.	ID=NODE_67460_length_664_cov_75.223833_g24350_i0.p1.exon1;Parent=NODE_67460_length_664_cov_75.223833_g24350_i0.p1
+NODE_67460_length_664_cov_75.223833_g24350_i0	transdecoder	CDS	174	662	.	-	0	ID=cds.NODE_67460_length_664_cov_75.223833_g24350_i0.p1;Parent=NODE_67460_length_664_cov_75.223833_g24350_i0.p1;5_prime_partial=true
+NODE_67460_length_664_cov_75.223833_g24350_i0	transdecoder	three_prime_UTR	1	173	.	-	.	ID=NODE_67460_length_664_cov_75.223833_g24350_i0.p1.utr3p1;Parent=NODE_67460_length_664_cov_75.223833_g24350_i0.p1
+
+NODE_69090_length_623_cov_390.520690_g11965_i1	transdecoder	gene	1	623	.	+	.	ID=GENE.NODE_69090_length_623_cov_390.520690_g11965_i1~~NODE_69090_length_623_cov_390.520690_g11965_i1.p1;Name="ORF type:5prime_partial (+)"
+NODE_69090_length_623_cov_390.520690_g11965_i1	transdecoder	mRNA	1	623	.	+	.	ID=NODE_69090_length_623_cov_390.520690_g11965_i1.p1;Parent=GENE.NODE_69090_length_623_cov_390.520690_g11965_i1~~NODE_69090_length_623_cov_390.520690_g11965_i1.p1;Name="ORF type:5prime_partial (+)"
+NODE_69090_length_623_cov_390.520690_g11965_i1	transdecoder	exon	1	623	.	+	.	ID=NODE_69090_length_623_cov_390.520690_g11965_i1.p1.exon1;Parent=NODE_69090_length_623_cov_390.520690_g11965_i1.p1
+NODE_69090_length_623_cov_390.520690_g11965_i1	transdecoder	CDS	3	455	.	+	0	ID=cds.NODE_69090_length_623_cov_390.520690_g11965_i1.p1;Parent=NODE_69090_length_623_cov_390.520690_g11965_i1.p1;5_prime_partial=true
+NODE_69090_length_623_cov_390.520690_g11965_i1	transdecoder	three_prime_UTR	456	623	.	+	.	ID=NODE_69090_length_623_cov_390.520690_g11965_i1.p1.utr3p1;Parent=NODE_69090_length_623_cov_390.520690_g11965_i1.p1
+
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	gene	1	611	.	-	.	ID=GENE.NODE_69585_length_611_cov_14.040493_g26115_i0~~NODE_69585_length_611_cov_14.040493_g26115_i0.p1;Name="ORF type:internal (-)"
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	mRNA	1	611	.	-	.	ID=NODE_69585_length_611_cov_14.040493_g26115_i0.p1;Parent=GENE.NODE_69585_length_611_cov_14.040493_g26115_i0~~NODE_69585_length_611_cov_14.040493_g26115_i0.p1;Name="ORF type:internal (-)"
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	exon	1	611	.	-	.	ID=NODE_69585_length_611_cov_14.040493_g26115_i0.p1.exon1;Parent=NODE_69585_length_611_cov_14.040493_g26115_i0.p1
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	CDS	3	611	.	-	0	ID=cds.NODE_69585_length_611_cov_14.040493_g26115_i0.p1;Parent=NODE_69585_length_611_cov_14.040493_g26115_i0.p1;5_prime_partial=true;3_prime_partial=true
+
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	gene	1	611	.	+	.	ID=GENE.NODE_69585_length_611_cov_14.040493_g26115_i0~~NODE_69585_length_611_cov_14.040493_g26115_i0.p2;Name="ORF type:internal (+)"
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	mRNA	1	611	.	+	.	ID=NODE_69585_length_611_cov_14.040493_g26115_i0.p2;Parent=GENE.NODE_69585_length_611_cov_14.040493_g26115_i0~~NODE_69585_length_611_cov_14.040493_g26115_i0.p2;Name="ORF type:internal (+)"
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	exon	1	611	.	+	.	ID=NODE_69585_length_611_cov_14.040493_g26115_i0.p2.exon1;Parent=NODE_69585_length_611_cov_14.040493_g26115_i0.p2
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	CDS	3	611	.	+	0	ID=cds.NODE_69585_length_611_cov_14.040493_g26115_i0.p2;Parent=NODE_69585_length_611_cov_14.040493_g26115_i0.p2;5_prime_partial=true;3_prime_partial=true
+
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	gene	1	611	.	-	.	ID=GENE.NODE_69585_length_611_cov_14.040493_g26115_i0~~NODE_69585_length_611_cov_14.040493_g26115_i0.p3;Name="ORF type:3prime_partial (-)"
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	mRNA	1	611	.	-	.	ID=NODE_69585_length_611_cov_14.040493_g26115_i0.p3;Parent=GENE.NODE_69585_length_611_cov_14.040493_g26115_i0~~NODE_69585_length_611_cov_14.040493_g26115_i0.p3;Name="ORF type:3prime_partial (-)"
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	five_prime_UTR	329	611	.	-	.	ID=NODE_69585_length_611_cov_14.040493_g26115_i0.p3.utr5p1;Parent=NODE_69585_length_611_cov_14.040493_g26115_i0.p3
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	exon	1	611	.	-	.	ID=NODE_69585_length_611_cov_14.040493_g26115_i0.p3.exon1;Parent=NODE_69585_length_611_cov_14.040493_g26115_i0.p3
+NODE_69585_length_611_cov_14.040493_g26115_i0	transdecoder	CDS	2	328	.	-	0	ID=cds.NODE_69585_length_611_cov_14.040493_g26115_i0.p3;Parent=NODE_69585_length_611_cov_14.040493_g26115_i0.p3;3_prime_partial=true
+
+NODE_69856_length_604_cov_410.035651_g26341_i0	transdecoder	gene	1	604	.	-	.	ID=GENE.NODE_69856_length_604_cov_410.035651_g26341_i0~~NODE_69856_length_604_cov_410.035651_g26341_i0.p1;Name="ORF type:5prime_partial (-)"
+NODE_69856_length_604_cov_410.035651_g26341_i0	transdecoder	mRNA	1	604	.	-	.	ID=NODE_69856_length_604_cov_410.035651_g26341_i0.p1;Parent=GENE.NODE_69856_length_604_cov_410.035651_g26341_i0~~NODE_69856_length_604_cov_410.035651_g26341_i0.p1;Name="ORF type:5prime_partial (-)"
+NODE_69856_length_604_cov_410.035651_g26341_i0	transdecoder	exon	1	604	.	-	.	ID=NODE_69856_length_604_cov_410.035651_g26341_i0.p1.exon1;Parent=NODE_69856_length_604_cov_410.035651_g26341_i0.p1
+NODE_69856_length_604_cov_410.035651_g26341_i0	transdecoder	CDS	133	603	.	-	0	ID=cds.NODE_69856_length_604_cov_410.035651_g26341_i0.p1;Parent=NODE_69856_length_604_cov_410.035651_g26341_i0.p1;5_prime_partial=true
+NODE_69856_length_604_cov_410.035651_g26341_i0	transdecoder	three_prime_UTR	1	132	.	-	.	ID=NODE_69856_length_604_cov_410.035651_g26341_i0.p1.utr3p1;Parent=NODE_69856_length_604_cov_410.035651_g26341_i0.p1
+
+NODE_71859_length_560_cov_9.729207_g28153_i0	transdecoder	gene	1	560	.	+	.	ID=GENE.NODE_71859_length_560_cov_9.729207_g28153_i0~~NODE_71859_length_560_cov_9.729207_g28153_i0.p1;Name="ORF type:internal (+)"
+NODE_71859_length_560_cov_9.729207_g28153_i0	transdecoder	mRNA	1	560	.	+	.	ID=NODE_71859_length_560_cov_9.729207_g28153_i0.p1;Parent=GENE.NODE_71859_length_560_cov_9.729207_g28153_i0~~NODE_71859_length_560_cov_9.729207_g28153_i0.p1;Name="ORF type:internal (+)"
+NODE_71859_length_560_cov_9.729207_g28153_i0	transdecoder	exon	1	560	.	+	.	ID=NODE_71859_length_560_cov_9.729207_g28153_i0.p1.exon1;Parent=NODE_71859_length_560_cov_9.729207_g28153_i0.p1
+NODE_71859_length_560_cov_9.729207_g28153_i0	transdecoder	CDS	1	558	.	+	0	ID=cds.NODE_71859_length_560_cov_9.729207_g28153_i0.p1;Parent=NODE_71859_length_560_cov_9.729207_g28153_i0.p1;5_prime_partial=true;3_prime_partial=true
+
+NODE_72488_length_547_cov_22.700397_g28742_i0	transdecoder	gene	1	547	.	+	.	ID=GENE.NODE_72488_length_547_cov_22.700397_g28742_i0~~NODE_72488_length_547_cov_22.700397_g28742_i0.p1;Name="ORF type:internal (+)"
+NODE_72488_length_547_cov_22.700397_g28742_i0	transdecoder	mRNA	1	547	.	+	.	ID=NODE_72488_length_547_cov_22.700397_g28742_i0.p1;Parent=GENE.NODE_72488_length_547_cov_22.700397_g28742_i0~~NODE_72488_length_547_cov_22.700397_g28742_i0.p1;Name="ORF type:internal (+)"
+NODE_72488_length_547_cov_22.700397_g28742_i0	transdecoder	exon	1	547	.	+	.	ID=NODE_72488_length_547_cov_22.700397_g28742_i0.p1.exon1;Parent=NODE_72488_length_547_cov_22.700397_g28742_i0.p1
+NODE_72488_length_547_cov_22.700397_g28742_i0	transdecoder	CDS	2	547	.	+	0	ID=cds.NODE_72488_length_547_cov_22.700397_g28742_i0.p1;Parent=NODE_72488_length_547_cov_22.700397_g28742_i0.p1;5_prime_partial=true;3_prime_partial=true
+
+NODE_72488_length_547_cov_22.700397_g28742_i0	transdecoder	gene	1	547	.	-	.	ID=GENE.NODE_72488_length_547_cov_22.700397_g28742_i0~~NODE_72488_length_547_cov_22.700397_g28742_i0.p2;Name="ORF type:3prime_partial (-)"
+NODE_72488_length_547_cov_22.700397_g28742_i0	transdecoder	mRNA	1	547	.	-	.	ID=NODE_72488_length_547_cov_22.700397_g28742_i0.p2;Parent=GENE.NODE_72488_length_547_cov_22.700397_g28742_i0~~NODE_72488_length_547_cov_22.700397_g28742_i0.p2;Name="ORF type:3prime_partial (-)"
+NODE_72488_length_547_cov_22.700397_g28742_i0	transdecoder	five_prime_UTR	374	547	.	-	.	ID=NODE_72488_length_547_cov_22.700397_g28742_i0.p2.utr5p1;Parent=NODE_72488_length_547_cov_22.700397_g28742_i0.p2
+NODE_72488_length_547_cov_22.700397_g28742_i0	transdecoder	exon	1	547	.	-	.	ID=NODE_72488_length_547_cov_22.700397_g28742_i0.p2.exon1;Parent=NODE_72488_length_547_cov_22.700397_g28742_i0.p2
+NODE_72488_length_547_cov_22.700397_g28742_i0	transdecoder	CDS	2	373	.	-	0	ID=cds.NODE_72488_length_547_cov_22.700397_g28742_i0.p2;Parent=NODE_72488_length_547_cov_22.700397_g28742_i0.p2;3_prime_partial=true
+
+NODE_72911_length_539_cov_12.485887_g29128_i0	transdecoder	gene	1	539	.	+	.	ID=GENE.NODE_72911_length_539_cov_12.485887_g29128_i0~~NODE_72911_length_539_cov_12.485887_g29128_i0.p1;Name="ORF type:internal (+)"
+NODE_72911_length_539_cov_12.485887_g29128_i0	transdecoder	mRNA	1	539	.	+	.	ID=NODE_72911_length_539_cov_12.485887_g29128_i0.p1;Parent=GENE.NODE_72911_length_539_cov_12.485887_g29128_i0~~NODE_72911_length_539_cov_12.485887_g29128_i0.p1;Name="ORF type:internal (+)"
+NODE_72911_length_539_cov_12.485887_g29128_i0	transdecoder	exon	1	539	.	+	.	ID=NODE_72911_length_539_cov_12.485887_g29128_i0.p1.exon1;Parent=NODE_72911_length_539_cov_12.485887_g29128_i0.p1
+NODE_72911_length_539_cov_12.485887_g29128_i0	transdecoder	CDS	1	537	.	+	0	ID=cds.NODE_72911_length_539_cov_12.485887_g29128_i0.p1;Parent=NODE_72911_length_539_cov_12.485887_g29128_i0.p1;5_prime_partial=true;3_prime_partial=true
+
+NODE_73950_length_519_cov_1167.357143_g30101_i0	transdecoder	gene	1	519	.	+	.	ID=GENE.NODE_73950_length_519_cov_1167.357143_g30101_i0~~NODE_73950_length_519_cov_1167.357143_g30101_i0.p1;Name="ORF type:3prime_partial (+)"
+NODE_73950_length_519_cov_1167.357143_g30101_i0	transdecoder	mRNA	1	519	.	+	.	ID=NODE_73950_length_519_cov_1167.357143_g30101_i0.p1;Parent=GENE.NODE_73950_length_519_cov_1167.357143_g30101_i0~~NODE_73950_length_519_cov_1167.357143_g30101_i0.p1;Name="ORF type:3prime_partial (+)"
+NODE_73950_length_519_cov_1167.357143_g30101_i0	transdecoder	five_prime_UTR	1	142	.	+	.	ID=NODE_73950_length_519_cov_1167.357143_g30101_i0.p1.utr5p1;Parent=NODE_73950_length_519_cov_1167.357143_g30101_i0.p1
+NODE_73950_length_519_cov_1167.357143_g30101_i0	transdecoder	exon	1	519	.	+	.	ID=NODE_73950_length_519_cov_1167.357143_g30101_i0.p1.exon1;Parent=NODE_73950_length_519_cov_1167.357143_g30101_i0.p1
+NODE_73950_length_519_cov_1167.357143_g30101_i0	transdecoder	CDS	143	517	.	+	0	ID=cds.NODE_73950_length_519_cov_1167.357143_g30101_i0.p1;Parent=NODE_73950_length_519_cov_1167.357143_g30101_i0.p1;3_prime_partial=true
+
+NODE_79073_length_433_cov_174.048718_g35116_i0	transdecoder	gene	1	433	.	+	.	ID=GENE.NODE_79073_length_433_cov_174.048718_g35116_i0~~NODE_79073_length_433_cov_174.048718_g35116_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_79073_length_433_cov_174.048718_g35116_i0	transdecoder	mRNA	1	433	.	+	.	ID=NODE_79073_length_433_cov_174.048718_g35116_i0.p1;Parent=GENE.NODE_79073_length_433_cov_174.048718_g35116_i0~~NODE_79073_length_433_cov_174.048718_g35116_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_79073_length_433_cov_174.048718_g35116_i0	transdecoder	exon	1	433	.	+	.	ID=NODE_79073_length_433_cov_174.048718_g35116_i0.p1.exon1;Parent=NODE_79073_length_433_cov_174.048718_g35116_i0.p1
+NODE_79073_length_433_cov_174.048718_g35116_i0	transdecoder	CDS	3	338	.	+	0	ID=cds.NODE_79073_length_433_cov_174.048718_g35116_i0.p1;Parent=NODE_79073_length_433_cov_174.048718_g35116_i0.p1;5_prime_partial=true
+NODE_79073_length_433_cov_174.048718_g35116_i0	transdecoder	three_prime_UTR	339	433	.	+	.	ID=NODE_79073_length_433_cov_174.048718_g35116_i0.p1.utr3p1;Parent=NODE_79073_length_433_cov_174.048718_g35116_i0.p1
+
+NODE_80684_length_411_cov_7.214674_g36720_i0	transdecoder	gene	1	411	.	+	.	ID=GENE.NODE_80684_length_411_cov_7.214674_g36720_i0~~NODE_80684_length_411_cov_7.214674_g36720_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_80684_length_411_cov_7.214674_g36720_i0	transdecoder	mRNA	1	411	.	+	.	ID=NODE_80684_length_411_cov_7.214674_g36720_i0.p1;Parent=GENE.NODE_80684_length_411_cov_7.214674_g36720_i0~~NODE_80684_length_411_cov_7.214674_g36720_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_80684_length_411_cov_7.214674_g36720_i0	transdecoder	exon	1	411	.	+	.	ID=NODE_80684_length_411_cov_7.214674_g36720_i0.p1.exon1;Parent=NODE_80684_length_411_cov_7.214674_g36720_i0.p1
+NODE_80684_length_411_cov_7.214674_g36720_i0	transdecoder	CDS	2	406	.	+	0	ID=cds.NODE_80684_length_411_cov_7.214674_g36720_i0.p1;Parent=NODE_80684_length_411_cov_7.214674_g36720_i0.p1;5_prime_partial=true
+NODE_80684_length_411_cov_7.214674_g36720_i0	transdecoder	three_prime_UTR	407	411	.	+	.	ID=NODE_80684_length_411_cov_7.214674_g36720_i0.p1.utr3p1;Parent=NODE_80684_length_411_cov_7.214674_g36720_i0.p1
+
+NODE_80684_length_411_cov_7.214674_g36720_i0	transdecoder	gene	1	411	.	+	.	ID=GENE.NODE_80684_length_411_cov_7.214674_g36720_i0~~NODE_80684_length_411_cov_7.214674_g36720_i0.p2;Name="ORF type:5prime_partial (+)"
+NODE_80684_length_411_cov_7.214674_g36720_i0	transdecoder	mRNA	1	411	.	+	.	ID=NODE_80684_length_411_cov_7.214674_g36720_i0.p2;Parent=GENE.NODE_80684_length_411_cov_7.214674_g36720_i0~~NODE_80684_length_411_cov_7.214674_g36720_i0.p2;Name="ORF type:5prime_partial (+)"
+NODE_80684_length_411_cov_7.214674_g36720_i0	transdecoder	exon	1	411	.	+	.	ID=NODE_80684_length_411_cov_7.214674_g36720_i0.p2.exon1;Parent=NODE_80684_length_411_cov_7.214674_g36720_i0.p2
+NODE_80684_length_411_cov_7.214674_g36720_i0	transdecoder	CDS	3	332	.	+	0	ID=cds.NODE_80684_length_411_cov_7.214674_g36720_i0.p2;Parent=NODE_80684_length_411_cov_7.214674_g36720_i0.p2;5_prime_partial=true
+NODE_80684_length_411_cov_7.214674_g36720_i0	transdecoder	three_prime_UTR	333	411	.	+	.	ID=NODE_80684_length_411_cov_7.214674_g36720_i0.p2.utr3p1;Parent=NODE_80684_length_411_cov_7.214674_g36720_i0.p2
+
+NODE_81512_length_400_cov_10.781513_g37544_i0	transdecoder	gene	1	400	.	+	.	ID=GENE.NODE_81512_length_400_cov_10.781513_g37544_i0~~NODE_81512_length_400_cov_10.781513_g37544_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_81512_length_400_cov_10.781513_g37544_i0	transdecoder	mRNA	1	400	.	+	.	ID=NODE_81512_length_400_cov_10.781513_g37544_i0.p1;Parent=GENE.NODE_81512_length_400_cov_10.781513_g37544_i0~~NODE_81512_length_400_cov_10.781513_g37544_i0.p1;Name="ORF type:5prime_partial (+)"
+NODE_81512_length_400_cov_10.781513_g37544_i0	transdecoder	exon	1	400	.	+	.	ID=NODE_81512_length_400_cov_10.781513_g37544_i0.p1.exon1;Parent=NODE_81512_length_400_cov_10.781513_g37544_i0.p1
+NODE_81512_length_400_cov_10.781513_g37544_i0	transdecoder	CDS	3	383	.	+	0	ID=cds.NODE_81512_length_400_cov_10.781513_g37544_i0.p1;Parent=NODE_81512_length_400_cov_10.781513_g37544_i0.p1;5_prime_partial=true
+NODE_81512_length_400_cov_10.781513_g37544_i0	transdecoder	three_prime_UTR	384	400	.	+	.	ID=NODE_81512_length_400_cov_10.781513_g37544_i0.p1.utr3p1;Parent=NODE_81512_length_400_cov_10.781513_g37544_i0.p1
+
+NODE_83370_length_377_cov_33.125749_g39394_i0	transdecoder	gene	1	377	.	-	.	ID=GENE.NODE_83370_length_377_cov_33.125749_g39394_i0~~NODE_83370_length_377_cov_33.125749_g39394_i0.p1;Name="ORF type:5prime_partial (-)"
+NODE_83370_length_377_cov_33.125749_g39394_i0	transdecoder	mRNA	1	377	.	-	.	ID=NODE_83370_length_377_cov_33.125749_g39394_i0.p1;Parent=GENE.NODE_83370_length_377_cov_33.125749_g39394_i0~~NODE_83370_length_377_cov_33.125749_g39394_i0.p1;Name="ORF type:5prime_partial (-)"
+NODE_83370_length_377_cov_33.125749_g39394_i0	transdecoder	exon	1	377	.	-	.	ID=NODE_83370_length_377_cov_33.125749_g39394_i0.p1.exon1;Parent=NODE_83370_length_377_cov_33.125749_g39394_i0.p1
+NODE_83370_length_377_cov_33.125749_g39394_i0	transdecoder	CDS	21	377	.	-	0	ID=cds.NODE_83370_length_377_cov_33.125749_g39394_i0.p1;Parent=NODE_83370_length_377_cov_33.125749_g39394_i0.p1;5_prime_partial=true
+NODE_83370_length_377_cov_33.125749_g39394_i0	transdecoder	three_prime_UTR	1	20	.	-	.	ID=NODE_83370_length_377_cov_33.125749_g39394_i0.p1.utr3p1;Parent=NODE_83370_length_377_cov_33.125749_g39394_i0.p1
+
+NODE_83691_length_374_cov_7.126888_g39715_i0	transdecoder	gene	1	374	.	-	.	ID=GENE.NODE_83691_length_374_cov_7.126888_g39715_i0~~NODE_83691_length_374_cov_7.126888_g39715_i0.p1;Name="ORF type:internal (-)"
+NODE_83691_length_374_cov_7.126888_g39715_i0	transdecoder	mRNA	1	374	.	-	.	ID=NODE_83691_length_374_cov_7.126888_g39715_i0.p1;Parent=GENE.NODE_83691_length_374_cov_7.126888_g39715_i0~~NODE_83691_length_374_cov_7.126888_g39715_i0.p1;Name="ORF type:internal (-)"
+NODE_83691_length_374_cov_7.126888_g39715_i0	transdecoder	exon	1	374	.	-	.	ID=NODE_83691_length_374_cov_7.126888_g39715_i0.p1.exon1;Parent=NODE_83691_length_374_cov_7.126888_g39715_i0.p1
+NODE_83691_length_374_cov_7.126888_g39715_i0	transdecoder	CDS	1	372	.	-	0	ID=cds.NODE_83691_length_374_cov_7.126888_g39715_i0.p1;Parent=NODE_83691_length_374_cov_7.126888_g39715_i0.p1;5_prime_partial=true;3_prime_partial=true
+
+NODE_83691_length_374_cov_7.126888_g39715_i0	transdecoder	gene	1	374	.	+	.	ID=GENE.NODE_83691_length_374_cov_7.126888_g39715_i0~~NODE_83691_length_374_cov_7.126888_g39715_i0.p2;Name="ORF type:complete (+)"
+NODE_83691_length_374_cov_7.126888_g39715_i0	transdecoder	mRNA	1	374	.	+	.	ID=NODE_83691_length_374_cov_7.126888_g39715_i0.p2;Parent=GENE.NODE_83691_length_374_cov_7.126888_g39715_i0~~NODE_83691_length_374_cov_7.126888_g39715_i0.p2;Name="ORF type:complete (+)"
+NODE_83691_length_374_cov_7.126888_g39715_i0	transdecoder	five_prime_UTR	1	37	.	+	.	ID=NODE_83691_length_374_cov_7.126888_g39715_i0.p2.utr5p1;Parent=NODE_83691_length_374_cov_7.126888_g39715_i0.p2
+NODE_83691_length_374_cov_7.126888_g39715_i0	transdecoder	exon	1	374	.	+	.	ID=NODE_83691_length_374_cov_7.126888_g39715_i0.p2.exon1;Parent=NODE_83691_length_374_cov_7.126888_g39715_i0.p2
+NODE_83691_length_374_cov_7.126888_g39715_i0	transdecoder	CDS	38	352	.	+	0	ID=cds.NODE_83691_length_374_cov_7.126888_g39715_i0.p2;Parent=NODE_83691_length_374_cov_7.126888_g39715_i0.p2
+NODE_83691_length_374_cov_7.126888_g39715_i0	transdecoder	three_prime_UTR	353	374	.	+	.	ID=NODE_83691_length_374_cov_7.126888_g39715_i0.p2.utr3p1;Parent=NODE_83691_length_374_cov_7.126888_g39715_i0.p2
+
+NODE_87768_length_333_cov_8.965517_g43790_i0	transdecoder	gene	1	333	.	-	.	ID=GENE.NODE_87768_length_333_cov_8.965517_g43790_i0~~NODE_87768_length_333_cov_8.965517_g43790_i0.p1;Name="ORF type:internal (-)"
+NODE_87768_length_333_cov_8.965517_g43790_i0	transdecoder	mRNA	1	333	.	-	.	ID=NODE_87768_length_333_cov_8.965517_g43790_i0.p1;Parent=GENE.NODE_87768_length_333_cov_8.965517_g43790_i0~~NODE_87768_length_333_cov_8.965517_g43790_i0.p1;Name="ORF type:internal (-)"
+NODE_87768_length_333_cov_8.965517_g43790_i0	transdecoder	exon	1	333	.	-	.	ID=NODE_87768_length_333_cov_8.965517_g43790_i0.p1.exon1;Parent=NODE_87768_length_333_cov_8.965517_g43790_i0.p1
+NODE_87768_length_333_cov_8.965517_g43790_i0	transdecoder	CDS	1	333	.	-	0	ID=cds.NODE_87768_length_333_cov_8.965517_g43790_i0.p1;Parent=NODE_87768_length_333_cov_8.965517_g43790_i0.p1;5_prime_partial=true;3_prime_partial=true
+
+NODE_88512_length_326_cov_88.356890_g44534_i0	transdecoder	gene	1	326	.	-	.	ID=GENE.NODE_88512_length_326_cov_88.356890_g44534_i0~~NODE_88512_length_326_cov_88.356890_g44534_i0.p1;Name="ORF type:internal (-)"
+NODE_88512_length_326_cov_88.356890_g44534_i0	transdecoder	mRNA	1	326	.	-	.	ID=NODE_88512_length_326_cov_88.356890_g44534_i0.p1;Parent=GENE.NODE_88512_length_326_cov_88.356890_g44534_i0~~NODE_88512_length_326_cov_88.356890_g44534_i0.p1;Name="ORF type:internal (-)"
+NODE_88512_length_326_cov_88.356890_g44534_i0	transdecoder	exon	1	326	.	-	.	ID=NODE_88512_length_326_cov_88.356890_g44534_i0.p1.exon1;Parent=NODE_88512_length_326_cov_88.356890_g44534_i0.p1
+NODE_88512_length_326_cov_88.356890_g44534_i0	transdecoder	CDS	3	326	.	-	0	ID=cds.NODE_88512_length_326_cov_88.356890_g44534_i0.p1;Parent=NODE_88512_length_326_cov_88.356890_g44534_i0.p1;5_prime_partial=true;3_prime_partial=true
+

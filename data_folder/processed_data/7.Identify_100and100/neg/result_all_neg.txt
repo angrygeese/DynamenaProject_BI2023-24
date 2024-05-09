@@ -1,0 +1,1297 @@
+# gene name                                           KO     thrshld  score   E-value KO definition
+#---------------------------------------------------- ------ ------- ------ --------- ---------------------
+* NODE_8568_length_4409_cov_279.611544_g701_i2.p1     K15202  103.17  371.1  5.8e-113 general transcription factor 3C polypeptide 5 (transcription factor C subunit 1)
+  NODE_8568_length_4409_cov_279.611544_g701_i2.p1     K12298  566.83   37.2   5.3e-12 bile salt-stimulated lipase [EC:3.1.1.3 3.1.1.13]
+* NODE_8568_length_4409_cov_279.611544_g701_i2.p2     K04564   42.90  344.9  2.2e-105 superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+* NODE_14878_length_3435_cov_248.244988_g1049_i7.p1   K11463  365.43  574.6  1.9e-174 polycomb protein SUZ12
+  NODE_14878_length_3435_cov_248.244988_g1049_i7.p1   K10153  310.73   14.5   8.7e-05 interferon regulatory factor 2
+  NODE_14878_length_3435_cov_248.244988_g1049_i7.p1   K06093  148.83   13.9   8.4e-05 partitioning defective protein 6
+  NODE_14878_length_3435_cov_248.244988_g1049_i7.p2   -            -      -         - -
+* NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K01847  708.53  810.2  8.5e-246 methylmalonyl-CoA mutase [EC:5.4.99.2]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K01848  801.10  488.2  1.1e-148 methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K20906 1013.40  359.3  1.4e-109 2-hydroxyisobutanoyl-CoA mutase large subunit [EC:5.4.99.64]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K14447  907.97  357.2  5.8e-109 ethylmalonyl-CoA mutase [EC:5.4.99.63]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K25820 1019.33  355.3  1.7e-108 isobutyryl-CoA mutase large subunit [EC:5.4.99.13]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K25822 1009.77  315.3   2.7e-96 pivalyl-CoA mutase large subunit [EC:5.4.99.-]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K11942  917.27  283.4   1.3e-86 isobutyryl-CoA mutase [EC:5.4.99.13]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K01849  170.33  155.9     2e-48 methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K25821  230.30  106.2   4.1e-33 isobutyryl-CoA mutase small subunit [EC:5.4.99.13]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K25823  208.70   91.0   2.3e-28 pivalyl-CoA mutase small subunit [EC:5.4.99.-]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K20907  222.63   85.2   1.4e-26 2-hydroxyisobutanoyl-CoA mutase small subunit [EC:5.4.99.64]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K20450 1128.33   33.7   4.3e-11 2-methyleneglutarate mutase [EC:5.4.99.4]
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K14084  287.90   25.1   3.9e-08 trimethylamine corrinoid protein
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K16179  272.13   15.5   3.3e-05 dimethylamine corrinoid protein
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K22491  127.00   14.2     9e-05 MerR family transcriptional regulator, light-induced transcriptional regulator
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p1   K01846  107.23   12.7   0.00032 methylaspartate mutase sigma subunit [EC:5.4.99.1]
+* NODE_16640_length_3233_cov_492.706583_g1877_i2.p2   K12188   67.43  371.1  1.4e-113 ESCRT-II complex subunit VPS22
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p2   K12190   92.53   18.0     3e-06 ESCRT-II complex subunit VPS36
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p2   K02086   57.33   12.3   0.00032 DNA replication protein
+  NODE_16640_length_3233_cov_492.706583_g1877_i2.p2   K02605  157.63   11.6   0.00027 origin recognition complex subunit 3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K17256  372.20  171.3     9e-53 insulin-like growth factor-binding protein complex acid labile subunit
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K04306 1005.10  160.9   1.5e-49 relaxin family peptide receptor 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08843 1389.77  148.7   4.5e-46 leucine-rich repeat kinase 1 [EC:2.7.11.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K04307  954.87  139.0   5.4e-43 relaxin family peptide receptor 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K24610 1342.20  132.7   4.4e-41 leucine-rich repeats and immunoglobulin-like domains protein 1/3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08399 1203.93  118.6   7.4e-37 leucine-rich repeat-containing G protein-coupled receptor 6
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08844 1161.30  114.9   6.4e-36 leucine-rich repeat kinase 2 [EC:2.7.11.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K13023  391.83  114.3   1.6e-35 carboxypeptidase N regulatory subunit
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08462 1336.53  111.7   8.6e-35 adhesion G protein-coupled receptor A3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K26316  582.33  110.8   1.9e-34 transforming growth factor beta activator LRRC32
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K18808  510.17  109.8   3.3e-34 toll-like receptor 13
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K06838 2424.97  105.5     5e-33 slit 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K04309 1154.70  102.8     5e-32 leucine-rich repeat-containing G protein-coupled receptor 4
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K06839 2244.50  102.5   3.8e-32 slit 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K06850 2530.83  101.1   1.1e-31 slit 3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25037  813.50   98.9   6.9e-31 podocan
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25431  285.67   98.8   9.5e-31 leucine-rich alpha-2-glycoprotein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K04308 1306.27   98.8   7.4e-31 leucine-rich repeat-containing G protein-coupled receptor 5
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K19613  338.60   98.2   1.6e-30 leucine-rich repeat protein SHOC2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K24492  391.90   97.4     2e-30 leucine-rich repeat neuronal protein 1/2/3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K05398 1028.40   94.7   1.4e-29 toll-like receptor 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K20230  564.47   89.4   6.9e-28 kekkon-1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K26317  712.13   89.1   7.9e-28 transforming growth factor beta activator LRRC33
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16362  292.87   87.4   2.3e-27 leucine-rich repeat transmembrane protein FLRT
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25837 1263.60   86.9   3.2e-27 SLIT and NTRK-like protein 6
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25758  463.80   86.7   3.1e-27 chondroadherin-like protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25120 1406.47   83.4   2.7e-26 heme sequestration protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K06248  510.10   81.7   1.5e-25 chondroadherin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16665  243.73   79.5   8.6e-25 leucine-rich repeat transmembrane neuronal protein 1/2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K07523  352.13   78.7   1.2e-24 netrin-G1 ligand
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08129  274.60   77.6   2.5e-24 nyctalopin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K06260  413.00   76.0   4.1e-24 platelet glycoprotein V
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16358 1093.87   73.9   3.3e-23 leucine-rich repeat and fibronectin type-III domain-containing protein 5
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K13466  798.77   73.4   3.6e-23 EIX receptor 1/2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K13730  193.77   73.3   6.5e-23 internalin A
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25038  800.33   72.3   9.8e-23 podocan-like protein 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16175  770.73   71.9   8.3e-23 protein scribble
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K10170 1265.50   71.9   9.4e-23 toll-like receptor 8
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K14142 1371.73   70.4   3.1e-22 toll-like receptor 11
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K23533  353.23   70.1   3.6e-22 leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16351  901.93   69.6   6.5e-22 netrin-G2 ligand
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K22529  235.40   69.3     1e-21 amphoterin-induced protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K24609 1526.97   68.6     1e-21 leucine-rich repeats and immunoglobulin-like domains protein 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K10160  731.83   68.3   1.4e-21 toll-like receptor 4
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K18807  844.00   67.4   1.6e-21 toll-like receptor 12
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K18809  340.40   66.5   3.2e-21 protein toll
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08461 1692.00   66.1   5.7e-21 adhesion G protein-coupled receptor A2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K12796 1328.23   65.6   1.1e-20 erbb2-interacting protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K21768  291.53   64.2     3e-20 tubulin-specific chaperone E
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K10169 1092.10   63.2   5.4e-20 toll-like receptor 6
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K24500  344.57   61.8   1.4e-19 vasorin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16355 1020.77   61.7   1.4e-19 leucine-rich repeat and fibronectin type-III domain-containing protein 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K05401  797.70   60.3     2e-19 toll-like receptor 3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08122  508.80   57.5     3e-18 lumican
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08119  372.60   57.1   4.2e-18 extracellular matrix protein 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K10159  747.73   56.7   3.7e-18 toll-like receptor 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K10168  530.20   56.0   6.4e-18 toll-like receptor 5
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08130  284.10   55.8     1e-17 tsukushi
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25566  513.87   55.4   1.3e-17 immunoglobulin superfamily containing leucine-rich repeat protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16340  539.17   54.8   1.2e-17 PH domain and leucine-rich repeat-containing protein phosphatase [EC:3.1.3.16]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K13420 1137.30   54.8   1.3e-17 LRR receptor-like serine/threonine-protein kinase FLS2 [EC:2.7.11.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K17567 1086.10   53.9     4e-17 protein phosphatase 1 regulatory subunit 28
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25549  265.13   53.6   4.8e-17 leucine-rich repeat and guanylate kinase domain-containing protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08127  432.83   53.1     1e-16 epiphycan
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25835 1379.83   52.5   7.1e-17 SLIT and NTRK-like protein 4
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K10130  364.10   51.9   1.3e-16 leucine-rich repeats and death domain-containing protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25834 1005.73   51.2   1.8e-16 SLIT and NTRK-like protein 3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08121  459.73   50.4   5.7e-16 fibromodulin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K04985 2278.97   50.1   1.2e-16 polycystin 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25836 1152.07   48.6   1.2e-15 SLIT and NTRK-like protein 5
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16661  550.70   48.3   2.7e-15 reticulon-4 receptor-like 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16659  563.53   48.1   2.6e-15 reticulon-4 receptor
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K10348  132.97   47.9   3.6e-15 LRR-repeat protein 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08128  449.90   47.9   3.3e-15 opticin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08460 1550.10   46.6   5.5e-15 adhesion G protein-coupled receptor A1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25832 1215.50   45.9   8.7e-15 SLIT and NTRK-like protein 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K13415  571.13   45.7   9.6e-15 protein brassinosteroid insensitive 1 [EC:2.7.10.1 2.7.11.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K06555  490.03   45.4   1.2e-14 CD180 antigen
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K22038  243.47   45.2   8.8e-15 volume-regulated anion channel
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16356 1076.60   45.1   1.8e-14 leucine-rich repeat and fibronectin type-III domain-containing protein 3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K05404 1323.63   44.8   1.4e-14 toll-like receptor 7
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K10161 1301.23   44.6   1.8e-14 toll-like receptor 9
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25833 1314.57   44.2   2.7e-14 SLIT and NTRK-like protein 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K06261  242.17   43.7   4.5e-14 platelet glycoprotein Ib alpha chain
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K24493  214.43   43.2   6.5e-14 leucine-rich repeat neuronal protein 4
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16357 1254.57   42.9   7.3e-14 leucine-rich repeat and fibronectin type-III domain-containing protein 4
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08120  545.03   42.6   1.6e-13 asporin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K19999  874.03   42.3   1.2e-13 leucine-rich repeat LGI family member 3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K17568  870.90   41.3     2e-13 protein phosphatase 1 regulatory subunit 29
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16360 1043.67   40.7   3.4e-13 netrin-G3 ligand
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K04247  922.13   38.9   1.3e-12 follicle stimulating hormone receptor
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16666  351.03   38.0   3.9e-12 oligodendrocyte myelin glycoprotein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08124  515.70   38.0   3.1e-12 osteomodulin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16475  132.23   37.7   2.3e-12 leucine-rich repeat and coiled-coil domain-containing protein 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08125  564.67   37.5   4.3e-12 prolargin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K20237  163.87   36.4   6.5e-12 protein NUD1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16354 1098.30   35.8   1.1e-11 leucine-rich repeat and fibronectin type-III domain-containing protein 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25428  910.53   35.5   1.5e-11 leucine-rich repeat LGI family member 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25432  320.13   35.2   1.9e-11 leucine-rich repeat-containing protein 17
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K24055 1418.37   34.4   2.5e-11 leucine-rich repeat-containing protein 7
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K04660  519.87   34.3   3.8e-11 decorin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K13459  422.20   34.2   2.6e-11 disease resistance protein RPS2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08123  515.30   33.1   8.3e-11 keratocan
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16717  142.33   33.0   7.8e-11 centrosomal protein CEP97
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K09257  299.17   32.4   7.2e-11 NF-kappa-B inhibitor-like protein 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K20718  734.67   31.9   1.2e-10 LRR receptor-like serine/threonine-protein kinase ERECTA [EC:2.7.11.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K24095  261.00   31.7   1.2e-10 nischarin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25430  861.10   31.6   2.2e-10 leucine-rich repeat LGI family member 4
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K10641  230.33   30.4     4e-10 E3 ubiquitin-protein ligase LRSAM1 [EC:2.3.2.27]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K23946  747.40   29.2   9.7e-10 E3 ubiquitin-protein ligase SlrP [EC:2.3.2.27]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K14050  153.67   28.0   3.3e-09 geranylgeranyl transferase type-2 subunit alpha [EC:2.5.1.60]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K11092  113.90   26.7   1.1e-08 U2 small nuclear ribonucleoprotein A'
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25429  831.70   26.3   9.3e-09 leucine-rich repeat LGI family member 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K10171 1187.13   26.3   6.9e-09 toll-like receptor 10
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K25443  210.80   25.3   2.3e-08 dynein regulatory complex subunit 3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K22449  261.60   24.7   2.6e-08 tubulin-specific chaperone cofactor E-like protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K24400 1239.33   24.5     1e-08 matrix remodeling-associated protein 5
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K13437       -   24.4     3e-08 receptor kinase-like protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K05101 1219.10   24.4   2.5e-08 neurotrophic tyrosine kinase, receptor type 3 [EC:2.7.10.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08126  355.97   24.3     6e-08 osteoglycin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16660  569.17   23.2   8.5e-08 reticulon-4 receptor-like 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K04360 1146.33   22.7   9.2e-08 neurotrophic tyrosine kinase receptor type 2 [EC:2.7.10.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K24491  262.13   22.4   9.1e-08 leucine-rich repeat, immunoglobulin-like domain and transmembrane domain-containing protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K24733  215.73   21.3   2.6e-07 leucine-rich repeat and WD repeat-containing protein 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K08118  569.93   18.6   2.6e-06 biglycan
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K13457  418.33   18.3   1.5e-06 disease resistance protein RPM1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K22626 1243.83   17.3   2.6e-06 NACHT, LRR and PYD domains-containing protein 5
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K15343       -   17.1   4.3e-06 E3 ubiquitin-protein ligase SspH1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K03176 1061.20   16.7     6e-06 neurotrophic tyrosine kinase receptor type 1 [EC:2.7.10.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K17579  161.97   16.6   1.2e-05 protein phosphatase 1 regulatory subunit 42
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K13418 1176.63   16.0   1.2e-05 somatic embryogenesis receptor kinase 1 [EC:2.7.10.1 2.7.11.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K15069  216.13   15.9   1.5e-05 F-box/TPR repeat protein Pof3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K19750  151.27   14.6   3.4e-05 dynein axonemal assembly factor 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K18647  396.00   13.6   0.00011 acidic leucine-rich nuclear phosphoprotein 32 family member B
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K16770  375.00   12.2   6.3e-05 centriolin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K06263  158.30   11.8   0.00043 platelet glycoprotein IX
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K14284   73.03   11.3   0.00032 nuclear RNA export factor
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K10411  117.33   10.7   0.00095 dynein axonemal light chain 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K18646  370.10   10.4    0.0011 acidic leucine-rich nuclear phosphoprotein 32 family member A/C/D
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K14319  155.50    8.3    0.0028 Ran GTPase-activating protein 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K20493   96.90    8.1    0.0022 leucine-rich repeat-containing protein 16
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K18648  340.57    7.6    0.0071 acidic leucine-rich nuclear phosphoprotein 32 family member E
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K13417 1288.87    6.9    0.0065 somatic embryogenesis receptor kinase 4 [EC:2.7.10.1 2.7.11.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K06262  174.53    6.7     0.015 platelet glycoprotein Ib beta chain
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p1   K17576  180.63    5.1     0.021 protein phosphatase 1 regulatory subunit 37
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06051  607.57  131.6   1.3e-40 delta
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K16506 1886.87  116.0   1.7e-36 protocadherin Fat 1/2/3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K20994 3343.03  114.5   1.1e-35 Notch 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K19601  505.87  104.1   1.6e-32 protein eyes shut
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K16681  450.40   96.5     3e-30 protein crumbs
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06052 1669.47   90.7   2.2e-28 jagged-1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K02599 3084.43   90.7   1.4e-28 Notch 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24469 1129.90   89.5   2.6e-28 sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06838 2424.97   87.1   1.7e-27 slit 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24461  362.10   83.3   6.1e-26 protein delta homolog 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24470  501.27   79.6   4.1e-25 insulin-responsive sequence DNA-binding protein 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K20995 3286.23   79.6   3.3e-25 Notch 3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06839 2244.50   79.6   3.1e-25 slit 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24462  378.17   78.9   1.6e-24 protein delta homolog 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K21635 1720.70   77.9   1.6e-24 jagged-2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K04550 5209.50   77.8   5.5e-25 low-density lipoprotein receptor-related protein 1 (alpha-2-macroglobulin receptor)
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06850 2530.83   63.4   2.8e-20 slit 3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K20996 1023.70   58.7   7.3e-19 Notch 4
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K01691  152.17   58.7   1.7e-18 WNT inhibitory factor 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24463  426.27   54.8   2.1e-17 delta and Notch-like epidermal growth factor-related receptor
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24831 2148.43   51.8   4.8e-17 zonadhesin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K04600 4237.17   44.6   9.3e-15 cadherin EGF LAG seven-pass G-type receptor 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K08648  587.83   44.4   3.4e-14 hyaluronan binding protein 2 [EC:3.4.21.-]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24466  439.83   43.3   9.5e-14 Notch homolog 2 N-terminal-like protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K04601 4867.83   43.2   2.2e-14 cadherin EGF LAG seven-pass G-type receptor 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K20049 7621.40   39.8   1.2e-13 low-density lipoprotein receptor-related protein 1B
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06252  376.47   37.7   1.7e-12 tenascin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06254  550.43   37.2     2e-12 agrin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06794 1051.23   35.8   9.8e-12 neurocan core protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K08446  873.03   35.0   1.8e-11 CD97 antigen
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K18033 1069.63   34.8   2.2e-11 receptor-type tyrosine-protein phosphatase epsilon [EC:3.1.3.48]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06826  326.63   34.8   1.4e-11 nidogen (entactin)
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K14616  626.57   34.1   9.5e-12 cubilin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24068  890.67   31.4   2.2e-10 multiple epidermal growth factor-like domains protein 10/11
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06255 1312.33   30.3   1.2e-10 basement membrane-specific heparan sulfate proteoglycan core protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K04602 4927.60   29.6   2.2e-10 cadherin EGF LAG seven-pass G-type receptor 3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06793  839.30   28.6   7.1e-10 versican core protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K19020 3164.07   27.4   1.4e-09 stabilin-1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K04591  869.30   27.4   3.3e-09 adhesion G protein-coupled receptor E1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24471   97.53   27.2   1.4e-08 epigen
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K01321  615.17   27.1   5.8e-09 coagulation factor IX (Christmas factor) [EC:3.4.21.22]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06233 1948.93   27.0   1.2e-09 low density lipoprotein-related protein 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24331  883.47   25.8   1.3e-08 platelet endothelial aggregation receptor 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06792 1370.87   25.2   1.1e-08 aggrecan 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K01314  687.53   25.2   1.7e-08 coagulation factor X [EC:3.4.21.6]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24473  777.03   24.4   1.1e-08 teneurin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K19013 3022.37   24.3   1.3e-08 stabilin-2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24467  457.83   23.6     7e-08 vitamin K-dependent protein Z
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24472  446.37   23.0   6.2e-08 protein HEG
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K01320  631.43   22.9     1e-07 coagulation factor VII [EC:3.4.21.21]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24362  351.07   22.7     8e-08 inactive serine protease PAMR1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24464  686.87   22.2   1.9e-07 EGF-like repeat and discoidin I-like domain-containing protein 3
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K01328  720.60   21.7     3e-07 coagulation factor XII (Hageman factor) [EC:3.4.21.38]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06495  475.43   20.6   8.3e-07 selectin, lymphocyte
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K20229  228.40   20.5   1.3e-06 protein spitz
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24500  344.57   19.8   7.1e-07 vasorin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06795  852.43   19.8   6.6e-07 brevican
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06776 1375.90   19.1   1.2e-06 receptor-type tyrosine-protein phosphatase kappa [EC:3.1.3.48]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06756 1403.47   18.6     1e-06 neuronal cell adhesion molecule
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06494  512.97   18.6   2.4e-06 selectin, endothelial cell
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K01125  218.77   18.6   2.3e-06 N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase [EC:3.1.4.45]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K23664  559.43   18.2   7.6e-07 multipile epidermal growth factor-like domains protein 8
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K05124 1323.17   18.2   1.9e-06 discoidin domain receptor family member 1 [EC:2.7.10.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24508  542.40   17.7     3e-06 von Willebrand factor A domain-containing protein 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K22018  577.53   17.7   8.7e-07 mucin-3/12/17
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K05456  667.17   17.7   4.7e-06 neuregulin 2
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06593  354.87   17.6   4.5e-06 poliovirus receptor-related 4
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K08523  171.83   17.5   1.1e-05 heparin-binding EGF-like growth factor
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K18032 1169.17   17.4   3.5e-06 receptor-type tyrosine-protein phosphatase A [EC:3.1.3.48]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K17342  244.90   16.8   9.3e-06 fibulin 7
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24342  307.27   16.7   4.9e-06 protein kinase C-binding protein NELL
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K07377  265.90   16.7   3.1e-06 neurexin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K09782  161.93   16.0   3.1e-05 amphiregulin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K24341  619.70   15.9     9e-06 pikachurin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06578  599.23   15.9     1e-05 Lutheran blood group glycoprotein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K11987 1086.97   15.6   1.5e-05 prostaglandin-endoperoxide synthase 2 [EC:1.14.99.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06550 1443.87   15.6   9.1e-06 L1 cell adhesion molecule
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K09631  722.47   15.1   2.7e-05 hepatocyte growth factor activator [EC:3.4.21.-]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K05458   91.63   14.6   6.9e-05 neuregulin 4
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K08514  121.40   14.2   9.6e-05 vesicle-associated membrane protein 5
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K05471  146.50   14.2   7.4e-05 tumor necrosis factor ligand superfamily member 8
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K16690  247.03   13.8   7.9e-05 protein vein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K01344  545.23   13.4   6.4e-05 protein C (activated) [EC:3.4.21.69]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K05125 1060.17   12.9   8.1e-05 discoidin domain receptor family member 2 [EC:2.7.10.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06496  753.30   12.8   9.8e-05 selectin, platelet
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06265  134.80   12.8   8.1e-05 dystroglycan 1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06478  858.10   12.3    0.0001 receptor-type tyrosine-protein phosphatase C [EC:3.1.3.48]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K01395  831.90   12.2   0.00014 meprin A [EC:3.4.24.18]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K20057  125.37   12.1   0.00053 synaptojanin-2-binding protein
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K19822  124.47   11.6   0.00035 V-set and immunoglobulin domain-containing protein 4
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K21463  190.17   11.2   0.00046 membrane-associated protein TcaA
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K05094 1164.27   11.1   0.00035 fibroblast growth factor receptor 3 [EC:2.7.10.1]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06477   84.53   10.0    0.0011 sialophorin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K07599 1312.03    9.8   0.00053 desmoglein 4
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K09784  120.40    9.7    0.0028 epiregulin
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K06777 2938.53    9.5   0.00067 receptor-type tyrosine-protein phosphatase delta [EC:3.1.3.48]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K05695 3058.27    9.4   0.00074 receptor-type tyrosine-protein phosphatase F [EC:3.1.3.48]
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K03908  952.33    9.1    0.0012 protein S
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K03997  664.17    7.4    0.0042 complement component 8 subunit alpha
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K02447  231.73    6.9     0.017 protein gruken
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K03998  573.47    6.7    0.0073 complement component 8 subunit beta
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K23607  491.97    6.5     0.013 tomoregulin-1
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K10168  530.20    5.8    0.0091 toll-like receptor 5
+  NODE_22344_length_2723_cov_310.521642_g5470_i0.p2   K04000  480.13    0.3      0.73 complement component 9
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K16857 1936.57   89.1   5.5e-28 thrombospondin 1
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08621 1572.90   84.5   2.1e-26 a disintegrin and metalloproteinase with thrombospondin motifs 6 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K06841  518.30   79.5   6.2e-25 semaphorin 5
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08618 1700.23   76.5   4.8e-24 a disintegrin and metalloproteinase with thrombospondin motifs 2 [EC:3.4.24.14]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08627 1347.70   76.0   4.7e-24 a disintegrin and metalloproteinase with thrombospondin motifs 13 [EC:3.4.24.87]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08628 1721.37   75.0   1.2e-23 a disintegrin and metalloproteinase with thrombospondin motifs 14 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08624 2663.57   74.1   1.5e-23 a disintegrin and metalloproteinase with thrombospondin motifs 9 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08630 1840.50   72.0   9.8e-23 a disintegrin and metalloproteinase with thrombospondin motifs 16 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K07521  197.37   70.8   2.9e-22 netrin receptor unc-5
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08622 2180.57   70.1   3.4e-22 a disintegrin and metalloproteinase with thrombospondin motifs 7 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K09609 3000.80   69.2   4.2e-22 a disintegrin and metalloproteinase with thrombospondin motifs 20 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08625 1968.57   69.2   6.7e-22 a disintegrin and metalloproteinase with thrombospondin motifs 10 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08632 1844.43   67.6   2.5e-21 a disintegrin and metalloproteinase with thrombospondin motifs 18 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K07764 1107.30   64.5   2.1e-20 a disintegrin and metalloproteinase with thrombospondin motifs 4 [EC:3.4.24.82]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K15412  283.50   64.2     4e-20 complement factor properdin
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K04596 2041.17   62.8     4e-20 adhesion G protein-coupled receptor B1
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08631 1818.40   60.1   2.9e-19 a disintegrin and metalloproteinase with thrombospondin motifs 17 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08619 1584.03   54.6   1.7e-17 a disintegrin and metalloproteinase with thrombospondin motifs 3 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08620 1046.37   49.3   8.7e-16 a disintegrin and metalloproteinase with thrombospondin motifs 5 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K04598 1935.13   48.6   1.2e-15 adhesion G protein-coupled receptor B3
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08617 1291.37   46.5   6.7e-15 a disintegrin and metalloproteinase with thrombospondin motifs 1 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08626 1994.73   43.8   2.9e-14 a disintegrin and metalloproteinase with thrombospondin motifs 12 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K04597 2210.07   40.6   2.1e-13 adhesion G protein-coupled receptor B2
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08623 1362.07   39.5     7e-13 a disintegrin and metalloproteinase with thrombospondin motifs 8 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K24434 1366.93   38.0   5.3e-13 SCO-spondin
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K24436  459.47   36.2   6.1e-12 cartilage intermediate layer protein
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K08629 1297.53   34.7   1.7e-11 a disintegrin and metalloproteinase with thrombospondin motifs 15 [EC:3.4.24.-]
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K03996  668.23   28.7   1.4e-09 complement component 7
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K03998  573.47   25.5   1.5e-08 complement component 8 subunit beta
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K03995  705.73   23.2   6.1e-08 complement component 6
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K24433  479.00   22.2   1.3e-07 thrombospondin type-1 domain-containing protein 1
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K24428  265.80   21.0   6.5e-07 spondin-2
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K03997  664.17   20.7   3.9e-07 complement component 8 subunit alpha
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p1   K24427  275.93   20.2   5.7e-07 spondin-1
+  NODE_29029_length_2270_cov_556.319713_g6644_i2.p2   -            -      -         - -
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p1   K23926  185.80   18.1   7.9e-06 parvalbumin alpha
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p1   K10977  545.27   15.7   1.9e-05 methanogen homocitrate synthase [EC:2.3.3.14 2.3.3.-]
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p1   K23901  444.20   15.0     4e-05 calumenin
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p1   K13448  144.90   13.9   0.00013 calcium-binding protein CML
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p1   K19934  213.53   12.5    0.0002 calcium-binding protein
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p1   K19695  363.87   12.3    0.0003 neurocalcin delta
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p1   K23899  333.20   11.3   0.00052 reticulocalbin-2
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p1   K02183  198.90   11.3   0.00081 calmodulin
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p1   K14734  102.53   11.2    0.0015 protein S100-G
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p1   K23849  181.80   10.6   0.00099 calcium-binding protein 7/8
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p1   K23758  177.33   10.6    0.0013 protein S100-A1
+  NODE_30565_length_2177_cov_924.315370_g3250_i3.p2   -            -      -         - -
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p1   K23926  185.80   18.1   7.9e-06 parvalbumin alpha
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p1   K10977  545.27   15.7   1.9e-05 methanogen homocitrate synthase [EC:2.3.3.14 2.3.3.-]
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p1   K23901  444.20   15.0     4e-05 calumenin
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p1   K13448  144.90   13.9   0.00013 calcium-binding protein CML
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p1   K19934  213.53   12.5    0.0002 calcium-binding protein
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p1   K19695  363.87   12.3    0.0003 neurocalcin delta
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p1   K23899  333.20   11.3   0.00052 reticulocalbin-2
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p1   K02183  198.90   11.3   0.00081 calmodulin
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p1   K14734  102.53   11.2    0.0015 protein S100-G
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p1   K23849  181.80   10.6   0.00099 calcium-binding protein 7/8
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p1   K23758  177.33   10.6    0.0013 protein S100-A1
+  NODE_31084_length_2146_cov_926.253447_g3250_i4.p2   -            -      -         - -
+* NODE_31789_length_2105_cov_515.615907_g6029_i3.p1   K00789   19.83  690.7  5.3e-210 S-adenosylmethionine synthetase [EC:2.5.1.6]
+  NODE_31789_length_2105_cov_515.615907_g6029_i3.p2   -            -      -         - -
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K02842  784.20  125.5   8.8e-39 frizzled 9/10
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K02432 1110.00  125.1   1.5e-38 frizzled 1/7
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K02375  754.07  123.2     5e-38 frizzled 5/8
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K02354  730.07  121.1   2.1e-37 frizzled 4
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K02235 1073.50  117.8     2e-36 frizzled 2
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K09614  421.07  109.1   8.6e-34 atrial natriuretic peptide-converting enzyme [EC:3.4.21.-]
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K25481  493.53  106.2   8.6e-33 secreted frizzled-related protein 3
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K02329  919.90   99.9   4.5e-31 frizzled 3
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K02176  379.73   86.5   7.5e-27 secreted frizzled-related protein 2
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K02185  487.50   84.1     4e-26 secreted frizzled-related protein 4
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K23599  313.23   83.4     7e-26 secreted Xwnt8 inhibitor sizzled
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K02222  482.50   81.6   2.4e-25 secreted frizzled-related protein 5
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K04690  690.67   76.6   6.6e-24 frizzled
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K02166  510.20   75.1   1.9e-23 secreted frizzled-related protein 1
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K02376  944.30   73.6   4.4e-23 frizzled 6
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K24359  375.13   57.5   4.4e-18 membrane frizzled-related protein
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K13022  655.10   51.2   2.6e-16 carboxypeptidase Z [EC:3.4.17.-]
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K06226  382.13   38.3   1.7e-12 smoothened
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K05129  729.50   19.2   1.1e-06 muscle, skeletal, receptor tyrosine kinase [EC:2.7.10.1]
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K04593 1195.23   13.4   4.8e-05 adhesion G protein-coupled receptor L2
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p1   K04594 2272.83   12.6   7.2e-05 adhesion G protein-coupled receptor L3
+  NODE_32974_length_2038_cov_334.794987_g7101_i3.p2   -            -      -         - -
+  NODE_36064_length_1873_cov_392.544262_g4514_i8.p1   K07271   94.30   80.6   5.8e-25 lipopolysaccharide cholinephosphotransferase [EC:2.7.8.-]
+  NODE_36064_length_1873_cov_392.544262_g4514_i8.p1   K25654  361.23   54.2   7.7e-17 teichoic acid cholinephosphotransferase [EC:2.7.8.-]
+  NODE_36064_length_1873_cov_392.544262_g4514_i8.p1   K19873  270.67   50.0   6.8e-16 fukutin-related protein [EC:2.7.8.-]
+  NODE_36064_length_1873_cov_392.544262_g4514_i8.p1   K25651  287.60   31.7   4.1e-10 teichoic acid ribitol-phosphate transferase
+  NODE_36064_length_1873_cov_392.544262_g4514_i8.p1   K19872  157.17   26.4   1.3e-08 fukutin [EC:2.7.8.-]
+  NODE_36548_length_1848_cov_308.627701_g9116_i1.p1   K06149  124.37   51.8   3.9e-16 universal stress protein A
+  NODE_36548_length_1848_cov_308.627701_g9116_i1.p1   K14055  149.03   43.9   6.8e-14 universal stress protein E
+  NODE_36548_length_1848_cov_308.627701_g9116_i1.p1   K14061  141.77   35.2   5.8e-11 universal stress protein F
+  NODE_36548_length_1848_cov_308.627701_g9116_i1.p1   K11932  161.13   29.5   2.9e-09 universal stress protein G
+  NODE_36548_length_1848_cov_308.627701_g9116_i1.p1   K03321  370.37   16.2   9.8e-06 sulfate permease, SulP family
+  NODE_36548_length_1848_cov_308.627701_g9116_i1.p1   K03077  231.53   16.1   1.4e-05 L-ribulose-5-phosphate 4-epimerase [EC:5.1.3.4]
+  NODE_36548_length_1848_cov_308.627701_g9116_i1.p1   K16211  248.10   12.6   0.00013 maltose/moltooligosaccharide transporter
+  NODE_36548_length_1848_cov_308.627701_g9116_i1.p1   K26730  333.90   12.3   0.00014 Na+:H+ antiporter
+  NODE_36548_length_1848_cov_308.627701_g9116_i1.p1   K11375   79.57   11.5   0.00051 elongator complex protein 4
+  NODE_36548_length_1848_cov_308.627701_g9116_i1.p2   -            -      -         - -
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K01298  643.37  421.1  3.3e-128 carboxypeptidase A2 [EC:3.4.17.15]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K08637  618.90  403.0    9e-123 carboxypeptidase A4 [EC:3.4.17.-]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K08779  714.60  386.8  9.9e-118 carboxypeptidase A1 [EC:3.4.17.1]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K01291  626.93  376.6  6.3e-115 carboxypeptidase B [EC:3.4.17.2]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K01290  614.43  369.3  1.6e-112 carboxypeptidase A, invertebrate [EC:3.4.17.-]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K08782  638.73  330.7  5.9e-101 carboxypeptidase A6 [EC:3.4.17.1]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K08781  615.67  329.1  1.8e-100 carboxypeptidase A5 [EC:3.4.17.1]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K01300  566.57  303.9     1e-92 carboxypeptidase B2 [EC:3.4.17.20]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K23009  524.63  297.6   6.1e-91 carboxypeptidase O [EC:3.4.17.-]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K08780  642.97  277.5   7.3e-85 carboxypeptidase A3 [EC:3.4.17.1]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K08783  401.57  259.1     4e-79 extracellular matrix protein 14 [EC:3.4.17.-]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K05996  337.47  209.3   5.1e-64 carboxypeptidase T [EC:3.4.17.18]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K01308  224.87   78.5   1.9e-24 g-D-glutamyl-meso-diaminopimelate peptidase [EC:3.4.19.11]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K07752  644.40   63.3   4.6e-20 carboxypeptidase D [EC:3.4.17.22]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K01296  582.67   61.2   2.9e-19 carboxypeptidase M [EC:3.4.17.12]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K01294  636.60   52.8   1.1e-16 carboxypeptidase E [EC:3.4.17.10]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K01292  693.40   38.6   2.4e-12 carboxypeptidase N catalytic subunit [EC:3.4.17.3]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K13022  655.10   37.6   3.4e-12 carboxypeptidase Z [EC:3.4.17.-]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K14054  114.67   34.9     4e-11 murein peptide amidase A
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K23439  324.47   29.2   1.6e-09 cytosolic carboxypeptidase protein 6 [EC:3.4.17.24]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K08638 1202.90   23.9     4e-08 carboxypeptidase X1 [EC:3.4.17.-]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K06987   84.43   23.2   1.1e-07 uncharacterized protein
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K21392 1294.67   18.5   1.4e-06 adipocyte enhancer-binding protein 1
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K23438  316.23   16.0   1.1e-05 cytosolic carboxypeptidase protein 5 [EC:3.4.17.24]
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K08639 1196.50   14.6   2.5e-05 carboxypeptidase X2
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p1    K13754  239.40   10.0   0.00068 solute carrier family 24 (sodium/potassium/calcium exchanger), member 6
+  NODE_37988_length_1780_cov_72.071387_g9134_i1.p2    -            -      -         - -
+  NODE_38409_length_1759_cov_338.359557_g9116_i3.p1   K06149  124.37   52.1   3.2e-16 universal stress protein A
+  NODE_38409_length_1759_cov_338.359557_g9116_i3.p1   K14055  149.03   44.0   6.3e-14 universal stress protein E
+  NODE_38409_length_1759_cov_338.359557_g9116_i3.p1   K14061  141.77   36.0   3.4e-11 universal stress protein F
+  NODE_38409_length_1759_cov_338.359557_g9116_i3.p1   K11932  161.13   29.7   2.5e-09 universal stress protein G
+  NODE_38409_length_1759_cov_338.359557_g9116_i3.p1   K03321  370.37   15.9   1.2e-05 sulfate permease, SulP family
+  NODE_38409_length_1759_cov_338.359557_g9116_i3.p1   K16211  248.10   12.6   0.00014 maltose/moltooligosaccharide transporter
+  NODE_38409_length_1759_cov_338.359557_g9116_i3.p1   K26730  333.90   12.1   0.00016 Na+:H+ antiporter
+  NODE_39449_length_1708_cov_264.313514_g9116_i4.p1   K06149  124.37   51.3   5.4e-16 universal stress protein A
+  NODE_39449_length_1708_cov_264.313514_g9116_i4.p1   K14055  149.03   45.5   2.1e-14 universal stress protein E
+  NODE_39449_length_1708_cov_264.313514_g9116_i4.p1   K14061  141.77   36.3   2.7e-11 universal stress protein F
+  NODE_39449_length_1708_cov_264.313514_g9116_i4.p1   K11932  161.13   29.4   3.2e-09 universal stress protein G
+  NODE_39449_length_1708_cov_264.313514_g9116_i4.p1   K03321  370.37   17.5   4.2e-06 sulfate permease, SulP family
+  NODE_39449_length_1708_cov_264.313514_g9116_i4.p1   K16211  248.10   12.4   0.00015 maltose/moltooligosaccharide transporter
+  NODE_39449_length_1708_cov_264.313514_g9116_i4.p1   K26730  333.90   12.2   0.00015 Na+:H+ antiporter
+* NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K24419  107.37  142.9   6.3e-44 methyltransferase-like protein 27 [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K18896  166.07   53.0   1.4e-16 glycine/sarcosine N-methyltransferase [EC:2.1.1.156]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K15256  106.87   42.7   1.6e-13 tRNA (cmo5U34)-methyltransferase [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K03183  265.57   41.5   3.2e-13 demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K16868   87.23   39.3   1.6e-12 tellurite methyltransferase [EC:2.1.1.265]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K22438  103.37   38.3   3.8e-12 trans-aconitate 3-methyltransferase [EC:2.1.1.145]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K18534  333.03   36.0   1.8e-11 MPBQ/MSBQ methyltransferase [EC:2.1.1.295]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K17462  117.90   35.7   2.7e-11 putative AdoMet-dependent methyltransferase [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K13311  355.13   34.6   5.3e-11 dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase [EC:2.1.1.234]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K21335  358.30   33.7   8.6e-11 dTDP-4-amino-2,4-dideoxy-beta-L-xylose N-methyltransferase [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K22856  108.07   33.5   9.4e-11 EEF1A lysine methyltransferase 2 [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K13307  367.17   32.7   2.1e-10 dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase [EC:2.1.1.235]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K13326  381.47   32.3   3.1e-10 dTDP-3-amino-2,3,6-trideoxy-4-keto-D-glucose/dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose N,N-dimethyltransferase [EC:2.1.1.- 2.1.1.234]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K20082  306.73   29.0   2.6e-09 O-methyltransferase StaMB [EC:2.1.1.139]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K13330  399.23   28.8   2.9e-09 dTDP-4-amino-2,3,4,6-tetradeoxy-D-glucose N,N-dimethyltransferase [EC:2.1.1.324]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K15444  294.27   28.6   2.8e-09 tRNA (uracil-5-)-methyltransferase TRM9 [EC:2.1.1.229]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K00568  320.43   27.8   6.4e-09 2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K16414       -   27.3   8.2e-09 methyltransferase
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K02169  173.20   26.8   1.1e-08 malonyl-CoA O-methyltransferase [EC:2.1.1.197]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K19306  104.17   26.0   1.7e-08 18S rRNA (guanine1575-N7)-methyltransferase [EC:2.1.1.309]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K07755  129.47   24.0   7.2e-08 arsenite methyltransferase [EC:2.1.1.137]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K00598  119.20   23.1   1.7e-07 trans-aconitate 2-methyltransferase [EC:2.1.1.144]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K14374       -   22.8   2.7e-07 avermectin B 5-O-methyltransferase [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K00559  398.70   22.1   2.9e-07 sterol 24-C-methyltransferase [EC:2.1.1.41]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K24071  775.87   22.0   2.2e-07 glycine/sarcosine/dimethylglycine N-methyltransferase [EC:2.1.1.156 2.1.1.157]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K03428  180.70   21.6   5.2e-07 magnesium-protoporphyrin O-methyltransferase [EC:2.1.1.11]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K05929  185.97   21.1   3.7e-07 phosphoethanolamine N-methyltransferase [EC:2.1.1.103]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K22857  205.43   20.5     1e-06 EEF1A lysine methyltransferase 4 [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K05928  318.27   20.0   9.3e-07 tocopherol O-methyltransferase [EC:2.1.1.95]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K18897  195.47   19.7   2.4e-06 sarcosine/dimethylglycine N-methyltransferase [EC:2.1.1.157]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K20081  385.67   19.6   2.2e-06 N-methyltransferase StaMA [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K15467  302.43   19.6   2.1e-06 27-O-demethylrifamycin SV methyltransferase [EC:2.1.1.315]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K20331  149.67   19.1   2.2e-06 toxoflavin synthase [EC:2.1.1.349]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K16217  279.43   18.7   3.6e-06 geranyl diphosphate 2-C-methyltransferase [EC:2.1.1.255]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K13623  183.73   17.8   7.4e-06 S-adenosylmethionine-diacylgycerolhomoserine-N-methlytransferase
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K06219  223.67   15.8   2.2e-05 tRNA 5-carboxymethoxyuridine methyltransferase [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K13332       -   15.7   2.7e-05 N,N-dimethyltransferase
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K00574  343.13   15.7   1.6e-05 cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K00563  108.50   15.2   3.2e-05 23S rRNA (guanine745-N1)-methyltransferase [EC:2.1.1.187]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K25166  274.17   15.1   1.7e-05 eEF1A lysine and N-terminal methyltransferase [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K10718  153.90   14.9   4.6e-05 juvenile hormone-III synthase [EC:2.1.1.325]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K07103  127.60   14.3   0.00011 uncharacterized protein
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K21172  376.17   14.2   7.3e-05 enediyne biosynthesis protein CalE5
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K00614  149.73   14.0   7.5e-05 citrate synthase lysine N-methyltransferase [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K10770  292.50   13.9   5.9e-05 alkylated DNA repair protein alkB homolog 8 [EC:1.14.11.- 2.1.1.229]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K06127  425.60   13.8   8.9e-05 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.201]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K00591  340.67   13.6   9.1e-05 polyprenyldihydroxybenzoate methyltransferase / 3-demethylubiquinol 3-O-methyltransferase [EC:2.1.1.114 2.1.1.64]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K24659  527.20   13.5   8.5e-05 O-antigen chain-terminating methyltransferase [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K17803  172.40   13.3   0.00013 methyltransferase OMS1, mitochondrial [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K07579  219.10   12.8   0.00026 putative methylase
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K15257  105.17   12.6   0.00022 tRNA (mo5U34)-methyltransferase [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K02687  106.57   12.6   0.00025 ribosomal protein L11 methyltransferase [EC:2.1.1.-]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K02493  226.87   12.4   0.00025 release factor glutamine methyltransferase [EC:2.1.1.297]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K21459  142.37   12.2   0.00036 cypemycin N-terminal methyltransferase [EC:2.1.1.301]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K24667  287.07   11.3   0.00065 2-heptyl-1-hydroxyquinolin-4(1H)-one methyltransferase [EC:2.1.1.374]
+  NODE_39538_length_1704_cov_115.721854_g10431_i0.p1  K00564  112.17   10.7   0.00079 16S rRNA (guanine1207-N2)-methyltransferase [EC:2.1.1.172]
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13868  679.40  309.4     2e-94 solute carrier family 7 (L-type amino acid transporter), member 9/15
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13869  681.63  299.2   1.7e-91 solute carrier family 7 (L-type amino acid transporter), member 11
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13780  767.23  290.5     9e-89 solute carrier family 7 (L-type amino acid transporter), member 5
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13872  972.93  277.2   1.3e-84 solute carrier family 7 (L-type amino acid transporter), member 6
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13781  841.47  273.0   1.7e-83 solute carrier family 7 (L-type amino acid transporter), member 8
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13867  972.97  246.6   1.8e-75 solute carrier family 7 (L-type amino acid transporter), member 7
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K03294  477.33  242.9   2.6e-74 basic amino acid/polyamine antiporter, APA family
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13782  938.80  229.9   1.8e-70 solute carrier family 7 (D/L-type amino acid transporter), member 10
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K19540  363.13  216.3   2.2e-66 fructoselysine transporter
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13870  524.93  202.3   4.3e-62 solute carrier family 7 (L-type amino acid transporter), member 12/13
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K16238  314.03  122.4   6.8e-38 ethanolamine permease
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K16263  311.70  114.1   2.2e-35 amino acid efflux transporter
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13866  773.97  106.0   6.9e-33 solute carrier family 7 (cationic amino acid transporter), member 4
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13863  949.83   95.6   7.8e-30 solute carrier family 7 (cationic amino acid transporter), member 1
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13864  974.87   86.6   5.3e-27 solute carrier family 7 (cationic amino acid transporter), member 2
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K20265  193.83   83.4   4.9e-26 glutamate:GABA antiporter
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K14052  353.67   76.7   4.7e-24 putrescine importer
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K03293  607.13   72.4   1.2e-22 amino acid transporter, AAT family
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K02205  720.83   72.4   1.4e-22 arginine/ornithine permease
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K16235  695.43   66.1   9.9e-21 S-methylmethionine transporter
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K11736  722.60   65.7   1.2e-20 proline-specific permease ProY
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13865 1017.97   60.7   2.6e-19 solute carrier family 7 (cationic amino acid transporter), member 3
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K11737  671.17   56.5   7.2e-18 D-serine/D-alanine/glycine transporter
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K13871  807.57   54.6   2.5e-17 solute carrier family 7 (cationic amino acid transporter), member 14
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K03759  472.10   53.9     5e-17 arginine:agmatine antiporter
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K16237  609.17   47.1   4.6e-15 aromatic amino acid permease
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K11735  603.60   44.7   2.8e-14 GABA permease
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K03756  469.37   41.9   2.6e-13 putrescine:ornithine antiporter
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K16234  700.97   39.9   6.8e-13 histidine transporter
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K19564  269.20   37.3   3.6e-12 choline transport protein
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K16261  615.73   26.7   5.7e-09 yeast amino acid transporter
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K03757  616.60   14.7   4.2e-05 cadaverine:lysine antiporter
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K10951 1538.40    2.8     0.079 solute carrier family 12 (sodium/potassium/chloride transporter), member 2
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p1   K07778  167.13    2.8      0.19 two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3]
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p2   K21717       -   11.1   0.00043 alpha-humulene 10-hydroxylase [EC:1.14.14.113]
+  NODE_40316_length_1668_cov_43.980308_g10680_i0.p2   K05591  532.27   10.4   0.00058 ATP-dependent RNA helicase DbpA [EC:3.6.4.13]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23908  417.37  165.7   6.7e-51 calretinin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23928  323.53  128.9   1.1e-39 secretagogin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K14757  418.27  120.3   4.1e-37 calbindin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K13448  144.90   52.4   2.3e-16 calcium-binding protein CML
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23926  185.80   50.2   1.3e-15 parvalbumin alpha
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K13412  399.10   47.6   4.3e-15 calcium-dependent protein kinase [EC:2.7.11.1]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23901  444.20   44.8   3.4e-14 calumenin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23905  267.53   37.3     9e-12 peflin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23847  404.43   35.1   2.7e-11 hippocalcin-like protein 1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K06268  136.00   33.8   1.2e-10 serine/threonine-protein phosphatase 2B regulatory subunit
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23922  343.23   30.8   6.8e-10 EF-hand domain-containing family member D2
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23902  264.60   29.6   1.6e-09 programmed cell death protein 6
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K16465  282.63   29.2   2.5e-09 centrin-1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K15105  490.77   28.9   1.1e-09 solute carrier family 25 (mitochondrial aspartate/glutamate transporter), member 12/13
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K13974       -   27.7     1e-08 calcium-binding protein
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23921  403.17   27.7   6.2e-09 EF-hand domain-containing family member D1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K01367 1250.80   27.3     3e-09 calpain-1 [EC:3.4.22.52]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K02183  198.90   27.2   1.2e-08 calmodulin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K19695  363.87   26.2   1.7e-08 neurocalcin delta
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23846  454.23   25.5   2.7e-08 neuron-specific calcium-binding protein hippocalcin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23923  373.13   25.1     5e-08 grancalcin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23924  350.60   25.0   4.7e-08 sorcin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K08328  215.40   25.0   4.5e-08 guanylate cyclase activator 1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K08585  996.23   24.8   2.1e-08 calpain, invertebrate [EC:3.4.22.-]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23925  192.17   24.6   9.7e-08 oncomodulin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K19932  330.57   24.5   4.9e-08 neuronal calcium sensor
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K14684  330.50   23.3     1e-07 solute carrier family 25 (mitochondrial phosphate transporter), member 23/24/25/41
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K05865  264.90   23.3   1.3e-07 troponin C, slow skeletal and cardiac muscles
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K12361  946.83   22.8     1e-07 RAS guanyl-releasing protein 2
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23909  102.60   22.1   2.8e-07 calcyphosin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K03853 1273.23   21.8   1.8e-07 calpain-2 [EC:3.4.22.53]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K17336 1135.27   21.4   2.6e-07 plastin-3
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K12751  335.80   21.4   7.4e-07 myosin light chain 6
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K12042  275.73   21.4   5.5e-07 troponin C, skeletal muscle
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K20371   59.87   21.2   4.6e-07 nucleobindin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K27179  123.43   21.1   6.1e-07 outer dynein arm-docking complex subunit 5
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K13411  856.90   20.7   2.1e-07 dual oxidase [EC:1.6.3.1 1.11.1.-]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K05699 1790.40   20.2   4.2e-07 actinin alpha 1/4
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K09577  270.43   19.9   1.5e-06 FK506-binding protein 14 [EC:5.2.1.8]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23915 1112.33   19.2     1e-06 follistatin-related protein 5
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K06711  201.97   19.1   1.5e-06 hypoxia-inducible factor prolyl 4-hydroxylase [EC:1.14.11.-]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23899  333.20   19.0   2.3e-06 reticulocalbin-2
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K13510  409.47   18.6   2.2e-06 lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase [EC:2.3.1.23 2.3.1.67]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23848  403.80   18.4   3.5e-06 hippocalcin-like protein 4
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K19934  213.53   18.4   3.2e-06 calcium-binding protein
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23900  521.07   17.9   4.7e-06 reticulocalbin-3
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23852  563.60   17.6   2.5e-06 EF-hand calcium-binding domain-containing protein 7
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23898  566.57   17.5   7.3e-06 reticulocalbin-1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K17274  146.23   17.5   1.2e-05 protein S100-A10
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23765  132.13   17.0   1.3e-05 protein S100-A11/13
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K11837  790.07   17.0   2.9e-06 ubiquitin carboxyl-terminal hydrolase 6/32 [EC:3.4.19.12]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K09573  292.77   17.0   1.5e-05 FK506-binding protein 7 [EC:5.2.1.8]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K17610  294.73   16.5   1.9e-05 calcineurin B homologous protein 1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K27408 4124.73   16.4   2.9e-06 spectrin alpha, erythrocytic
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K05738  324.80   16.3   2.1e-05 myosin light chain 1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K04350 1057.13   15.9   1.2e-05 RAS guanyl-releasing protein 1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23849  181.80   15.6     3e-05 calcium-binding protein 7/8
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K21424  389.87   15.6   1.2e-05 NADPH oxidase 5 [EC:1.6.3.-]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K21128  139.67   15.5   4.1e-05 protein S100-A9
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K16466  254.73   15.5   3.4e-05 centrin-3
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K21127  118.93   15.3   7.5e-05 protein S100-A8
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K08573 1063.00   15.2   1.9e-05 calpain-3 [EC:3.4.22.54]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K13447  503.87   15.0   2.1e-05 respiratory burst oxidase [EC:1.6.3.- 1.11.1.-]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23851  351.60   14.5   1.7e-05 EF-hand calcium-binding domain-containing protein 6
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K17611  322.50   14.3   7.5e-05 calcineurin B homologous protein 2
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K25390  300.93   14.2   0.00011 centrin-4
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K09575  264.97   14.1   4.1e-05 FK506-binding protein 9/10 [EC:5.2.1.8]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K05857  860.53   14.1   4.6e-05 phosphatidylinositol phospholipase C, delta [EC:3.1.4.11]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K12750  406.33   13.9   0.00012 myosin light chain 4
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K13807  412.80   13.8     5e-05 serine/threonine-protein phosphatase with EF-hands [EC:3.1.3.16]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23771  137.17   13.2    0.0002 protein S100-P
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K12362  972.43   13.2   7.8e-05 RAS guanyl-releasing protein 3
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K08577 1154.63   13.2   6.9e-05 calpain-8 [EC:3.4.22.-]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K06114 3123.80   13.2   2.8e-05 spectrin alpha, non-erythrocytic (fodrin)
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23758  177.33   13.1   0.00023 protein S100-A1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K14734  102.53   13.0   0.00041 protein S100-G
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K13764  300.60   12.9   0.00019 recoverin
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K17276 1196.70   12.8   0.00011 plastin-2
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K10840  320.57   12.7   0.00022 centrin-2
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K21864 1229.30   12.6   5.3e-05 voltage-dependent calcium channel
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K21073 1857.20   12.5     9e-05 actinin alpha 2/3
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K17199  278.13   12.4   0.00014 Ras and EF-hand domain-containing protein
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23914 1396.33   12.3   0.00015 follistatin-related protein 4
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K24354  121.93   12.2   0.00023 SPARC-related modular calcium-binding protein
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K17259  238.97   12.2   0.00035 calcium and integrin-binding protein 1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K08578 1040.20   12.2   0.00013 calpain-9 [EC:3.4.22.-]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23770  144.20   12.1   0.00062 protein S100-B
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K08583  426.97   12.1   0.00033 calpain, small subunit 1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23854  122.13   12.0   0.00033 N-terminal EF-hand calcium-binding protein
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23766  135.37   12.0    0.0008 protein S100-A12
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23761  163.93   12.0   0.00049 protein S100-A4
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23855  251.23   11.9   0.00031 Kv channel-interacting protein
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23764  131.80   11.9   0.00075 protein S100-A6
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K13978  843.23   11.9   0.00019 actinin-like protein
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K08239  545.03   11.5   0.00021 UDP-N-acetylglucosamine-lysosomal-enzyme [EC:2.7.8.17]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K17991  120.30   11.4    0.0006 peroxygenase [EC:1.11.2.3]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23929  102.70   11.0   0.00035 EF-hand domain-containing family member B
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K24993  768.23   10.8   0.00067 paraspeckle component 1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K23531  173.73   10.7   0.00095 calcium-binding protein 1/2/4/5
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K20047  546.47   10.5   0.00037 actin cytoskeleton-regulatory complex protein PAN1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K07870  234.03   10.5   0.00054 mitochondrial Rho GTPase 1 [EC:3.6.5.-]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K12364  723.63   10.0   0.00079 RAS guanyl-releasing protein, other
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K08580 1097.47    9.8   0.00062 calpain-11 [EC:3.4.22.-]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K19936  434.17    9.0    0.0038 visinin-like protein 1
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K12472  271.07    8.7    0.0015 epidermal growth factor receptor substrate 15
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K12754  327.43    8.4    0.0058 myosin regulatory light chain 7
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K02857  132.97    8.4    0.0034 rhomboid-related protein 1/2/3 [EC:3.4.21.105]
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K16900  583.00    8.3    0.0023 two pore calcium channel protein, plant
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K22827  278.43    8.2    0.0027 calcium uptake protein 1, mitochondrial
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K04837 3002.50    8.2   0.00091 voltage-gated sodium channel type IV alpha
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K12757  280.07    6.5     0.026 myosin regulatory light chain 12
+  NODE_41200_length_1625_cov_455.115044_g10_i9542.p1  K18617   91.67    5.1     0.067 allograft inflammatory factor 1
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K08606  782.67  201.9   6.5e-62 meprin B [EC:3.4.24.63]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K08076  346.27  188.1   1.2e-57 astacin [EC:3.4.24.21]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K18543  429.97  171.6   1.3e-52 choriolysin H [EC:3.4.24.67]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K08778  332.10  153.8   2.8e-47 astacin-like metalloendopeptidase [EC:3.4.-.-]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K01395  831.90  152.8   4.4e-47 meprin A [EC:3.4.24.18]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K09608 1676.20  147.6   1.6e-45 tolloid-like protein 1 [EC:3.4.24.-]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K18542  370.13  143.9   2.4e-44 choriolysin L [EC:3.4.24.66]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K13047 1648.40  141.1   1.3e-43 tolloid-like protein 2 [EC:3.4.24.-]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K05502 1766.10  133.1   4.2e-41 bone morphogenetic protein 1 [EC:3.4.24.19]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K13046 1627.73   99.6   4.6e-31 tolkin [EC:3.4.24.-]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K13045 1604.57   97.1   2.8e-30 tolloid [EC:3.4.24.-]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K20138  670.20   73.0   7.8e-23 flavastacin [EC:3.4.24.76]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K10641  230.33   45.1   1.4e-14 E3 ubiquitin-protein ligase LRSAM1 [EC:2.3.2.27]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K06265  134.80   20.2   4.8e-07 dystroglycan 1
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K24133  468.77   19.7   1.2e-06 serine proteinase stubble [EC:3.4.21.-]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K06261  242.17   17.3   4.4e-06 platelet glycoprotein Ib alpha chain
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K06501  264.20   15.5   3.3e-05 CD68 antigen
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K24506  689.20   14.1   4.6e-05 vitrin
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K08451  920.10   14.1   2.7e-05 adhesion G-protein coupled receptor G2
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K04593 1195.23   13.6   4.2e-05 adhesion G protein-coupled receptor L2
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K26024  170.13   13.3   0.00015 Herpesviridae envelope glycoprotein I
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K20413  239.53   13.2   0.00013 hepatitis A virus cellular receptor 1
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K06257  197.83   13.2   0.00028 syndecan 1
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K06260  413.00   11.3   0.00014 platelet glycoprotein V
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K17843  533.50   11.1    0.0012 KH domain-containing, RNA-binding, signal transduction-associated protein 2
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K07995  896.70   10.5   0.00067 matrix metalloproteinase-15 (membrane-inserted) [EC:3.4.24.-]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K17586  185.93   10.3   0.00049 PHD and RING finger domain-containing protein 1
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K26284   55.97    9.4    0.0012 S-layer glycoprotein
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K06757 1593.63    9.1   0.00082 neurofascin
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K19012  169.53    9.0    0.0033 lymphatic vessel endothelial hyaluronan receptor 1
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K26812  407.43    7.6    0.0052 XK-related protein 5
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K11504   88.57    7.5    0.0068 centromere protein L
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K07996  948.07    7.2    0.0065 matrix metalloproteinase-16 (membrane-inserted) [EC:3.4.24.-]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K13838 1512.33    7.1    0.0028 merozoite surface protein 1
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K06562  244.60    7.0     0.012 lysosomal-associated membrane protein 3
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K02238   56.07    6.9    0.0085 competence protein ComEC
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K16337  241.97    6.8     0.015 syndecan 3
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K24516  796.33    6.5    0.0055 inter-alpha-trypsin inhibitor heavy chain H6
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K22019  114.10    4.7     0.054 mucin-15
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K15522  611.00    4.2     0.057 protein-fructosamine 3-kinase [EC:2.7.1.171]
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K14306   71.90    3.6     0.088 nuclear pore complex protein Nup62
+  NODE_46191_length_1408_cov_448.231502_g55_i7.p1     K26936  328.23    2.0      0.22 T-cell immunoglobulin and mucin domain-containing protein 4
+  NODE_46713_length_1386_cov_551.653016_g12864_i0.p1  -            -      -         - -
+  NODE_46713_length_1386_cov_551.653016_g12864_i0.p2  -            -      -         - -
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K06238  438.00   64.5   8.1e-21 collagen type VI alpha
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K19467  350.83   48.9   1.7e-15 matrilin
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K08132 1657.93   41.0     7e-14 collagen type XII alpha
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K06481 1287.03   40.9     2e-13 integrin alpha 2
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K06461 1450.30   40.1   2.4e-13 integrin alpha M
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K05030  146.43   38.4   1.2e-12 calcium-activated chloride channel regulator 3/4
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K13837  337.50   35.3   2.6e-11 thrombospondin-related anonymous protein
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K06480 1338.20   34.3     2e-11 integrin alpha 1
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K24508  542.40   33.4   5.5e-11 von Willebrand factor A domain-containing protein 2
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K06462 2077.97   31.7   1.2e-10 integrin alpha X
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K06587 1560.07   28.7   9.8e-10 integrin alpha 11
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K16628  770.87   28.0   6.2e-10 collagen type VII alpha
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K06594 1992.23   26.5   4.9e-09 integrin alpha D
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K05718 1013.40   25.7   8.1e-09 integrin alpha L
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K01332  863.97   23.5   3.4e-08 complement component 2 [EC:3.4.21.43]
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K01335  898.67   22.7   8.8e-08 complement factor B [EC:3.4.21.47]
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K05028 1151.60   22.3     1e-07 calcium-activated chloride channel regulator 2
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K24507  335.80   21.2   3.4e-07 von Willebrand factor A domain-containing protein 1
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K24515  857.83   14.7   1.7e-05 inter-alpha-trypsin inhibitor heavy chain H5
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K23574  729.83   13.3   8.8e-05 cochlin
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K03405  213.20   13.1   0.00011 magnesium chelatase subunit I [EC:6.6.1.1]
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K24506  689.20   12.9   0.00011 vitrin
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K24513 1194.57   12.7   5.6e-05 inter-alpha-trypsin inhibitor heavy chain H3
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K20909  232.43   12.5   0.00016 anthrax toxin receptor
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K06524  846.87   12.5     9e-05 integrin alpha E
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K06586 1591.20   12.1   9.9e-05 integrin alpha 10
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K03404  480.13   12.0   0.00025 magnesium chelatase subunit D [EC:6.6.1.1]
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p1   K00518  102.20   11.4   0.00059 nickel superoxide dismutase [EC:1.15.1.1]
+  NODE_48795_length_1296_cov_75.446927_g13678_i0.p2   K07508  558.20    6.2     0.011 acetyl-CoA acyltransferase 2 [EC:2.3.1.16]
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K03283 1090.23  569.7  3.8e-173 heat shock 70kDa protein 1/6/8
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K26598 1365.43  536.1  4.1e-163 heat shock 70kDa protein 2
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K09490 1109.37  523.8  3.3e-159 endoplasmic reticulum chaperone BiP [EC:3.6.4.10]
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K04043  803.40  397.7  5.1e-121 molecular chaperone DnaK
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K04044  703.93  286.3   2.2e-87 molecular chaperone HscA
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K04045  620.10  242.6   2.9e-74 molecular chaperone HscC
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K09489 1126.93  228.6   6.6e-70 heat shock 70kDa protein 4
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K09486  606.73  167.5   1.5e-51 hypoxia up-regulated 1
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K09485 1400.20  165.5   6.3e-51 heat shock protein 110kDa
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K09491  457.40  114.2     2e-35 stress 70 protein chaperone microsome-associated 60kDa protein
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K04046  268.13   52.2   1.3e-16 hypothetical chaperone protein
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K03590  122.77   34.3   5.1e-11 cell division protein FtsA
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K03569  109.57   20.8   5.5e-07 rod shape-determining protein MreB and related proteins
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K00854  327.83   20.3   8.6e-07 xylulokinase [EC:2.7.1.17]
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K23876  263.60   17.5     7e-06 (R)-2-hydroxyacyl-CoA dehydratese activating ATPase [EC:5.6.1.9]
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K02662  115.27   16.3   1.6e-05 type IV pilus assembly protein PilM
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K11985   83.13   10.7   0.00077 TRAF-interacting protein [EC:2.3.2.27]
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K06244  724.37    9.0    0.0009 laminin, beta 3
+  NODE_48887_length_1293_cov_37.583200_g13722_i0.p1   K16766  105.17    8.2    0.0025 centrosomal protein CEP85
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p1  K07027   78.07    1.5      0.67 glycosyltransferase 2 family protein
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p1  K16922   74.03    0.8      0.63 putative peptide zinc metalloprotease protein
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p1  K07778  167.13    0.3       1.1 two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3]
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K07697  307.90    5.4     0.033 two-component system, sporulation sensor kinase B [EC:2.7.13.3]
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K07778  167.13    4.5      0.06 two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3]
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K11936  260.77    4.2     0.054 poly-beta-1,6-N-acetyl-D-glucosamine synthase [EC:2.4.1.-]
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K09525  163.50    3.7      0.17 DnaJ homolog subfamily C member 5
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K08082  268.00    3.7       0.1 two-component system, LytTR family, sensor histidine kinase AlgZ [EC:2.7.13.3]
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K07706  117.03    3.0      0.15 two-component system, LytTR family, sensor histidine kinase AgrC [EC:2.7.13.3]
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K02847  112.97    2.9      0.13 O-antigen ligase [EC:2.4.99.26]
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K18967  241.83    2.7      0.21 diguanylate cyclase [EC:2.7.7.65]
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K10135   80.30    1.9      0.54 scotin
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K22452   78.20    1.8      0.27 protein-glutamine gamma-glutamyltransferase [EC:2.3.2.13]
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K16785  112.63    1.8      0.39 energy-coupling factor transport system permease protein
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K04928 1075.00    1.8      0.19 potassium voltage-gated channel KQT-like subfamily member 3
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K17930  237.57    1.0      0.31 sorting nexin-19
+  NODE_50117_length_1245_cov_482.574043_g2153_i27.p2  K00981   49.83    0.9      0.86 phosphatidate cytidylyltransferase [EC:2.7.7.41]
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06839 2244.50   43.0   3.3e-14 slit 2
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K20994 3343.03   40.0   3.2e-13 Notch 2
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06051  607.57   38.5   1.8e-12 delta
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06794 1051.23   36.6   5.7e-12 neurocan core protein
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K20995 3286.23   35.6   5.7e-12 Notch 3
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K16681  450.40   34.9   1.2e-11 protein crumbs
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K02599 3084.43   34.9   9.8e-12 Notch 1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24469 1129.90   33.9   1.5e-11 sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24463  426.27   33.9   4.6e-11 delta and Notch-like epidermal growth factor-related receptor
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06052 1669.47   32.1   1.1e-10 jagged-1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K04600 4237.17   31.3   8.9e-11 cadherin EGF LAG seven-pass G-type receptor 1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K16506 1886.87   25.8   2.3e-09 protocadherin Fat 1/2/3
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24341  619.70   23.3   5.2e-08 pikachurin
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K01320  631.43   22.8     1e-07 coagulation factor VII [EC:3.4.21.21]
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06850 2530.83   22.7   5.4e-08 slit 3
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24470  501.27   22.3   7.6e-08 insulin-responsive sequence DNA-binding protein 1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K19601  505.87   22.2     8e-08 protein eyes shut
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K08648  587.83   21.7   2.5e-07 hyaluronan binding protein 2 [EC:3.4.21.-]
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06838 2424.97   21.4   1.2e-07 slit 1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06793  839.30   21.4   1.1e-07 versican core protein
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24462  378.17   21.3   4.7e-07 protein delta homolog 2
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K04550 5209.50   21.3   5.6e-08 low-density lipoprotein receptor-related protein 1 (alpha-2-macroglobulin receptor)
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K21635 1720.70   19.2   8.5e-07 jagged-2
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24362  351.07   19.1     1e-06 inactive serine protease PAMR1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24467  457.83   17.3   5.7e-06 vitamin K-dependent protein Z
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24461  362.10   17.1   7.6e-06 protein delta homolog 1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K14616  626.57   17.0   1.3e-06 cubilin
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K09631  722.47   16.6   9.4e-06 hepatocyte growth factor activator [EC:3.4.21.-]
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K04601 4867.83   16.4   2.7e-06 cadherin EGF LAG seven-pass G-type receptor 2
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K01314  687.53   16.4   7.5e-06 coagulation factor X [EC:3.4.21.6]
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06813  989.67   16.0   3.4e-06 cadherin 23
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K01328  720.60   15.7   1.9e-05 coagulation factor XII (Hageman factor) [EC:3.4.21.38]
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K01321  615.17   15.3   2.3e-05 coagulation factor IX (Christmas factor) [EC:3.4.21.22]
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06792 1370.87   14.8   1.5e-05 aggrecan 1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K25454  198.57   14.5   7.7e-05 cryptic protein
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24466  439.83   13.9   8.7e-05 Notch homolog 2 N-terminal-like protein
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K04602 4927.60   13.9   1.2e-05 cadherin EGF LAG seven-pass G-type receptor 3
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K20996 1023.70   12.7   5.4e-05 Notch 4
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K04591  869.30   12.6   9.8e-05 adhesion G protein-coupled receptor E1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06795  852.43   11.3   0.00024 brevican
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K17307  443.97   10.7   0.00037 fibulin 1/2
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24472  446.37   10.6   0.00036 protein HEG
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06254  550.43   10.0    0.0003 agrin
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K11987 1086.97    9.7   0.00089 prostaglandin-endoperoxide synthase 2 [EC:1.14.99.1]
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K04595  606.30    9.5    0.0011 adhesion G protein-coupled receptor L4
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06495  475.43    8.4    0.0042 selectin, lymphocyte
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K01344  545.23    7.1    0.0055 protein C (activated) [EC:3.4.21.69]
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K08023  963.77    6.5    0.0044 latent transforming growth factor beta binding protein 2/3/4
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24465  149.73    6.3      0.02 epidermal growth factor-like protein 7/8
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K07379 1804.03    5.6    0.0069 contactin associated protein 1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K17342  244.90    5.3     0.028 fibulin 7
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K05458   91.63    5.3     0.051 neuregulin 4
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K06826  326.63    4.3     0.022 nidogen (entactin)
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K19559 1072.30    2.4     0.075 latent transforming growth factor beta binding protein 1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K01691  152.17    1.7      0.33 WNT inhibitory factor 1
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K02447  231.73    1.6      0.68 protein gruken
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K08446  873.03   -1.0       1.4 CD97 antigen
+  NODE_51610_length_1185_cov_1041.008757_g14806_i0.p1 K24464  686.87   -4.3        20 EGF-like repeat and discoidin I-like domain-containing protein 3
+  NODE_52322_length_1156_cov_254.329739_g10503_i1.p1  K23489  855.20   11.2   0.00024 HGF/MSP/plasminogen-like protein
+  NODE_52322_length_1156_cov_254.329739_g10503_i1.p1  K24140  237.73   11.1   0.00074 glutaredoxin-dependent peroxiredoxin [EC:1.11.1.25]
+  NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1 K03098   91.53   91.3   3.5e-28 apolipoprotein D and lipocalin family protein
+  NODE_53043_length_1126_cov_1266.348107_g15154_i1.p1 K18271  102.30   15.9   2.2e-05 retinol-binding protein 4
+  NODE_53944_length_1092_cov_244.231649_g15849_i0.p1  K14958 1205.03    1.1      0.36 kinase suppressor of Ras 1
+  NODE_53944_length_1092_cov_244.231649_g15849_i0.p2  -            -      -         - -
+  NODE_54024_length_1089_cov_591.498088_g10_i11390.p1 -            -      -         - -
+  NODE_54024_length_1089_cov_591.498088_g10_i11390.p2 K21588       -   11.4    0.0005 umbelliferone 6-dimethylallyltransferase [EC:2.5.1.139]
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K10104  360.53  232.9     3e-71 ficolin
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K25409  352.10  220.7   1.5e-67 microfibrillar-associated protein 4
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K05466  682.53  214.0   1.7e-65 angiopoietin 2
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K25537  419.23  208.8   7.5e-64 fibroleukin
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K25356  641.17  204.4   1.5e-62 angiopoietin-related protein 1
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K25358  351.27  203.3   2.8e-62 angiopoietin-related protein 7
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K05467  660.93  196.2   4.3e-60 angiopoietin 4
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K25536  341.20  192.0   6.4e-59 fibrinogen-like protein 1
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K25360  663.37  190.3   2.6e-58 angiopoietin-related protein 6
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K05465  736.20  190.2   2.2e-58 angiopoietin 1
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K25359  757.63  181.4   1.2e-55 angiopoietin-related protein 2
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K06252  376.47  163.9   1.5e-50 tenascin
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K08767  446.60  163.2     4e-50 angiopoietin-like 4
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K03905  426.33  140.0     4e-43 fibrinogen gamma chain
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K03903  333.57  133.8   2.6e-41 fibrinogen alpha chain
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K22288  581.67  127.7   1.5e-39 angiopoietin-like 3
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K25357  262.03  126.5   4.3e-39 angiopoietin-related protein 5
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K03904  567.63  107.5   2.8e-33 fibrinogen beta chain
+  NODE_55973_length_1019_cov_295.808402_g16863_i0.p1  K17527   59.83   35.5   2.3e-11 intelectin
+  NODE_56798_length_990_cov_189.288279_g17292_i0.p1   K02354  730.07   13.2   9.2e-05 frizzled 4
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p1    -            -      -         - -
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K03686  396.83   90.7   4.3e-28 molecular chaperone DnaJ
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K05516  348.40   89.6     1e-27 curved DNA-binding protein
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09517  362.00   81.9   1.6e-25 DnaJ homolog subfamily B member 11
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09504  422.67   79.0   1.2e-24 DnaJ homolog subfamily A member 3
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09514  310.27   78.9   3.1e-24 DnaJ homolog subfamily B member 8
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K14002  402.13   78.1   2.1e-24 DnaJ-related protein SCJ1
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09508  381.73   76.7   8.3e-24 DnaJ homolog subfamily B member 2
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09525  163.50   76.5     1e-23 DnaJ homolog subfamily C member 5
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09515  167.33   76.4   1.3e-23 DnaJ homolog subfamily B member 9
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09511  594.03   75.0   3.2e-23 DnaJ homolog subfamily B member 5
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09509  428.00   74.7   4.6e-23 DnaJ homolog subfamily B member 3
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09510  455.33   74.6   3.7e-23 DnaJ homolog subfamily B member 4
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09503  592.20   72.5   1.2e-22 DnaJ homolog subfamily A member 2
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09502  625.17   71.8   2.3e-22 DnaJ homolog subfamily A member 1
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09529  126.77   71.7   2.5e-22 DnaJ homolog subfamily C member 9
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K17867  103.63   71.5   3.5e-22 diphthamide biosynthesis protein 4
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09512  366.20   71.4   4.3e-22 DnaJ homolog subfamily B member 6
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09536  221.10   68.4   1.5e-21 DnaJ homolog subfamily C member 16
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09530  552.43   68.3   1.5e-21 DnaJ homolog subfamily C member 10 [EC:1.8.4.-]
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09506  157.00   67.1   5.4e-21 DnaJ homolog subfamily A member 5
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09527  334.13   67.0   5.7e-21 DnaJ homolog subfamily C member 7
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09523  339.77   66.0   1.1e-20 DnaJ homolog subfamily C member 3
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09540  324.03   65.9   8.9e-21 translocation protein SEC63
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09524  118.03   64.1   6.9e-20 DnaJ homolog subfamily C member 4
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09518  166.60   63.5   7.2e-20 DnaJ homolog subfamily B member 12
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K19374  124.40   63.0   1.4e-19 DnaJ homolog subfamily C member 30
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09537  109.43   62.9   1.3e-19 DnaJ homolog subfamily C member 17
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09521  136.43   61.3   2.6e-19 DnaJ homolog subfamily C member 1
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09507  583.60   60.8   4.9e-19 DnaJ homolog subfamily B member 1
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09520  558.63   60.3   7.2e-19 DnaJ homolog subfamily B member 14
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K05801   90.97   60.0   9.5e-19 DnaJ like chaperone protein
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09513  466.70   59.8   1.3e-18 DnaJ homolog subfamily B member 7
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K23051  219.80   57.2   9.2e-18 NAD(P)H-quinone oxidoreductase subunit T, chloroplastic [EC:7.1.1.-]
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K19371  110.60   54.8   3.1e-17 DnaJ homolog subfamily C member 25
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09522  210.57   54.4   3.7e-17 DnaJ homolog subfamily C member 2
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09531  153.57   51.0   3.3e-16 DnaJ homolog subfamily C member 11
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09538  510.43   48.1   3.1e-15 DnaJ homolog subfamily C member 18
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K19370  137.03   47.7   3.9e-15 DnaJ homolog subfamily C member 22
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09534  243.83   46.5   8.6e-15 DnaJ homolog subfamily C member 14
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09532   95.77   45.3   3.6e-14 DnaJ homolog subfamily C member 12
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09519  412.93   42.1   2.9e-13 DnaJ homolog subfamily B member 13
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09505  732.87   41.5   2.7e-13 DnaJ homolog subfamily A member 4
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K02288  261.27   41.1     5e-13 phycocyanobilin lyase subunit alpha [EC:4.4.1.32]
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09528  104.77   40.6   7.1e-13 DnaJ homolog subfamily C member 8
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09533  754.47   36.4   3.6e-12 DnaJ homolog subfamily C member 13
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K20298  163.03   35.9   1.1e-11 vacuolar protein sorting-associated protein 52
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K19373   89.17   31.3   4.8e-10 DnaJ homolog subfamily C member 28
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K19372  203.77   26.2   1.5e-08 DnaJ homolog subfamily C member 27
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K09539   74.73   25.1   5.8e-08 DnaJ homolog subfamily C member 19
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K00728   83.67   19.5   9.6e-07 dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109]
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K04082   74.30   12.1   0.00036 molecular chaperone HscB
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K18421  202.50   11.7   0.00035 R2D2
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K15334  858.13   11.6   0.00022 multisite-specific tRNA:(cytosine-C5)-methyltransferase [EC:2.1.1.202]
+  NODE_58353_length_939_cov_28.969866_g18158_i0.p2    K13517  386.20   10.7    0.0005 lysophospholipid acyltransferase 1/2 [EC:2.3.1.51 2.3.1.-]
+  NODE_61572_length_832_cov_375.176172_g13484_i2.p1   -            -      -         - -
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K01365  513.07  301.5   4.7e-92 cathepsin L [EC:3.4.22.15]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K01371  511.90  264.4   9.1e-81 cathepsin K [EC:3.4.22.38]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K16290  531.57  261.4   5.1e-80 xylem cysteine proteinase [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K01368  531.87  254.8   5.1e-78 cathepsin S [EC:3.4.22.27]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K01373  400.13  246.2   2.2e-75 cathepsin F [EC:3.4.22.41]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K01366  397.73  235.5     4e-72 cathepsin H [EC:3.4.22.16]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K25900  637.37  231.1   8.1e-71 cysteine proteinase RD21 [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K01375  585.80  228.2     5e-70 cathepsin V [EC:3.4.22.43]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K16292  482.80  207.0     2e-63 KDEL-tailed cysteine endopeptidase [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K25899  647.80  206.3   2.5e-63 germination-specific cysteine protease 1 [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K24379  629.00  187.8   9.6e-58 cathepsin 8 [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K13537  676.83  178.9   5.6e-55 cysteine peptidase B [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K01374  335.20  175.2   1.1e-53 cathepsin O [EC:3.4.22.42]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K20741  447.30  173.0   3.2e-53 Baculoviridae V-cath endopeptidase [EC:3.4.22.50]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K08570  439.90  171.4     1e-52 histolysain [EC:3.4.22.35]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K13441  628.33  167.3     2e-51 cysteine protease
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K09599  606.40  165.7   6.2e-51 cathepsin P [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K13538  694.97  165.3   7.8e-51 cysteine peptidase A [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K20740       -  164.1     2e-50 glycyl endopeptidase [EC:3.4.22.25]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K20738       -  162.5   5.6e-50 chymopapain [EC:3.4.22.6]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K06000  759.73  155.8   5.2e-48 papain [EC:3.4.22.2]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K24271  694.57  152.7   4.6e-47 testin-2
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K08569  380.63  151.5   1.1e-46 cathepsin W [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K20739       -  151.1   1.5e-46 caricain [EC:3.4.22.30]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K09601  623.80  149.2   5.9e-46 cathepsin R [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K09600  706.93  147.2   2.1e-45 cathepsin M [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K08571  873.83  132.6   7.3e-41 cruzipain [EC:3.4.22.51]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K24378  710.53  127.3   2.6e-39 cathepsin Q [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K01275  273.47   91.6   2.1e-28 cathepsin C [EC:3.4.14.1]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K08568  233.70   70.3   6.4e-22 cathepsin X [EC:3.4.18.1]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K01363  225.57   54.9   2.9e-17 cathepsin B [EC:3.4.22.1]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K26834  876.50   32.0   1.9e-10 Marseillevirus papain-like cysteine peptidase
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K08572  517.80   25.1   3.5e-08 cysteine peptidase C [EC:3.4.22.-]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K26833 1090.97   25.0   2.7e-08 Marseillevirus papain-like cysteine peptidase
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K01372   84.33   18.4   2.9e-06 bleomycin hydrolase [EC:3.4.22.40]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K26838  590.20   14.5   6.2e-05 Mimiviridae cathepsin B cystein protease
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K20941  401.70   12.3   0.00026 gamma-resorcylate decarboxylase [EC:4.1.1.103]
+  NODE_62097_length_816_cov_16.260026_g20427_i0.p1    K17619   53.37   11.4   0.00062 magnesium-dependent phosphatase 1 [EC:3.1.3.48 3.1.3.-]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K20994 3343.03   92.1   6.3e-29 Notch 2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K02599 3084.43   92.0   5.8e-29 Notch 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06052 1669.47   91.9   9.4e-29 jagged-1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06051  607.57   91.3     2e-28 delta
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K21635 1720.70   90.4   2.7e-28 jagged-2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K19601  505.87   87.0   2.2e-27 protein eyes shut
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K16681  450.40   82.2   6.2e-26 protein crumbs
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K20995 3286.23   81.8   6.8e-26 Notch 3
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24469 1129.90   80.7   1.2e-25 sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K16506 1886.87   78.7   2.8e-25 protocadherin Fat 1/2/3
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24470  501.27   74.9   1.1e-23 insulin-responsive sequence DNA-binding protein 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K20996 1023.70   73.8     2e-23 Notch 4
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K08648  587.83   72.3   1.2e-22 hyaluronan binding protein 2 [EC:3.4.21.-]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06839 2244.50   70.7   1.5e-22 slit 2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24466  439.83   66.3   9.1e-21 Notch homolog 2 N-terminal-like protein
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06850 2530.83   65.8     5e-21 slit 3
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24463  426.27   64.9   1.9e-20 delta and Notch-like epidermal growth factor-related receptor
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K04601 4867.83   63.9   1.3e-20 cadherin EGF LAG seven-pass G-type receptor 2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06838 2424.97   63.6   2.1e-20 slit 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K04600 4237.17   61.3   8.5e-20 cadherin EGF LAG seven-pass G-type receptor 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24461  362.10   51.6   2.5e-16 protein delta homolog 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K04602 4927.60   51.2   6.9e-17 cadherin EGF LAG seven-pass G-type receptor 3
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24462  378.17   49.3   1.6e-15 protein delta homolog 2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K14616  626.57   48.1   5.6e-16 cubilin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06254  550.43   47.7   1.3e-15 agrin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K19020 3164.07   47.2   1.6e-15 stabilin-1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06794 1051.23   44.1     3e-14 neurocan core protein
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K04550 5209.50   43.8   9.3e-15 low-density lipoprotein receptor-related protein 1 (alpha-2-macroglobulin receptor)
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24464  686.87   42.9   9.5e-14 EGF-like repeat and discoidin I-like domain-containing protein 3
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06252  376.47   38.7   8.5e-13 tenascin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K01691  152.17   36.5   9.2e-12 WNT inhibitory factor 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K19013 3022.37   35.8   4.6e-12 stabilin-2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24489  376.13   34.3   4.4e-11 fibronectin type III and SPRY domain-containing protein 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24473  777.03   31.4   8.7e-11 teneurin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24472  446.37   31.4   1.8e-10 protein HEG
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K04591  869.30   30.4   4.2e-10 adhesion G protein-coupled receptor E1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K04595  606.30   29.4   1.1e-09 adhesion G protein-coupled receptor L4
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06702  604.30   28.7   1.6e-09 CDW93 antigen
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K08023  963.77   27.8   1.6e-09 latent transforming growth factor beta binding protein 2/3/4
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K08446  873.03   27.6   3.3e-09 CD97 antigen
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06255 1312.33   27.2     1e-09 basement membrane-specific heparan sulfate proteoglycan core protein
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24831 2148.43   26.4   2.1e-09 zonadhesin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06793  839.30   26.4   3.4e-09 versican core protein
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K01314  687.53   25.7   1.2e-08 coagulation factor X [EC:3.4.21.6]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06795  852.43   25.3   1.4e-08 brevican
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K01320  631.43   25.3   1.8e-08 coagulation factor VII [EC:3.4.21.21]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K07380 1636.83   24.9   1.3e-08 contactin associated protein-like 2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K01125  218.77   24.5   3.6e-08 N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase [EC:3.1.4.45]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K07379 1804.03   24.3   1.6e-08 contactin associated protein 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24431  242.87   23.9   5.5e-08 oncoprotein-induced transcript 3 protein
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K01328  720.60   23.6   7.5e-08 coagulation factor XII (Hageman factor) [EC:3.4.21.38]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24467  457.83   23.4   8.3e-08 vitamin K-dependent protein Z
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06826  326.63   23.2   4.3e-08 nidogen (entactin)
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K03907  336.90   23.1   5.4e-08 thrombomodulin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24500  344.57   22.5   1.1e-07 vasorin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06231  671.03   22.5   9.8e-08 hedgehog interacting protein
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24342  307.27   21.6   1.7e-07 protein kinase C-binding protein NELL
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K17342  244.90   21.4   3.8e-07 fibulin 7
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K01344  545.23   21.4   2.4e-07 protein C (activated) [EC:3.4.21.69]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K01321  615.17   20.9   4.4e-07 coagulation factor IX (Christmas factor) [EC:3.4.21.22]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06495  475.43   20.5   8.9e-07 selectin, lymphocyte
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K03997  664.17   20.3   5.1e-07 complement component 8 subunit alpha
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24333  727.70   20.2   3.4e-07 multiple epidermal growth factor-like domains protein 6
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K20049 7621.40   20.0   1.1e-07 low-density lipoprotein receptor-related protein 1B
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K05121 1280.40   19.3   8.7e-07 endothelial-specific receptor tyrosine kinase [EC:2.7.10.1]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K17307  443.97   18.3   1.9e-06 fibulin 1/2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24508  542.40   17.3   4.1e-06 von Willebrand factor A domain-containing protein 2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K05464  892.20   16.9   4.4e-06 growth arrest-specific 6
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24341  619.70   16.5     6e-06 pikachurin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K03908  952.33   16.2   8.5e-06 protein S
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24318  706.63   15.8   1.5e-05 scavenger receptor class F member 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06792 1370.87   15.8   7.4e-06 aggrecan 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06494  512.97   15.8   1.7e-05 selectin, endothelial cell
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K04357  543.00   15.8   8.1e-06 epidermal growth factor
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24337 2137.83   15.6   7.3e-06 contactin associated protein-like 3/4
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K05120 1324.90   15.6   1.2e-05 tyrosine kinase receptor 1 [EC:2.7.10.1]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K16691  226.23   15.5   4.7e-05 keren
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K03998  573.47   15.4   1.7e-05 complement component 8 subunit beta
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06825  891.30   15.1   9.1e-06 fibrillin 1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24465  149.73   15.0   4.7e-05 epidermal growth factor-like protein 7/8
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24338 2165.67   14.9   1.2e-05 contactin associated protein-like 5
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24362  351.07   14.7   2.2e-05 inactive serine protease PAMR1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K18033 1069.63   14.7   2.6e-05 receptor-type tyrosine-protein phosphatase epsilon [EC:3.1.3.48]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K23607  491.97   14.6   4.8e-05 tomoregulin-1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K09631  722.47   14.3   4.7e-05 hepatocyte growth factor activator [EC:3.4.21.-]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K16690  247.03   14.2   5.8e-05 protein vein
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K12464 1291.07   14.1   4.2e-05 melanoma-associated antigen D1
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K07377  265.90   13.9   2.1e-05 neurexin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K19467  350.83   13.8   6.7e-05 matrilin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06813  989.67   13.3   2.2e-05 cadherin 23
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K01395  831.90   13.3   6.6e-05 meprin A [EC:3.4.24.18]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K13297 1385.00   12.7   9.9e-05 receptor-type tyrosine-protein phosphatase T [EC:3.1.3.48]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K23664  559.43   12.6   3.6e-05 multipile epidermal growth factor-like domains protein 8
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K01343  432.93   12.2   0.00017 tissue plasminogen activator [EC:3.4.21.68]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K17340  574.13   12.1   0.00032 fibulin 5
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K25740  728.90   11.9   0.00013 soluble scavenger receptor cysteine-rich domain-containing protein SSC5D
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K11987 1086.97   11.6   0.00023 prostaglandin-endoperoxide synthase 2 [EC:1.14.99.1]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K03996  668.23   11.6    0.0002 complement component 7
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K01313  524.67   11.6   0.00023 coagulation factor II (thrombin) [EC:3.4.21.5]
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K03995  705.73   11.5   0.00021 complement component 6
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K23608  468.13   11.2   0.00049 tomoregulin-2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K20053 1168.60   11.2   0.00027 very low-density lipoprotein receptor
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06824  584.27   11.1   0.00037 nephronectin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K14479  236.30   10.7    0.0014 procyclin
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06233 1948.93    9.5   0.00022 low density lipoprotein-related protein 2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K25527  611.43    9.4    0.0011 epidermal growth factor-like protein 6
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24471   97.53    9.4    0.0038 epigen
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K17298  179.07    9.0    0.0022 mucin-13
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K23601  113.40    8.0    0.0078 serine-rich protein
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06496  753.30    7.9     0.003 selectin, platelet
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06756 1403.47    7.7     0.002 neuronal cell adhesion molecule
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K05458   91.63    7.2     0.014 neuregulin 4
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06240 1514.80    6.4    0.0025 laminin, alpha 3/5
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K20229  228.40    6.1     0.032 protein spitz
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K05637 1350.80    5.3    0.0055 laminin, alpha 1/2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K06590 1033.93    5.1     0.019 integrin beta 7
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K19866  674.97    4.4     0.045 EGF-containing fibulin-like extracellular matrix protein 2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K24319  686.73    4.3     0.049 scavenger receptor class F member 2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K25079  125.10    4.1      0.15 RNA-binding protein 42
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K21536  148.83    3.0      0.39 Orthopoxvirus pro-vaccinia growth factor
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K02184  922.30    2.0      0.14 formin 2
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K22682  357.40    1.1      0.49 c-type lectin domain family 18
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K14323  100.67    0.5       1.1 protein CASC3
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p1    K25462   39.27    0.4       1.4 opiorphin prepropeptide and related proteins
+  NODE_63341_length_778_cov_88.424490_g16070_i2.p2    -            -      -         - -
+  NODE_65404_length_717_cov_420.952522_g22751_i0.p1   K18728  170.10   13.0   0.00013 eukaryotic translation initiation factor 4E transporter
+  NODE_65404_length_717_cov_420.952522_g22751_i0.p1   K04887  780.20    5.8      0.01 potassium voltage-gated channel Shaw-related subfamily C member 1
+  NODE_67460_length_664_cov_75.223833_g24350_i0.p1    -            -      -         - -
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K19822  124.47   19.1   1.9e-06 V-set and immunoglobulin domain-containing protein 4
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K22496  159.70   18.6   5.4e-06 repressor RFG1/ROX1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K20414  304.27   18.2   3.8e-06 hepatitis A virus cellular receptor 2
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K06477   84.53   17.5     6e-06 sialophorin
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K12763  185.97   17.4   1.1e-05 enhanced filamentous growth protein 1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K06710  200.13   16.2   1.6e-05 inducible T-cell co-stimulator ligand
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K08397  477.63   15.6   2.1e-05 relaxin family peptide receptor 3
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K06776 1375.90   15.6   1.3e-05 receptor-type tyrosine-protein phosphatase kappa [EC:3.1.3.48]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K13297 1385.00   15.5   1.4e-05 receptor-type tyrosine-protein phosphatase T [EC:3.1.3.48]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K04194  479.70   15.4   2.1e-05 cholecystokinin A receptor
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K09633  527.43   15.3   2.7e-05 transmembrane protease serine 2 [EC:3.4.21.122]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K05124 1323.17   15.0   1.8e-05 discoidin domain receptor family member 1 [EC:2.7.10.1]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K02571   40.80   14.9    0.0001 periplasmic nitrate reductase NapE
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K00184  241.30   14.7   5.6e-05 dimethyl sulfoxide reductase iron-sulfur subunit
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K04183  476.50   14.6   4.2e-05 C-C chemokine receptor type 8
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K23001   42.37   14.5   4.6e-05 torsin-1A-interacting protein
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K11771  319.77   14.5   3.1e-05 SWI/SNF chromatin-remodeling complex subunit SWI1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K09326  333.70   14.5   0.00011 homeobox protein OTX1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K06765 1836.40   14.5   1.7e-05 deleted in colorectal carcinoma
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K11397  312.30   14.4   3.7e-05 chromatin modification-related protein VID21
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K13851  141.17   14.3   9.4e-05 repetitive interspersed family protein
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K04240  586.70   14.3   5.3e-05 neuropeptide FF receptor 1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K05050  419.80   14.2   5.7e-05 C-X-C chemokine receptor type 2
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K06556  166.57   14.1   6.6e-05 CD200 antigen
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K02223  873.30   14.0   4.5e-05 circadian locomoter output cycles kaput protein [EC:2.3.1.48]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K17500  275.90   13.9   7.4e-05 integrin-linked kinase-associated serine/threonine phosphatase 2C [EC:3.1.3.16]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K10873   94.23   13.8   0.00013 DNA repair and recombination protein RAD52
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K07817  265.40   13.8   6.7e-05 receptor-type tyrosine-protein phosphatase N [EC:3.1.3.48]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K05055  234.20   13.8   6.3e-05 interleukin 6 receptor
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K10578  233.33   13.4   0.00017 ubiquitin-conjugating enzyme E2 J1 [EC:2.3.2.23]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K08600  104.17   13.4   0.00011 sortase B [EC:3.4.22.71]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K06256  220.70   13.4   0.00011 CD44 antigen
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K05144  148.47   13.3    0.0002 tumor necrosis factor receptor superfamily member 7
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K15158  168.50   13.2   7.3e-05 mediator of RNA polymerase II transcription subunit 15, fungi type
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K01309   59.63   13.2   0.00012 ubiquitin carboxyl-terminal hydrolase MINDY-1/2 [EC:3.4.19.12]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K05074   76.90   13.1   0.00018 interleukin 15 receptor alpha
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K08363   68.50   12.8   0.00029 mercuric ion transport protein
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K05125 1060.17   12.7   9.4e-05 discoidin domain receptor family member 2 [EC:2.7.10.1]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K05129  729.50   12.6   0.00011 muscle, skeletal, receptor tyrosine kinase [EC:2.7.10.1]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K19816  117.23   12.5   0.00018 transcription activator MSS11
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K26821  760.10   12.4   0.00011 Alphabaculovirus peptidase MA superfamily
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K23841   76.47   12.4   0.00025 clarin
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K10666  126.40   12.4   0.00038 E3 ubiquitin-protein ligase RNF5/185 [EC:2.3.2.27]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K09408  553.90   12.4   0.00024 forkhead box protein O3
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K12412  193.80   12.3   0.00045 pheromone receptor transcription factor
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K05101 1219.10   12.3   0.00011 neurotrophic tyrosine kinase, receptor type 3 [EC:2.7.10.1]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K11773  179.57   12.0   0.00043 SWI/SNF complex component SNF6
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K18174   36.83   11.9   0.00047 cytochrome c oxidase assembly factor 2
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K15168   94.87   11.9   0.00017 mediator of RNA polymerase II transcription subunit 25
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K12609  288.97   11.9   0.00022 CCR4-NOT transcriptional complex subunit CAF120
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K18032 1169.17   11.8   0.00017 receptor-type tyrosine-protein phosphatase A [EC:3.1.3.48]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K06766 1692.43   11.8   0.00014 neogenin
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K16498  743.67   11.7   0.00015 protocadherin delta 1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K16295  338.57   11.6   0.00037 lysosomal membrane ascorbate-dependent ferrireductase [EC:7.2.1.3]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K01341  778.63   11.6   0.00026 kexin [EC:3.4.21.61]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K21452  107.13   11.5   0.00061 bZIP-type transcription factor MBZ1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K24958  191.50   11.4   0.00039 Herpesviridae envelope glycoprotein E
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K25560  157.53   11.3   0.00056 IGF-like family receptor 1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K05069  207.80   11.1   0.00041 interleukin 2 receptor beta
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K03210   35.80   10.6    0.0017 preprotein translocase subunit YajC
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K25153  156.97   10.4   0.00068 gliding motility-associatede transport system auxiliary component
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K22525  689.93   10.1   0.00099 MKL/myocardin-like protein
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K20053 1168.60   10.1   0.00057 very low-density lipoprotein receptor
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K20413  239.53    9.8    0.0013 hepatitis A virus cellular receptor 1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K09409  949.20    9.8    0.0015 forkhead box protein P2/4
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K23461  488.13    9.6    0.0017 rhomboid [EC:3.4.21.105]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K24309 1171.43    9.5   0.00082 methylcytosine dioxygenase TET2/3 [EC:1.14.11.80]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K11456  405.63    9.5    0.0013 polyhomeotic-like protein 1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K17335  399.10    9.4    0.0012 nuclear factor of activated T-cells 5
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K16499 1037.67    9.4   0.00075 protocadherin delta 2
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K09188 1501.37    9.4   0.00042 [histone H3]-lysine4 N-trimethyltransferase MLL3 [EC:2.1.1.354]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K14972  184.17    9.3    0.0014 PAX-interacting protein 1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K11361   69.87    9.2    0.0017 transcription factor SPT20
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K15162  489.43    9.1   0.00057 mediator of RNA polymerase II transcription subunit 12
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K11786 1631.40    9.1   0.00092 ATP-dependent helicase STH1/SNF2 [EC:5.6.2.-]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K11765  452.93    9.1   0.00096 AT-rich interactive domain-containing protein 2
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K03036  281.37    9.1    0.0018 26S proteasome regulatory subunit N6
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K22485  120.17    8.9    0.0022 protein TBF1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K20347  185.07    8.9    0.0025 p24 family protein beta-1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K13073  129.30    8.9    0.0019 polymeric immunoglobulin receptor
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K11502  172.33    8.8    0.0012 centromere protein J
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K02215  493.63    8.4    0.0046 chorion factor 2
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K10802  378.53    8.3    0.0055 high mobility group protein B1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K03035  175.10    8.3    0.0031 26S proteasome regulatory subunit N5
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K21245  141.70    8.0    0.0031 transcription factor SPT20 homolog
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K17602  143.73    7.5    0.0043 YLP motif-containing protein 1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K20371   59.87    7.4    0.0074 nucleobindin
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K16334  787.67    7.4    0.0053 CREB-regulated transcription coactivator 3
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K03126   81.83    7.3    0.0067 transcription initiation factor TFIID subunit 12
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K11457  583.20    7.1     0.007 polyhomeotic-like protein 2
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K10779  969.53    7.1    0.0028 transcriptional regulator ATRX
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K16333  546.13    6.7    0.0076 CREB-regulated transcription coactivator 2
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K22641   65.97    5.9     0.014 protein tweety
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K15157  145.17    5.9     0.014 mediator of RNA polymerase II transcription subunit 15
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K01349 1056.50    5.7     0.012 furin [EC:3.4.21.75]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K19815  176.50    5.4     0.034 high-osmolarity-induced transcription protein 1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K04413 2353.57    5.0     0.016 misshapen/NIK-related kinase [EC:2.7.11.1]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K10413 2939.03    4.9    0.0053 dynein cytoplasmic 1 heavy chain
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K19483 1949.33    4.8     0.016 neuron navigator 2 [EC:5.6.2.4]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K11320 3141.90    4.8    0.0083 E1A-binding protein p400 [EC:5.6.2.-]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K04887  780.20    4.0     0.038 potassium voltage-gated channel Shaw-related subfamily C member 1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K18748  969.90    3.6     0.051 protein SSD1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K18728  170.10    3.1      0.12 eukaryotic translation initiation factor 4E transporter
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K24769 1061.20    2.8     0.073 transcription factor 20
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K09262  725.03    2.8      0.18 MADS-box transcription enhancer factor 2D
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K09187 2275.00    2.8     0.027 [histone H3]-lysine4 N-trimethyltransferase MLL2 [EC:2.1.1.354]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K26582  643.90    2.2      0.17 mitotic deacetylase-associated SANT domain protein
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K20047  546.47    2.2      0.12 actin cytoskeleton-regulatory complex protein PAN1
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K08883  979.47    2.2      0.17 tripartite motif-containing protein 33 [EC:2.3.2.27]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K04498  442.97    2.0      0.11 E1A/CREB-binding protein [EC:2.3.1.48]
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K14971   45.83    1.8      0.17 nuclear receptor coactivator 6
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K18412  122.60    1.7      0.23 trinucleotide repeat-containing gene 6 protein
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K15561  339.20    1.7      0.41 nuclear polyadenylated RNA-binding protein 3
+  NODE_69090_length_623_cov_390.520690_g11965_i1.p1   K09269  254.07    1.6      0.44 transcription factor SOX5/6/13 (SOX group D)
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K26598 1365.43  260.6   9.6e-80 heat shock 70kDa protein 2
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K09490 1109.37  251.1   8.8e-77 endoplasmic reticulum chaperone BiP [EC:3.6.4.10]
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K03283 1090.23  240.9   9.9e-74 heat shock 70kDa protein 1/6/8
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K04043  803.40  147.7     2e-45 molecular chaperone DnaK
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K04044  703.93   73.9   3.7e-23 molecular chaperone HscA
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K04045  620.10   63.7   4.7e-20 molecular chaperone HscC
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K09489 1126.93   51.5   2.3e-16 heat shock 70kDa protein 4
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K09486  606.73   47.7   2.3e-15 hypoxia up-regulated 1
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K09485 1400.20   32.4   1.1e-10 heat shock protein 110kDa
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K06142   42.57   15.0   6.1e-05 outer membrane protein
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K22837  397.73   13.8   9.6e-05 SAMP-activating enzyme [EC:2.7.7.100]
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K05875  651.50   12.4   0.00021 methyl-accepting chemotaxis protein II, aspartate sensor receptor
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K09542  197.67   12.1   0.00051 crystallin, alpha B
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K13706   89.60   11.1   0.00062 abhydrolase domain-containing protein 14
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K22790  413.50   10.3   0.00078 octopamine receptor beta
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K04483  452.77    9.4    0.0019 DNA repair protein RadA
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K11600  226.73    9.1    0.0024 exosome complex component RRP41
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K04953 1094.57    9.0    0.0017 cyclic nucleotide gated channel beta 3
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K00728   83.67    7.6    0.0039 dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109]
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K05636 2409.23    5.7    0.0075 laminin, beta 1
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K15683  474.27    5.4     0.014 NF-X1-type zinc finger protein NFXL1
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K22051 1064.33    4.2     0.034 miniconductance mechanosensitive channel
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K02779  724.73    3.7     0.058 glucose PTS system EIICB or EIICBA component [EC:2.7.1.199]
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p1    K06240 1514.80    3.4     0.019 laminin, alpha 3/5
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p2    K05650 2995.30    7.5    0.0021 ATP-binding cassette, subfamily A (ABC1), member 8
+  NODE_69585_length_611_cov_14.040493_g26115_i0.p3    -            -      -         - -
+  NODE_69856_length_604_cov_410.035651_g26341_i0.p1   K11250  181.50   12.5   0.00025 leucine efflux protein
+  NODE_69856_length_604_cov_410.035651_g26341_i0.p1   K11474  321.50    7.1     0.012 GntR family transcriptional regulator, glc operon transcriptional activator
+  NODE_71859_length_560_cov_9.729207_g28153_i0.p1     K03231  455.70  357.3    6e-109 elongation factor 1-alpha
+  NODE_71859_length_560_cov_9.729207_g28153_i0.p1     K03267  546.10  122.8     6e-38 peptide chain release factor subunit 3
+  NODE_71859_length_560_cov_9.729207_g28153_i0.p1     K14416  580.07  112.9   5.3e-35 elongation factor 1 alpha-like protein
+  NODE_71859_length_560_cov_9.729207_g28153_i0.p1     K02358  355.77   64.1   3.9e-20 elongation factor Tu
+  NODE_71859_length_560_cov_9.729207_g28153_i0.p1     K00956  536.43   60.6   4.2e-19 sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]
+  NODE_71859_length_560_cov_9.729207_g28153_i0.p1     K00955  740.13   59.8     6e-19 bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25]
+  NODE_71859_length_560_cov_9.729207_g28153_i0.p1     K24887  768.37   43.0     9e-14 GTP-binding protein 1
+  NODE_71859_length_560_cov_9.729207_g28153_i0.p1     K03833  300.80   40.8   4.4e-13 selenocysteine-specific elongation factor
+  NODE_71859_length_560_cov_9.729207_g28153_i0.p1     K24888  748.93   14.5     3e-05 GTP-binding protein 2
+* NODE_72488_length_547_cov_22.700397_g28742_i0.p1    K04079   68.13  271.2   9.3e-83 molecular chaperone HtpG
+  NODE_72488_length_547_cov_22.700397_g28742_i0.p1    K09487 1063.17  249.4   3.2e-76 heat shock protein 90kDa beta
+  NODE_72488_length_547_cov_22.700397_g28742_i0.p1    K09488  750.13  122.3   7.4e-38 TNF receptor-associated protein 1
+  NODE_72488_length_547_cov_22.700397_g28742_i0.p1    K09486  606.73   13.3   5.6e-05 hypoxia up-regulated 1
+  NODE_72488_length_547_cov_22.700397_g28742_i0.p2    -            -      -         - -
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K10104  360.53  241.5   7.3e-74 ficolin
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K25409  352.10  227.3   1.4e-69 microfibrillar-associated protein 4
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K25360  663.37  214.2   1.5e-65 angiopoietin-related protein 6
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K25356  641.17  212.5   5.3e-65 angiopoietin-related protein 1
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K25359  757.63  210.2   2.4e-64 angiopoietin-related protein 2
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K25537  419.23  201.9   9.2e-62 fibroleukin
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K25358  351.27  196.0   4.6e-60 angiopoietin-related protein 7
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K05467  660.93  193.0   4.2e-59 angiopoietin 4
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K05466  682.53  192.0   8.2e-59 angiopoietin 2
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K06252  376.47  185.4   4.9e-57 tenascin
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K05465  736.20  178.0   1.1e-54 angiopoietin 1
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K25536  341.20  175.1   8.7e-54 fibrinogen-like protein 1
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K08767  446.60  143.2   4.8e-44 angiopoietin-like 4
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K25357  262.03  130.7   2.2e-40 angiopoietin-related protein 5
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K22288  581.67  120.9   1.7e-37 angiopoietin-like 3
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K03903  333.57  120.9     2e-37 fibrinogen alpha chain
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K03905  426.33  116.1   6.8e-36 fibrinogen gamma chain
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K03904  567.63  109.1   9.3e-34 fibrinogen beta chain
+  NODE_72911_length_539_cov_12.485887_g29128_i0.p1    K17527   59.83   16.4   1.5e-05 intelectin
+  NODE_73950_length_519_cov_1167.357143_g30101_i0.p1  -            -      -         - -
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K01320  631.43   23.2   8.1e-08 coagulation factor VII [EC:3.4.21.21]
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24470  501.27   22.3   7.7e-08 insulin-responsive sequence DNA-binding protein 1
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K21635 1720.70   21.5   1.8e-07 jagged-2
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06793  839.30   21.5   9.9e-08 versican core protein
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K01321  615.17   21.1   3.9e-07 coagulation factor IX (Christmas factor) [EC:3.4.21.22]
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24462  378.17   20.3   9.6e-07 protein delta homolog 2
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06051  607.57   19.5     1e-06 delta
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24341  619.70   18.7   1.3e-06 pikachurin
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06838 2424.97   18.1   1.2e-06 slit 1
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K01314  687.53   18.0   2.5e-06 coagulation factor X [EC:3.4.21.6]
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24463  426.27   17.6   3.9e-06 delta and Notch-like epidermal growth factor-related receptor
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K20994 3343.03   17.0   2.9e-06 Notch 2
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K02599 3084.43   17.0   2.4e-06 Notch 1
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24466  439.83   16.6   1.3e-05 Notch homolog 2 N-terminal-like protein
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06794 1051.23   16.4   6.7e-06 neurocan core protein
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06052 1669.47   15.5   1.1e-05 jagged-1
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K16506 1886.87   15.0   4.3e-06 protocadherin Fat 1/2/3
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K20996 1023.70   14.6   1.5e-05 Notch 4
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K19601  505.87   14.4   1.9e-05 protein eyes shut
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K16681  450.40   14.2     2e-05 protein crumbs
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06839 2244.50   14.0   1.9e-05 slit 2
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24461  362.10   12.8   0.00015 protein delta homolog 1
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06850 2530.83   12.4   6.8e-05 slit 3
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24500  344.57   12.2   0.00014 vasorin
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24467  457.83   12.1   0.00022 vitamin K-dependent protein Z
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24469 1129.90   12.0     6e-05 sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K20995 3286.23   11.9   8.2e-05 Notch 3
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K01328  720.60   11.6   0.00033 coagulation factor XII (Hageman factor) [EC:3.4.21.38]
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24472  446.37   11.3   0.00021 protein HEG
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K17342  244.90   10.8   0.00062 fibulin 7
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K14616  626.57   10.8    0.0001 cubilin
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06813  989.67   10.8   0.00013 cadherin 23
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K01344  545.23   10.4   0.00054 protein C (activated) [EC:3.4.21.69]
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24464  686.87   10.3   0.00075 EGF-like repeat and discoidin I-like domain-containing protein 3
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06495  475.43    9.9    0.0015 selectin, lymphocyte
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K11987 1086.97    9.6   0.00092 prostaglandin-endoperoxide synthase 2 [EC:1.14.99.1]
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K24508  542.40    8.7    0.0016 von Willebrand factor A domain-containing protein 2
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06795  852.43    8.2    0.0021 brevican
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K04600 4237.17    8.1   0.00089 cadherin EGF LAG seven-pass G-type receptor 1
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K08648  587.83    8.0    0.0033 hyaluronan binding protein 2 [EC:3.4.21.-]
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K04591  869.30    7.5    0.0032 adhesion G protein-coupled receptor E1
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06254  550.43    6.7     0.003 agrin
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K04601 4867.83    5.7    0.0046 cadherin EGF LAG seven-pass G-type receptor 2
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K01691  152.17    3.9     0.069 WNT inhibitory factor 1
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06792 1370.87    3.7     0.033 aggrecan 1
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K05456  667.17    3.6     0.084 neuregulin 2
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K07380 1636.83    1.6      0.14 contactin associated protein-like 2
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K08446  873.03    1.3      0.28 CD97 antigen
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K04550 5209.50    1.1     0.068 low-density lipoprotein receptor-related protein 1 (alpha-2-macroglobulin receptor)
+  NODE_79073_length_433_cov_174.048718_g35116_i0.p1   K06494  512.97    0.8      0.59 selectin, endothelial cell
+  NODE_80684_length_411_cov_7.214674_g36720_i0.p1     -            -      -         - -
+  NODE_80684_length_411_cov_7.214674_g36720_i0.p2     -            -      -         - -
+  NODE_81512_length_400_cov_10.781513_g37544_i0.p1    K23318  114.20   30.6   8.9e-10 gremlin
+  NODE_81512_length_400_cov_10.781513_g37544_i0.p1    K25479  142.40   16.0   2.8e-05 DAN domain family member 5
+  NODE_81512_length_400_cov_10.781513_g37544_i0.p1    K01645  148.17   14.0   0.00011 cerberus 1
+* NODE_83370_length_377_cov_33.125749_g39394_i0.p1    K04079   68.13  112.8   7.3e-35 molecular chaperone HtpG
+  NODE_83370_length_377_cov_33.125749_g39394_i0.p1    K09487 1063.17   93.8   3.4e-29 heat shock protein 90kDa beta
+  NODE_83370_length_377_cov_33.125749_g39394_i0.p1    K09488  750.13   33.7   4.8e-11 TNF receptor-associated protein 1
+  NODE_83370_length_377_cov_33.125749_g39394_i0.p1    K09977  105.20   12.4   0.00028 uncharacterized protein
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p1     K03283 1090.23  237.7   8.9e-73 heat shock 70kDa protein 1/6/8
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p1     K09490 1109.37  201.9   6.6e-62 endoplasmic reticulum chaperone BiP [EC:3.6.4.10]
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p1     K26598 1365.43  194.3   1.1e-59 heat shock 70kDa protein 2
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p1     K09489 1126.93  140.0   4.2e-43 heat shock 70kDa protein 4
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p1     K09485 1400.20  131.6   1.1e-40 heat shock protein 110kDa
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p1     K04043  803.40  129.0   8.7e-40 molecular chaperone DnaK
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p1     K09491  457.40  108.4   1.1e-33 stress 70 protein chaperone microsome-associated 60kDa protein
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p1     K09486  606.73  107.1   2.6e-33 hypoxia up-regulated 1
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p1     K04044  703.93   78.3   1.7e-24 molecular chaperone HscA
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p1     K04045  620.10   58.2   2.1e-18 molecular chaperone HscC
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p1     K04046  268.13   16.6   7.7e-06 hypothetical chaperone protein
+  NODE_83691_length_374_cov_7.126888_g39715_i0.p2     -            -      -         - -
+  NODE_87768_length_333_cov_8.965517_g43790_i0.p1     K03283 1090.23  168.7   6.6e-52 heat shock 70kDa protein 1/6/8
+  NODE_87768_length_333_cov_8.965517_g43790_i0.p1     K09490 1109.37  141.9   8.7e-44 endoplasmic reticulum chaperone BiP [EC:3.6.4.10]
+  NODE_87768_length_333_cov_8.965517_g43790_i0.p1     K26598 1365.43  124.5   1.5e-38 heat shock 70kDa protein 2
+  NODE_87768_length_333_cov_8.965517_g43790_i0.p1     K09489 1126.93  112.9   6.4e-35 heat shock 70kDa protein 4
+  NODE_87768_length_333_cov_8.965517_g43790_i0.p1     K04043  803.40  111.2   2.1e-34 molecular chaperone DnaK
+  NODE_87768_length_333_cov_8.965517_g43790_i0.p1     K09486  606.73  109.9   3.8e-34 hypoxia up-regulated 1
+  NODE_87768_length_333_cov_8.965517_g43790_i0.p1     K09485 1400.20   89.3   6.7e-28 heat shock protein 110kDa
+  NODE_87768_length_333_cov_8.965517_g43790_i0.p1     K04044  703.93   74.6   2.2e-23 molecular chaperone HscA
+  NODE_87768_length_333_cov_8.965517_g43790_i0.p1     K04045  620.10   67.9   2.5e-21 molecular chaperone HscC
+  NODE_87768_length_333_cov_8.965517_g43790_i0.p1     K09491  457.40   53.8   4.2e-17 stress 70 protein chaperone microsome-associated 60kDa protein
+  NODE_87768_length_333_cov_8.965517_g43790_i0.p1     K04046  268.13   30.9   3.6e-10 hypothetical chaperone protein
+  NODE_88512_length_326_cov_88.356890_g44534_i0.p1    -            -      -         - -

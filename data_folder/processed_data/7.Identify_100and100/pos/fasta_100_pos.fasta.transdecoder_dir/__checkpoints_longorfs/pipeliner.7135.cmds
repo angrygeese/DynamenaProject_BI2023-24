@@ -1,0 +1,1 @@
+/usr/bin/miniforge3/envs/stas_project/opt/transdecoder/util/compute_base_probs.pl ./workflow/fasta_100_pos.fasta 0 > /mnt/f/Documents/Bioinformatics_Institute/Semester_project/fasta_100_pos.fasta.transdecoder_dir/base_freqs.dat

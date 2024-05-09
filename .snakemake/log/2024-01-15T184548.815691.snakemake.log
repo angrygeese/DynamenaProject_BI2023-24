@@ -1,0 +1,3 @@
+NameError in file /mnt/d/Users/d2707/Documents/Bioinformatics Institute/Semester_project/Snakefile, line 42:
+name 'output_dir' is not defined
+  File "/mnt/d/Users/d2707/Documents/Bioinformatics Institute/Semester_project/Snakefile", line 42, in <module>

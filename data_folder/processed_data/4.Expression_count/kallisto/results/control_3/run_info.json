@@ -1,0 +1,13 @@
+{
+	"n_targets": 123445,
+	"n_bootstraps": 0,
+	"n_processed": 46379536,
+	"n_pseudoaligned": 40322184,
+	"n_unique": 10777681,
+	"p_pseudoaligned": 86.9,
+	"p_unique": 23.2,
+	"kallisto_version": "0.50.1",
+	"index_version": 13,
+	"start_time": "Thu Mar  7 20:10:41 2024",
+	"call": "./programms/kallisto/build/src/kallisto quant -t 12 -i ./workflow/4. Expression count/kallisto/transcriptome.idx -o ./workflow/4. Expression count/kallisto/results/control_3 --single -l 100 -s 1 ./raw_data/control/control-3.fastq"
+}
