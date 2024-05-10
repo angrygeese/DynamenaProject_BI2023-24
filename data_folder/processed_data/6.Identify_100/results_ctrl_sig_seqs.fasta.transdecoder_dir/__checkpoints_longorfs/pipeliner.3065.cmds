@@ -1,0 +1,1 @@
+/usr/bin/miniforge3/envs/stas_project/opt/transdecoder/util/compute_base_probs.pl data_folder/processed_data/6.Identify_100/results_ctrl_sig_seqs.fasta 0 > /mnt/f/Documents/Bioinformatics_Institute/Semester_project/results_ctrl_sig_seqs.fasta.transdecoder_dir/base_freqs.dat
