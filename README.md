@@ -12,7 +12,7 @@ Identify the entire spectrum of genes that could potentially regulate the morpho
 
 ## Materials and methods
 Samples of intact growth tips and tips treated with a cWnt activator have been sequenced by our colleagues, who also assembled transcriptomes for each sample. Reference transcriptome was assembled in our laboratory previously [1].
-Transcriptomes of treated and untreated samples of were analyzed using the FastQC program with default parameters [2]. Next, we used the kallisto program [3] to pseudoalign the transcriptome of each sample to a reference and produce pseudocounts, and then the DESeq2 package [4] to analyze differential expression. Pseudocounts were normalized using the DESeq function; D. pumila GAPDH [5] was used as a control gene when estimating size factors. Next, we selected transcripts with significant change in expression, converted nucleotide sequencies to protein ones using Transdecoder [6] and annotated obtained sequencies using the KofamKOALA web service [7].
+Transcriptomes of treated and untreated samples of were analyzed using the FastQC program with default parameters [2]. Next, we used the kallisto program [3] to pseudoalign the transcriptome of each sample to a reference and produce pseudocounts, and then the DESeq2 package [4] to analyze differential expression. Pseudocounts were normalized using the DESeq function; *D. pumila* GAPDH [5] was used as a control gene when estimating size factors. Next, we selected transcripts with significant change in expression, converted nucleotide sequencies to protein ones using Transdecoder [6] and annotated obtained sequencies using the KofamKOALA web service [7].
 
 Project workflow with code and output files is available in the current repository inside [`code`](https://github.com/angrygeese/DynamenaProject_BI2023-24/tree/main/code) directory. To reproduce workflow first install required libraries using `requirements.txt` or `environment.yml`; there are two verions of both files, with `win` and `unix` prefixes, as research was carried out both on Windows 10 and Ubuntu 22.04. Then follow workflow described in `Lab_journal_stas_project.ipynb`. 
 
@@ -20,15 +20,15 @@ Project workflow with code and output files is available in the current reposito
 Code presented in `%%bash` or `%%cmd` tagged cells of this notebook should be executed in system terminal from root directory of the repository.**
 
 ## Results
-We identified $123445$ differentially expressed transcripts, 5196 (4.21%) of them show significant change in expression (Fig. 1).
+We identified $123445$ differentially expressed transcripts, $5196$ ($4.21\%$) of them show significant change in expression (Fig. 1).
 An upregulation in expression was observed for most transcripts (Fig. 1, orange and red dots) while little part showed downregulation in expression (Fig. 1, blue and green dots).
 
 <img src="data_folder/processed_data/4.Expression_count/kallisto/dynamena_volcano.png" alt="drawing" width="720"/>
 
 *Fig. 1* Change in gene expression after hyperactivation of cWnt signaling pathway
 
-Selected transcripts most often corresponded to genes of members of the MAPK signaling pathway. We also found that some of the transcripts correspond to the genes of the Notch signaling pathway: Notch-family ligands and their transmembrane receptors, Delta. An upregulation in expression was observed for most transcripts (5085) while little part showed downregulation in expression (101). 
-We then 100 transcripts with an upregulation and 100 with a downregulation in expression, converted nucleotide sequencies to protein ones using Transdecoder and annotated them using the KofamKOALA web service. Transcripts with downregulation in expression predominantly corresponded to genes of different types of collagens. They also include members of Notch signaling pathway. Among the transcripts with upregulation in expression, we identified members of cWnt pathway genes.
+Selected transcripts most often corresponded to genes of members of the MAPK signaling pathway. We also found that some of the transcripts correspond to the genes of the Notch signaling pathway: Notch-family ligands and their transmembrane receptors, Delta. An upregulation in expression was observed for most transcripts ($5085$) while little part showed downregulation in expression ($101$). 
+We then $100$ transcripts with an upregulation and $100$ with a downregulation in expression, converted nucleotide sequencies to protein ones using Transdecoder and annotated them using the KofamKOALA web service. Transcripts with downregulation in expression predominantly corresponded to genes of different types of collagens. They also include members of Notch signaling pathway. Among the transcripts with upregulation in expression, we identified members of cWnt pathway genes.
 
 ## References
 1.	Kupaeva D., Konorov E., Kremnyov S. De novo transcriptome sequencing of the thecate colonial hydrozoan, Dynamena pumila // Mar Genomics. Elsevier, 2020. Vol. 51. P. 100726.
