@@ -1,3 +1,0 @@
-Building DAG of jobs...
-MissingRuleException:
-No rule to produce raw_data/control/control-1.fastq (if you use input functions make sure that they don't raise unexpected exceptions).
