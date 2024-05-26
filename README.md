@@ -20,7 +20,7 @@ Project workflow with code and output files is available in the current reposito
 Code presented in `%%bash` or `%%cmd` tagged cells of this notebook should be executed in system terminal from root directory of the repository.**
 
 ## Results
-We identified $123445$ differentially expressed transcripts, $5196$ ($4.21\%$) of them show significant change in expression (Fig. 1).
+We identified $123445$ differentially expressed transcripts, $5196$ ($4.21$%) of them show significant change in expression (Fig. 1).
 An upregulation in expression was observed for most transcripts (Fig. 1, orange and red dots) while little part showed downregulation in expression (Fig. 1, blue and green dots).
 
 <img src="data_folder/processed_data/4.Expression_count/kallisto/dynamena_volcano.png" alt="drawing" width="720"/>
