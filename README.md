@@ -16,8 +16,9 @@ Transcriptomes of treated and untreated samples of were analyzed using the FastQ
 
 Project workflow with code and output files is available in the current repository inside [`code`](https://github.com/angrygeese/DynamenaProject_BI2023-24/tree/main/code) directory. To reproduce workflow first install required libraries using `requirements.txt` or `environment.yml`; there are two verions of both files, with `win` and `unix` prefixes, as research was carried out both on Windows 10 and Ubuntu 22.04. Then follow workflow described in `Lab_journal_stas_project.ipynb`. 
 
-> **To run R/Pyton code from notebook do not forget to set working directoty in '0. Getting started' → 'Set working directory for notebook' section.  
-Code presented in `%%bash` or `%%cmd` tagged cells of this notebook should be executed in system terminal from root directory of the repository.**
+> **To run R/Python code from notebook do not forget to set working directoty in '0. Getting started' → 'Set working directory for notebook' section.  
+In order to run cells with `%%R` magic, system enviroment variables should contain `R_HOME` variable holding path to desired R interpreter.  
+Code presented in `%%bash` or `%%cmd` magic-tagged cells of this notebook should be executed in system terminal from root directory of the repository.**
 
 ## Results
 We identified $123445$ differentially expressed transcripts, $5196$ ($4.21$%) of them show significant change in expression (Fig. 1).
